@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:28.493227Z
+last_change = 2026-09-10T18:38:37.008774Z
 addr = 0xc62170
 size = 0x89b
-name = "sub_180C63170"
+name = "CSkeletonInstance_PostDataUpdate"
+type = "int"
 
 [header]
-name = "sub_180C63170"
+name = "CSkeletonInstance_PostDataUpdate"
 addr = 0xc62170
+type = "int"
 
 [header.args]

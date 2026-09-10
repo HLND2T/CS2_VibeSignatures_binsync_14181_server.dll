@@ -1,10 +1,10 @@
-last_change = 2026-09-10T06:55:03.519598Z
+last_change = 2026-09-10T18:38:12.904621Z
 addr = 0x159e60
 size = 0x3
-name = "nullsub_2424"
+name = "IGameSystem_OnPostSpawnGroupUnload"
 
 [header]
-name = "nullsub_2424"
+name = "IGameSystem_OnPostSpawnGroupUnload"
 addr = 0x159e60
 
 [header.args]

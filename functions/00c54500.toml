@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520326Z
+last_change = 2026-09-10T18:38:12.906201Z
 addr = 0xc54500
 size = 0x23a
-name = "sub_180C55500"
+name = "ClientPrintToController"
+type = "void"
 
 [header]
-name = "sub_180C55500"
+name = "ClientPrintToController"
 addr = 0xc54500
+type = "void"
 
 [header.args]

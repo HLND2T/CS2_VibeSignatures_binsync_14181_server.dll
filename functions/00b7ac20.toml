@@ -1,10 +1,10 @@
-last_change = 2026-09-10T06:55:03.520150Z
+last_change = 2026-09-10T18:38:12.905797Z
 addr = 0xb7ac20
 size = 0x253
-name = "sub_180B7BC20"
+name = "RegisterEventListener_Abstract"
 
 [header]
-name = "sub_180B7BC20"
+name = "RegisterEventListener_Abstract"
 addr = 0xb7ac20
 
 [header.args]

@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.519748Z
+last_change = 2026-09-10T18:38:12.904948Z
 addr = 0x3d2420
 size = 0x3be
-name = "sub_1803D3420"
+name = "CBaseEntity_SpawnRadius"
+type = "void"
 
 [header]
-name = "sub_1803D3420"
+name = "CBaseEntity_SpawnRadius"
 addr = 0x3d2420
+type = "void"
 
 [header.args]

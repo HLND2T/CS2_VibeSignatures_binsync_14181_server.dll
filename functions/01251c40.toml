@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520715Z
+last_change = 2026-09-10T18:38:43.985038Z
 addr = 0x1251c40
 size = 0x1f
-name = "sub_181252C40"
+name = "RegisterSchemaTypeOverride_CEntityHandle"
+type = "long long"
 
 [header]
-name = "sub_181252C40"
+name = "RegisterSchemaTypeOverride_CEntityHandle"
 addr = 0x1251c40
+type = "long long"
 
 [header.args]

@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520211Z
+last_change = 2026-09-10T18:38:12.905929Z
 addr = 0xbc9a80
 size = 0x3
-name = "nullsub_3089"
+name = "CEntitySystem_OnEntityParentChanged"
+type = "void"
 
 [header]
-name = "nullsub_3089"
+name = "CEntitySystem_OnEntityParentChanged"
 addr = 0xbc9a80
+type = "void"
 
 [header.args]

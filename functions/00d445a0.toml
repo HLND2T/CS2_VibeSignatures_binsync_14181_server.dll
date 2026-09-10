@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520495Z
+last_change = 2026-09-10T18:38:12.906566Z
 addr = 0xd445a0
 size = 0xd5
-name = "sub_180D455A0"
+name = "CSource2Server_OnHostNameChanged"
+type = "long long"
 
 [header]
-name = "sub_180D455A0"
+name = "CSource2Server_OnHostNameChanged"
 addr = 0xd445a0
+type = "long long"
 
 [header.args]

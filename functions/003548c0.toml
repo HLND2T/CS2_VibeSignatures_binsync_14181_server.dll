@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.519730Z
+last_change = 2026-09-10T18:38:12.904910Z
 addr = 0x3548c0
 size = 0x49d
-name = "sub_1803558C0"
+name = "CHostage_DropHostage"
+type = "double"
 
 [header]
-name = "sub_1803558C0"
+name = "CHostage_DropHostage"
 addr = 0x3548c0
+type = "double"
 
 [header.args]

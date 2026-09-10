@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520216Z
+last_change = 2026-09-10T18:38:12.905938Z
 addr = 0xbcc090
 size = 0x210
-name = "sub_180BCD090"
+name = "CGameSceneNode_PostDataUpdate"
+type = "char"
 
 [header]
-name = "sub_180BCD090"
+name = "CGameSceneNode_PostDataUpdate"
 addr = 0xbcc090
+type = "char"
 
 [header.args]

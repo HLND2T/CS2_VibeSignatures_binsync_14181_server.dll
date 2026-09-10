@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520648Z
+last_change = 2026-09-10T18:38:12.906832Z
 addr = 0xecd510
 size = 0x9e
-name = "sub_180ECE510"
+name = "UTIL_ClientPrintAll"
+type = "long long"
 
 [header]
-name = "sub_180ECE510"
+name = "UTIL_ClientPrintAll"
 addr = 0xecd510
+type = "long long"
 
 [header.args]

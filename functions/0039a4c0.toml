@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.519733Z
+last_change = 2026-09-10T18:38:12.904915Z
 addr = 0x39a4c0
 size = 0x483
-name = "sub_18039B4C0"
+name = "CFlashbangProjectile_Detonate"
+type = "long long"
 
 [header]
-name = "sub_18039B4C0"
+name = "CFlashbangProjectile_Detonate"
 addr = 0x39a4c0
+type = "long long"
 
 [header.args]

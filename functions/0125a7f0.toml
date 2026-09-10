@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520741Z
+last_change = 2026-09-10T18:38:44.535872Z
 addr = 0x125a7f0
 size = 0x25a
-name = "sub_18125B7F0"
+name = "CEntitySystem_SetInPVS"
+type = "void"
 
 [header]
-name = "sub_18125B7F0"
+name = "CEntitySystem_SetInPVS"
 addr = 0x125a7f0
+type = "void"
 
 [header.args]

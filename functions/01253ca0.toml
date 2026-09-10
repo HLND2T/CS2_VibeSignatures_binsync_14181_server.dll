@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520719Z
+last_change = 2026-09-10T18:38:12.907004Z
 addr = 0x1253ca0
 size = 0x9c
-name = "sub_181254CA0"
+name = "CEntitySystem_InvokePrecacheCallback"
+type = "long long"
 
 [header]
-name = "sub_181254CA0"
+name = "CEntitySystem_InvokePrecacheCallback"
 addr = 0x1253ca0
+type = "long long"
 
 [header.args]

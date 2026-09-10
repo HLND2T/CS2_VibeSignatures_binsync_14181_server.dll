@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520766Z
+last_change = 2026-09-10T18:38:45.088266Z
 addr = 0x126c5d0
 size = 0x1c3
-name = "sub_18126D5D0"
+name = "CBaseEntity_ReloadPrivateScripts"
+type = "void"
 
 [header]
-name = "sub_18126D5D0"
+name = "CBaseEntity_ReloadPrivateScripts"
 addr = 0x126c5d0
+type = "void"
 
 [header.args]

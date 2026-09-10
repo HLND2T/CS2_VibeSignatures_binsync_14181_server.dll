@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.519628Z
+last_change = 2026-09-10T18:38:12.904689Z
 addr = 0x1b6bc0
 size = 0xf9
-name = "sub_1801B7BC0"
+name = "CSource2Server_GetMatchmakingGameData"
+type = "unsigned int"
 
 [header]
-name = "sub_1801B7BC0"
+name = "CSource2Server_GetMatchmakingGameData"
 addr = 0x1b6bc0
+type = "unsigned int"
 
 [header.args]

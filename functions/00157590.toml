@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.519569Z
+last_change = 2026-09-10T18:38:23.278586Z
 addr = 0x157590
 size = 0x142
-name = "sub_180158590"
+name = "CBaseEntity_NetworkStateChanged"
+type = "void *"
 
 [header]
-name = "sub_180158590"
+name = "CBaseEntity_NetworkStateChanged"
 addr = 0x157590
+type = "void *"
 
 [header.args]

@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520550Z
+last_change = 2026-09-10T18:38:12.906624Z
 addr = 0xd4da20
 size = 0x1f5
-name = "sub_180D4EA20"
+name = "CSource2GameClients_ClientFullyConnect"
+type = "void"
 
 [header]
-name = "sub_180D4EA20"
+name = "CSource2GameClients_ClientFullyConnect"
 addr = 0xd4da20
+type = "void"
 
 [header.args]

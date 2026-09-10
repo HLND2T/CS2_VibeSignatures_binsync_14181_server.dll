@@ -1,10 +1,10 @@
-last_change = 2026-09-10T06:55:03.519558Z
+last_change = 2026-09-10T18:38:12.904532Z
 addr = 0x151900
 size = 0x3
-name = "nullsub_2364"
+name = "IGameSystem_OnServerPreEntityThink"
 
 [header]
-name = "nullsub_2364"
+name = "IGameSystem_OnServerPreEntityThink"
 addr = 0x151900
 
 [header.args]

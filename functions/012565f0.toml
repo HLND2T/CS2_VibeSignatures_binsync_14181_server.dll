@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520739Z
+last_change = 2026-09-10T18:38:12.907068Z
 addr = 0x12565f0
 size = 0x21f
-name = "sub_1812575F0"
+name = "CEntitySystem_RemoveEntityFromNameMap"
+type = "unsigned long long"
 
 [header]
-name = "sub_1812575F0"
+name = "CEntitySystem_RemoveEntityFromNameMap"
 addr = 0x12565f0
+type = "unsigned long long"
 
 [header.args]

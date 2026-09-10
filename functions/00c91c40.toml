@@ -1,10 +1,10 @@
-last_change = 2026-09-10T06:55:03.520383Z
+last_change = 2026-09-10T18:38:12.906318Z
 addr = 0xc91c40
 size = 0x90
-name = "sub_180C92C40"
+name = "CBaseEntity_GetScriptOwnerEntity"
 
 [header]
-name = "sub_180C92C40"
+name = "CBaseEntity_GetScriptOwnerEntity"
 addr = 0xc91c40
 
 [header.args]

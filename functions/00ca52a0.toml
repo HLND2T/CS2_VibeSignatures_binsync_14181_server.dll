@@ -1,10 +1,10 @@
-last_change = 2026-09-10T06:55:03.520406Z
+last_change = 2026-09-10T18:38:12.906368Z
 addr = 0xca52a0
 size = 0x29
-name = "sub_180CA62A0"
+name = "CBaseEntity_ScriptGetMass"
 
 [header]
-name = "sub_180CA62A0"
+name = "CBaseEntity_ScriptGetMass"
 addr = 0xca52a0
 
 [header.args]

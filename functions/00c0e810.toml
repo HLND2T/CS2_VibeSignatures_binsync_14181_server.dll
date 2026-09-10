@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520308Z
+last_change = 2026-09-10T18:38:12.906165Z
 addr = 0xc0e810
 size = 0xc7
-name = "sub_180C0F810"
+name = "CLoopModeGame_SetGameSystemState"
+type = "void"
 
 [header]
-name = "sub_180C0F810"
+name = "CLoopModeGame_SetGameSystemState"
 addr = 0xc0e810
+type = "void"
 
 [header.args]

@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:27.480259Z
+last_change = 2026-09-10T18:38:36.068842Z
 addr = 0xc08170
 size = 0x12eb
-name = "sub_180C09170"
+name = "CLoopModeGame_LoopInit"
+type = "char"
 
 [header]
-name = "sub_180C09170"
+name = "CLoopModeGame_LoopInit"
 addr = 0xc08170
+type = "char"
 
 [header.args]

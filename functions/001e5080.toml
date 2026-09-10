@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.519654Z
+last_change = 2026-09-10T18:38:12.904744Z
 addr = 0x1e5080
 size = 0xad4
-name = "sub_1801E6080"
+name = "CCSPlayerPawn_ProcessSuicideAsKillReward"
+type = "void"
 
 [header]
-name = "sub_1801E6080"
+name = "CCSPlayerPawn_ProcessSuicideAsKillReward"
 addr = 0x1e5080
+type = "void"
 
 [header.args]

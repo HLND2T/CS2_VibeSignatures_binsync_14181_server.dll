@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520345Z
+last_change = 2026-09-10T18:38:12.906242Z
 addr = 0xc744b0
 size = 0x1dd
-name = "sub_180C754B0"
+name = "CEntFireOutputAutoCompletionFunctor_FireOutput"
+type = "long long"
 
 [header]
-name = "sub_180C754B0"
+name = "CEntFireOutputAutoCompletionFunctor_FireOutput"
 addr = 0xc744b0
+type = "long long"
 
 [header.args]

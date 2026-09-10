@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.519972Z
+last_change = 2026-09-10T18:38:30.498855Z
 addr = 0x9819a0
 size = 0x416
-name = "sub_1809829A0"
+name = "SmokeVolume_BuildSmokeSimulation"
+type = "long long"
 
 [header]
-name = "sub_1809829A0"
+name = "SmokeVolume_BuildSmokeSimulation"
 addr = 0x9819a0
+type = "long long"
 
 [header.args]

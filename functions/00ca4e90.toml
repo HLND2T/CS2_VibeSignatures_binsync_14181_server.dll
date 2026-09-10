@@ -1,10 +1,10 @@
-last_change = 2026-09-10T06:55:03.520400Z
+last_change = 2026-09-10T18:38:12.906354Z
 addr = 0xca4e90
 size = 0x3a
-name = "sub_180CA5E90"
+name = "CBaseEntity_ScriptGetBoundingMins"
 
 [header]
-name = "sub_180CA5E90"
+name = "CBaseEntity_ScriptGetBoundingMins"
 addr = 0xca4e90
 
 [header.args]

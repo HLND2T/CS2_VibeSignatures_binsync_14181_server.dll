@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:16.068985Z
+last_change = 2026-09-10T18:38:24.977931Z
 addr = 0x268540
 size = 0x2de
-name = "sub_180269540"
+name = "ScriptBinding_Entity_SetEntityName"
+type = "void"
 
 [header]
-name = "sub_180269540"
+name = "ScriptBinding_Entity_SetEntityName"
 addr = 0x268540
+type = "void"
 
 [header.args]

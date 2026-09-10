@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520693Z
+last_change = 2026-09-10T18:38:12.906941Z
 addr = 0x124d890
 size = 0x2f6
-name = "sub_18124E890"
+name = "CEntitySystem_ExecuteQueuedActivates"
+type = "int"
 
 [header]
-name = "sub_18124E890"
+name = "CEntitySystem_ExecuteQueuedActivates"
 addr = 0x124d890
+type = "int"
 
 [header.args]

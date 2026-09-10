@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520777Z
+last_change = 2026-09-10T18:38:45.383489Z
 addr = 0x126e020
 size = 0x433
-name = "sub_18126F020"
+name = "CEntityIdentity_AcceptInputInternal"
+type = "char"
 
 [header]
-name = "sub_18126F020"
+name = "CEntityIdentity_AcceptInputInternal"
 addr = 0x126e020
+type = "char"
 
 [header.args]

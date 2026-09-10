@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520711Z
+last_change = 2026-09-10T18:38:43.899506Z
 addr = 0x1250e30
 size = 0x5d9
-name = "sub_181251E30"
+name = "CEntitySystem_HelperExecuteQueuedSpawn"
+type = "int"
 
 [header]
-name = "sub_181251E30"
+name = "CEntitySystem_HelperExecuteQueuedSpawn"
 addr = 0x1250e30
+type = "int"
 
 [header.args]

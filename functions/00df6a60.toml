@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520627Z
+last_change = 2026-09-10T18:38:12.906789Z
 addr = 0xdf6a60
 size = 0x3b
-name = "sub_180DF7A60"
+name = "CPhysBox_Use"
+type = "long long"
 
 [header]
-name = "sub_180DF7A60"
+name = "CPhysBox_Use"
 addr = 0xdf6a60
+type = "long long"
 
 [header.args]

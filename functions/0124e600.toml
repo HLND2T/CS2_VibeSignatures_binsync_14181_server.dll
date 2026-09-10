@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520699Z
+last_change = 2026-09-10T18:38:43.598329Z
 addr = 0x124e600
 size = 0x35c
-name = "sub_18124F600"
+name = "CEntitySystem_ExecuteQueuedPostDataUpdateAndActivates"
+type = "int"
 
 [header]
-name = "sub_18124F600"
+name = "CEntitySystem_ExecuteQueuedPostDataUpdateAndActivates"
 addr = 0x124e600
+type = "int"
 
 [header.args]

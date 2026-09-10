@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:26.816590Z
+last_change = 2026-09-10T18:38:35.388129Z
 addr = 0xbe4fd0
 size = 0x4bd
-name = "sub_180BE5FD0"
+name = "TraceShape"
+type = "bool"
 
 [header]
-name = "sub_180BE5FD0"
+name = "TraceShape"
 addr = 0xbe4fd0
+type = "bool"
 
 [header.args]

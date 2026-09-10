@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.519851Z
+last_change = 2026-09-10T18:38:12.905154Z
 addr = 0x5a4a00
 size = 0x1d7
-name = "sub_1805A5A00"
+name = "CSpawnGroupMgrGameSystem_UnloadSpawnGroup"
+type = "void"
 
 [header]
-name = "sub_1805A5A00"
+name = "CSpawnGroupMgrGameSystem_UnloadSpawnGroup"
 addr = 0x5a4a00
+type = "void"
 
 [header.args]

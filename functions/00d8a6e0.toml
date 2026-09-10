@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520589Z
+last_change = 2026-09-10T18:38:41.341251Z
 addr = 0xd8a6e0
 size = 0x195
-name = "sub_180D8B6E0"
+name = "CMultiplayRules_ctor"
+type = "unsigned long long *"
 
 [header]
-name = "sub_180D8B6E0"
+name = "CMultiplayRules_ctor"
 addr = 0xd8a6e0
+type = "unsigned long long *"
 
 [header.args]

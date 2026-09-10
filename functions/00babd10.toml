@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520191Z
+last_change = 2026-09-10T18:38:34.408738Z
 addr = 0xbabd10
 size = 0x158
-name = "sub_180BACD10"
+name = "CEntitySaveRestoreBlockHandler_DoRestoreEntity"
+type = "bool"
 
 [header]
-name = "sub_180BACD10"
+name = "CEntitySaveRestoreBlockHandler_DoRestoreEntity"
 addr = 0xbabd10
+type = "bool"
 
 [header.args]

@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520762Z
+last_change = 2026-09-10T18:38:12.907128Z
 addr = 0x126c050
 size = 0x5
-name = "sub_18126D050"
+name = "CEntityInstance_GetScriptDesc"
+type = "long long"
 
 [header]
-name = "sub_18126D050"
+name = "CEntityInstance_GetScriptDesc"
 addr = 0x126c050
+type = "long long"
 
 [header.args]

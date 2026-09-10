@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520577Z
+last_change = 2026-09-10T18:38:12.906682Z
 addr = 0xd59690
 size = 0x1e3
-name = "sub_180D5A690"
+name = "CSource2GameClients_SendHLTVStatusMessage"
+type = "long long"
 
 [header]
-name = "sub_180D5A690"
+name = "CSource2GameClients_SendHLTVStatusMessage"
 addr = 0xd59690
+type = "long long"
 
 [header.args]

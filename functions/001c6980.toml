@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:15.404508Z
+last_change = 2026-09-10T18:38:24.327856Z
 addr = 0x1c6980
 size = 0x111
-name = "sub_1801C7980"
+name = "CUtlVectorEmbeddedNetworkVar_CSPerRoundStats_t_NetworkVar_m_perRoundStats_SetCount"
+type = "long long"
 
 [header]
-name = "sub_1801C7980"
+name = "CUtlVectorEmbeddedNetworkVar_CSPerRoundStats_t_NetworkVar_m_perRoundStats_SetCount"
 addr = 0x1c6980
+type = "long long"
 
 [header.args]

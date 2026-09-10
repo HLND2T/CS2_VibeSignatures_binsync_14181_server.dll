@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520531Z
+last_change = 2026-09-10T18:38:12.906585Z
 addr = 0xd45790
 size = 0x14b
-name = "sub_180D46790"
+name = "CSource2Server_BroadcastServerFrameTime"
+type = "long long"
 
 [header]
-name = "sub_180D46790"
+name = "CSource2Server_BroadcastServerFrameTime"
 addr = 0xd45790
+type = "long long"
 
 [header.args]

@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520372Z
+last_change = 2026-09-10T18:38:37.648073Z
 addr = 0xc8ae20
 size = 0x17
-name = "sub_180C8BE20"
+name = "CBasePlayerPawn_DropActivePlayerWeapon"
+type = "long long"
 
 [header]
-name = "sub_180C8BE20"
+name = "CBasePlayerPawn_DropActivePlayerWeapon"
 addr = 0xc8ae20
+type = "long long"
 
 [header.args]

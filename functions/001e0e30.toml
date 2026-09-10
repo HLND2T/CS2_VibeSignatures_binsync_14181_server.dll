@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.519646Z
+last_change = 2026-09-10T18:38:12.904728Z
 addr = 0x1e0e30
 size = 0x4d7
-name = "sub_1801E1E30"
+name = "CNetworkUtlVectorEmbedded_NetworkStateChanged_m_perRoundStats"
+type = "void"
 
 [header]
-name = "sub_1801E1E30"
+name = "CNetworkUtlVectorEmbedded_NetworkStateChanged_m_perRoundStats"
 addr = 0x1e0e30
+type = "void"
 
 [header.args]

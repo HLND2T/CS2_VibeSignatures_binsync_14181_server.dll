@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520704Z
+last_change = 2026-09-10T18:38:43.769624Z
 addr = 0x124f2e0
 size = 0x6e
-name = "sub_1812502E0"
+name = "CEntitySystem_FindComponentTypeByName"
+type = "long long"
 
 [header]
-name = "sub_1812502E0"
+name = "CEntitySystem_FindComponentTypeByName"
 addr = 0x124f2e0
+type = "long long"
 
 [header.args]

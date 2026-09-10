@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520153Z
+last_change = 2026-09-10T18:38:12.905802Z
 addr = 0xb81b00
 size = 0x5
-name = "sub_180B82B00"
+name = "CGameSystemReallocatingFactory_CSource2EntitySystem_Init"
+type = "char"
 
 [header]
-name = "sub_180B82B00"
+name = "CGameSystemReallocatingFactory_CSource2EntitySystem_Init"
 addr = 0xb81b00
+type = "char"
 
 [header.args]

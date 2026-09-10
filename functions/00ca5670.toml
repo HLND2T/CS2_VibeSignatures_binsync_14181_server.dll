@@ -1,10 +1,10 @@
-last_change = 2026-09-10T06:55:03.520425Z
+last_change = 2026-09-10T18:38:12.906411Z
 addr = 0xca5670
 size = 0x5e
-name = "sub_180CA6670"
+name = "CBaseEntity_ScriptSoundDuration"
 
 [header]
-name = "sub_180CA6670"
+name = "CBaseEntity_ScriptSoundDuration"
 addr = 0xca5670
 
 [header.args]

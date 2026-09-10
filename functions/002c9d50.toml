@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.519698Z
+last_change = 2026-09-10T18:38:12.904837Z
 addr = 0x2c9d50
 size = 0x15
-name = "sub_1802CAD50"
+name = "CCSBot_InhibitLookAround"
+type = "void *"
 
 [header]
-name = "sub_1802CAD50"
+name = "CCSBot_InhibitLookAround"
 addr = 0x2c9d50
+type = "void *"
 
 [header.args]

@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520688Z
+last_change = 2026-09-10T18:38:43.379521Z
 addr = 0x124c100
 size = 0x1b5
-name = "sub_18124D100"
+name = "CEntitySystem_DestroyEntityImmediate"
+type = "void"
 
 [header]
-name = "sub_18124D100"
+name = "CEntitySystem_DestroyEntityImmediate"
 addr = 0x124c100
+type = "void"
 
 [header.args]

@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520305Z
+last_change = 2026-09-10T18:38:12.906159Z
 addr = 0xc0d6a0
 size = 0x11
-name = "sub_180C0E6A0"
+name = "CLoopModeGame_RegisterEventMap"
+type = "long long"
 
 [header]
-name = "sub_180C0E6A0"
+name = "CLoopModeGame_RegisterEventMap"
 addr = 0xc0d6a0
+type = "long long"
 
 [header.args]

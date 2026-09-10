@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520017Z
+last_change = 2026-09-10T18:38:12.905516Z
 addr = 0xa82160
 size = 0x735
-name = "sub_180A83160"
+name = "GiveNamedItem"
+type = "long long"
 
 [header]
-name = "sub_180A83160"
+name = "GiveNamedItem"
 addr = 0xa82160
+type = "long long"
 
 [header.args]

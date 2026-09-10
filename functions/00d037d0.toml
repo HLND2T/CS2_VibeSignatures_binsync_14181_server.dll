@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520452Z
+last_change = 2026-09-10T18:38:12.906467Z
 addr = 0xd037d0
 size = 0x58
-name = "sub_180D047D0"
+name = "CBreakable_DamageDecal"
+type = "unsigned long long *"
 
 [header]
-name = "sub_180D047D0"
+name = "CBreakable_DamageDecal"
 addr = 0xd037d0
+type = "unsigned long long *"
 
 [header.args]

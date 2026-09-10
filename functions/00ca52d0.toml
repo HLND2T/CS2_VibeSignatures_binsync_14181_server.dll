@@ -1,10 +1,10 @@
-last_change = 2026-09-10T06:55:03.520408Z
+last_change = 2026-09-10T18:38:12.906372Z
 addr = 0xca52d0
 size = 0x3c
-name = "sub_180CA62D0"
+name = "CBaseEntity_ScriptGetMoveParent"
 
 [header]
-name = "sub_180CA62D0"
+name = "CBaseEntity_ScriptGetMoveParent"
 addr = 0xca52d0
 
 [header.args]

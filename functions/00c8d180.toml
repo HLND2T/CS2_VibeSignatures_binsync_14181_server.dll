@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520375Z
+last_change = 2026-09-10T18:38:12.906300Z
 addr = 0xc8d180
 size = 0x189
-name = "sub_180C8E180"
+name = "CBaseCombatCharacter_OnKilled"
+type = "char"
 
 [header]
-name = "sub_180C8E180"
+name = "CBaseCombatCharacter_OnKilled"
 addr = 0xc8d180
+type = "char"
 
 [header.args]

@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.519750Z
+last_change = 2026-09-10T18:38:12.904954Z
 addr = 0x3d6ca0
 size = 0x2c5
-name = "sub_1803D7CA0"
+name = "CBaseEntity_ModifyOrAppendCriteria"
+type = "long long"
 
 [header]
-name = "sub_1803D7CA0"
+name = "CBaseEntity_ModifyOrAppendCriteria"
 addr = 0x3d6ca0
+type = "long long"
 
 [header.args]

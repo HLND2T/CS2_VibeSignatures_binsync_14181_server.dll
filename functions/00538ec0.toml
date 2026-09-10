@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.519805Z
+last_change = 2026-09-10T18:38:27.338275Z
 addr = 0x538ec0
 size = 0x3c3
-name = "sub_180539EC0"
+name = "CBodyGameSystem_SpawnDependencyIsland"
+type = "int"
 
 [header]
-name = "sub_180539EC0"
+name = "CBodyGameSystem_SpawnDependencyIsland"
 addr = 0x538ec0
+type = "int"
 
 [header.args]

@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520318Z
+last_change = 2026-09-10T18:38:36.752500Z
 addr = 0xc29480
 size = 0x4fb
-name = "sub_180C2A480"
+name = "CCSPlayer_MovementServices_ProcessMovement"
+type = "long long"
 
 [header]
-name = "sub_180C2A480"
+name = "CCSPlayer_MovementServices_ProcessMovement"
 addr = 0xc29480
+type = "long long"
 
 [header.args]

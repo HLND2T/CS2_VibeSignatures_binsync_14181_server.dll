@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520194Z
+last_change = 2026-09-10T18:38:12.905890Z
 addr = 0xbb21c0
 size = 0x417
-name = "sub_180BB31C0"
+name = "CGameEntitySystem_CheckGlobalState"
+type = "void"
 
 [header]
-name = "sub_180BB31C0"
+name = "CGameEntitySystem_CheckGlobalState"
 addr = 0xbb21c0
+type = "void"
 
 [header.args]

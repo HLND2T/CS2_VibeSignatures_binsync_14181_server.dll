@@ -1,10 +1,10 @@
-last_change = 2026-09-10T06:55:03.519915Z
+last_change = 2026-09-10T18:38:12.905301Z
 addr = 0x61b650
 size = 0x5
-name = "sub_18061C650"
+name = "CBaseModelEntity_ScriptSetBodygroupByName"
 
 [header]
-name = "sub_18061C650"
+name = "CBaseModelEntity_ScriptSetBodygroupByName"
 addr = 0x61b650
 
 [header.args]

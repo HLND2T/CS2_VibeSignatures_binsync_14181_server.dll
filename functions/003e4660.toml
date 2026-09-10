@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.519779Z
+last_change = 2026-09-10T18:38:26.827503Z
 addr = 0x3e4660
 size = 0x745
-name = "sub_1803E5660"
+name = "CBaseEntity_TakeDamageOld"
+type = "unsigned long long"
 
 [header]
-name = "sub_1803E5660"
+name = "CBaseEntity_TakeDamageOld"
 addr = 0x3e4660
+type = "unsigned long long"
 
 [header.args]

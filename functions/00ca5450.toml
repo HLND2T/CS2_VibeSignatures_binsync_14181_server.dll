@@ -1,10 +1,10 @@
-last_change = 2026-09-10T06:55:03.520417Z
+last_change = 2026-09-10T18:38:12.906394Z
 addr = 0xca5450
 size = 0x9
-name = "sub_180CA6450"
+name = "CBaseEntity_ScriptSetEntityName"
 
 [header]
-name = "sub_180CA6450"
+name = "CBaseEntity_ScriptSetEntityName"
 addr = 0xca5450
 
 [header.args]

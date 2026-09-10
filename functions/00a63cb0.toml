@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520012Z
+last_change = 2026-09-10T18:38:12.905506Z
 addr = 0xa63cb0
 size = 0x125
-name = "sub_180A64CB0"
+name = "CCSPlayerController_Respawn"
+type = "long long"
 
 [header]
-name = "sub_180A64CB0"
+name = "CCSPlayerController_Respawn"
 addr = 0xa63cb0
+type = "long long"
 
 [header.args]

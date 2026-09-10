@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520675Z
+last_change = 2026-09-10T18:38:12.906895Z
 addr = 0x1248070
 size = 0x483
-name = "sub_181249070"
+name = "CConcreteEntityList_AllocEntity"
+type = "unsigned long long"
 
 [header]
-name = "sub_181249070"
+name = "CConcreteEntityList_AllocEntity"
 addr = 0x1248070
+type = "unsigned long long"
 
 [header.args]

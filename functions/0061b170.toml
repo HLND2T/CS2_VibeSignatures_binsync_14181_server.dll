@@ -1,10 +1,10 @@
-last_change = 2026-09-10T06:55:03.519896Z
+last_change = 2026-09-10T18:38:12.905257Z
 addr = 0x61b170
 size = 0x3c
-name = "sub_18061C170"
+name = "CBaseModelEntity_ScriptGetRenderColor"
 
 [header]
-name = "sub_18061C170"
+name = "CBaseModelEntity_ScriptGetRenderColor"
 addr = 0x61b170
 
 [header.args]

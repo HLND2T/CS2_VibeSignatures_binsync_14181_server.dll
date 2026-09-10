@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520544Z
+last_change = 2026-09-10T18:38:12.906609Z
 addr = 0xd4ce60
 size = 0xbb
-name = "sub_180D4DE60"
+name = "CSource2GameClients_ClientConnect"
+type = "char"
 
 [header]
-name = "sub_180D4DE60"
+name = "CSource2GameClients_ClientConnect"
 addr = 0xd4ce60
+type = "char"
 
 [header.args]

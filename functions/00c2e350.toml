@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520320Z
+last_change = 2026-09-10T18:38:12.906190Z
 addr = 0xc2e350
 size = 0x440
-name = "sub_180C2F350"
+name = "CPlayer_MovementServices_PlayWaterStepSound"
+type = "long long"
 
 [header]
-name = "sub_180C2F350"
+name = "CPlayer_MovementServices_PlayWaterStepSound"
 addr = 0xc2e350
+type = "long long"
 
 [header.args]

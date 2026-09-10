@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520236Z
+last_change = 2026-09-10T18:38:12.905981Z
 addr = 0xbe0e30
 size = 0xe89
-name = "sub_180BE1E30"
+name = "CGameSceneNode_PostSpawnKeyValues"
+type = "char"
 
 [header]
-name = "sub_180BE1E30"
+name = "CGameSceneNode_PostSpawnKeyValues"
 addr = 0xbe0e30
+type = "char"
 
 [header.args]

@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520177Z
+last_change = 2026-09-10T18:38:12.905854Z
 addr = 0xb94160
 size = 0x1dd
-name = "sub_180B95160"
+name = "CGameEntitySystem_ctor"
+type = "long long"
 
 [header]
-name = "sub_180B95160"
+name = "CGameEntitySystem_ctor"
 addr = 0xb94160
+type = "long long"
 
 [header.args]

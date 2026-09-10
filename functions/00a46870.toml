@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.519995Z
+last_change = 2026-09-10T18:38:12.905470Z
 addr = 0xa46870
 size = 0x28a
-name = "sub_180A47870"
+name = "WeaponBuy"
+type = "long long"
 
 [header]
-name = "sub_180A47870"
+name = "WeaponBuy"
 addr = 0xa46870
+type = "long long"
 
 [header.args]

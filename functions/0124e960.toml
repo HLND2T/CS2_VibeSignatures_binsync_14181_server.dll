@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520700Z
+last_change = 2026-09-10T18:38:43.641934Z
 addr = 0x124e960
 size = 0x36b
-name = "sub_18124F960"
+name = "CEntitySystem_ExecuteQueuedSetInPVS"
+type = "void"
 
 [header]
-name = "sub_18124F960"
+name = "CEntitySystem_ExecuteQueuedSetInPVS"
 addr = 0x124e960
+type = "void"
 
 [header.args]

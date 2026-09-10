@@ -1,10 +1,10 @@
-last_change = 2026-09-10T06:55:03.519943Z
+last_change = 2026-09-10T18:38:12.905369Z
 addr = 0x61b930
 size = 0x8
-name = "sub_18061C930"
+name = "CBaseEntity_Script_GetTeamNumber"
 
 [header]
-name = "sub_18061C930"
+name = "CBaseEntity_Script_GetTeamNumber"
 addr = 0x61b930
 
 [header.args]

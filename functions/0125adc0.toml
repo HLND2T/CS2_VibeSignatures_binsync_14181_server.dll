@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520743Z
+last_change = 2026-09-10T18:38:12.907079Z
 addr = 0x125adc0
 size = 0x347
-name = "sub_18125BDC0"
+name = "CEntitySystem_Spawn"
+type = "long long"
 
 [header]
-name = "sub_18125BDC0"
+name = "CEntitySystem_Spawn"
 addr = 0x125adc0
+type = "long long"
 
 [header.args]

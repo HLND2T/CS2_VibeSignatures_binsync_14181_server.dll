@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520245Z
+last_change = 2026-09-10T18:38:35.431288Z
 addr = 0xbe6420
 size = 0x71
-name = "sub_180BE7420"
+name = "UTIL_PrecacheOther"
+type = "long long"
 
 [header]
-name = "sub_180BE7420"
+name = "UTIL_PrecacheOther"
 addr = 0xbe6420
+type = "long long"
 
 [header.args]

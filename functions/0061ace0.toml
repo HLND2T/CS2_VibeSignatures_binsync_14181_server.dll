@@ -1,10 +1,10 @@
-last_change = 2026-09-10T06:55:03.519872Z
+last_change = 2026-09-10T18:38:12.905198Z
 addr = 0x61ace0
 size = 0x33
-name = "sub_18061BCE0"
+name = "CBaseEntity_ScriptEyePosition"
 
 [header]
-name = "sub_18061BCE0"
+name = "CBaseEntity_ScriptEyePosition"
 addr = 0x61ace0
 
 [header.args]

@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:22.187206Z
+last_change = 2026-09-10T18:38:30.925598Z
 addr = 0xa47350
 size = 0xb67
-name = "sub_180A48350"
+name = "CBasePlayerController_HandleCommand_JoinTeam"
+type = "char"
 
 [header]
-name = "sub_180A48350"
+name = "CBasePlayerController_HandleCommand_JoinTeam"
 addr = 0xa47350
+type = "char"
 
 [header.args]

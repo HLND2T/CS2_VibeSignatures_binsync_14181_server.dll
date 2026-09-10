@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520296Z
+last_change = 2026-09-10T18:38:12.906139Z
 addr = 0xc0bc80
 size = 0x325
-name = "sub_180C0CC80"
+name = "CLoopModeGame_OnServerEndAsyncPostTickWork"
+type = "_UNKNOWN **"
 
 [header]
-name = "sub_180C0CC80"
+name = "CLoopModeGame_OnServerEndAsyncPostTickWork"
 addr = 0xc0bc80
+type = "_UNKNOWN **"
 
 [header.args]

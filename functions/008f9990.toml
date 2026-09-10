@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.519957Z
+last_change = 2026-09-10T18:38:12.905394Z
 addr = 0x8f9990
 size = 0x439
-name = "sub_1808FA990"
+name = "CCSGameRules_BeginRound"
+type = "long long"
 
 [header]
-name = "sub_1808FA990"
+name = "CCSGameRules_BeginRound"
 addr = 0x8f9990
+type = "long long"
 
 [header.args]

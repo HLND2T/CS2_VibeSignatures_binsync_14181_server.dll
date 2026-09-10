@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520484Z
+last_change = 2026-09-10T18:38:12.906541Z
 addr = 0xd44190
 size = 0x19
-name = "sub_180D45190"
+name = "CSource2Server_ShouldTimeoutClient"
+type = "char"
 
 [header]
-name = "sub_180D45190"
+name = "CSource2Server_ShouldTimeoutClient"
 addr = 0xd44190
+type = "char"
 
 [header.args]

@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520336Z
+last_change = 2026-09-10T18:38:12.906221Z
 addr = 0xc68300
 size = 0x1ea
-name = "sub_180C69300"
+name = "UTIL_ClientPrintFilter"
+type = "long long"
 
 [header]
-name = "sub_180C69300"
+name = "UTIL_ClientPrintFilter"
 addr = 0xc68300
+type = "long long"
 
 [header.args]

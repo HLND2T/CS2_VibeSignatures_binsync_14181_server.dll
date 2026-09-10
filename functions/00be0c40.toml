@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520231Z
+last_change = 2026-09-10T18:38:12.905972Z
 addr = 0xbe0c40
 size = 0x5e
-name = "sub_180BE1C40"
+name = "CGameEntitySystem_SortEntities"
+type = "long long"
 
 [header]
-name = "sub_180BE1C40"
+name = "CGameEntitySystem_SortEntities"
 addr = 0xbe0c40
+type = "long long"
 
 [header.args]

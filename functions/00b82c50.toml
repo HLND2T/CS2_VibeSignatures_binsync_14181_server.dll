@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520159Z
+last_change = 2026-09-10T18:38:12.905817Z
 addr = 0xb82c50
 size = 0x2e4
-name = "sub_180B83C50"
+name = "CEntitySaveRestoreBlockHandler_WriteSaveHeaders"
+type = "long long"
 
 [header]
-name = "sub_180B83C50"
+name = "CEntitySaveRestoreBlockHandler_WriteSaveHeaders"
 addr = 0xb82c50
+type = "long long"
 
 [header.args]

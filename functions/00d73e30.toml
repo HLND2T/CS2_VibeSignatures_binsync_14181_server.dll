@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520585Z
+last_change = 2026-09-10T18:38:12.906697Z
 addr = 0xd73e30
 size = 0xd3
-name = "sub_180D74E30"
+name = "CGamePlayerEquip_InputTriggerForActivatedPlayer"
+type = "void"
 
 [header]
-name = "sub_180D74E30"
+name = "CGamePlayerEquip_InputTriggerForActivatedPlayer"
 addr = 0xd73e30
+type = "void"
 
 [header.args]

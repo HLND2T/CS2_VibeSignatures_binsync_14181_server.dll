@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520442Z
+last_change = 2026-09-10T18:38:12.906448Z
 addr = 0xcb1710
 size = 0x42
-name = "sub_180CB2710"
+name = "CBaseEntity_Use"
+type = "long long"
 
 [header]
-name = "sub_180CB2710"
+name = "CBaseEntity_Use"
 addr = 0xcb1710
+type = "long long"
 
 [header.args]

@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520641Z
+last_change = 2026-09-10T18:38:12.906818Z
 addr = 0xeb35b0
 size = 0x160
-name = "sub_180EB45B0"
+name = "FireTargets"
+type = "void"
 
 [header]
-name = "sub_180EB45B0"
+name = "FireTargets"
 addr = 0xeb35b0
+type = "void"
 
 [header.args]

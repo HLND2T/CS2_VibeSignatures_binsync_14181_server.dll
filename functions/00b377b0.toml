@@ -1,10 +1,10 @@
-last_change = 2026-09-10T06:55:03.520127Z
+last_change = 2026-09-10T18:38:12.905749Z
 addr = 0xb377b0
 size = 0x2f
-name = "sub_180B387B0"
+name = "CBaseModelEntity_ScriptLookupAttachment"
 
 [header]
-name = "sub_180B387B0"
+name = "CBaseModelEntity_ScriptLookupAttachment"
 addr = 0xb377b0
 
 [header.args]

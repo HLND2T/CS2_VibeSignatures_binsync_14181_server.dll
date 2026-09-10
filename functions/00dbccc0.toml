@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520604Z
+last_change = 2026-09-10T18:38:12.906737Z
 addr = 0xdbccc0
 size = 0xd9
-name = "sub_180DBDCC0"
+name = "CPhysicsEntitySolver_PhysEnableEntityCollisions"
+type = "int"
 
 [header]
-name = "sub_180DBDCC0"
+name = "CPhysicsEntitySolver_PhysEnableEntityCollisions"
 addr = 0xdbccc0
+type = "int"
 
 [header.args]

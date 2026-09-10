@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520601Z
+last_change = 2026-09-10T18:38:12.906732Z
 addr = 0xdb55e0
 size = 0x33b
-name = "sub_180DB65E0"
+name = "CBaseEntity_SetGroundEntity"
+type = "long long"
 
 [header]
-name = "sub_180DB65E0"
+name = "CBaseEntity_SetGroundEntity"
 addr = 0xdb55e0
+type = "long long"
 
 [header.args]

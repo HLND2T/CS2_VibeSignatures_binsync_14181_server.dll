@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.519833Z
+last_change = 2026-09-10T18:38:12.905130Z
 addr = 0x59eb90
 size = 0x504
-name = "sub_18059FB90"
+name = "CSpawnGroupMgrGameSystem_SpawnGroupActuallyShutdown"
+type = "void"
 
 [header]
-name = "sub_18059FB90"
+name = "CSpawnGroupMgrGameSystem_SpawnGroupActuallyShutdown"
 addr = 0x59eb90
+type = "void"
 
 [header.args]

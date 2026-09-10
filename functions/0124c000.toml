@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520686Z
+last_change = 2026-09-10T18:38:43.294739Z
 addr = 0x124c000
 size = 0xdb
-name = "sub_18124D000"
+name = "CEntitySystem_DestroyEntity"
+type = "long long"
 
 [header]
-name = "sub_18124D000"
+name = "CEntitySystem_DestroyEntity"
 addr = 0x124c000
+type = "long long"
 
 [header.args]

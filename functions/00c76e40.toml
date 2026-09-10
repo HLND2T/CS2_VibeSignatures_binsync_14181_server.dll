@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:28.757327Z
+last_change = 2026-09-10T18:38:37.264396Z
 addr = 0xc76e40
 size = 0x84d
-name = "sub_180C77E40"
+name = "CBaseEntity_ctor"
+type = "long long"
 
 [header]
-name = "sub_180C77E40"
+name = "CBaseEntity_ctor"
 addr = 0xc76e40
+type = "long long"
 
 [header.args]

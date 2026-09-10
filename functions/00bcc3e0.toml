@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520218Z
+last_change = 2026-09-10T18:38:12.905943Z
 addr = 0xbcc3e0
 size = 0x223
-name = "sub_180BCD3E0"
+name = "CGameSceneNode_PreInstanceSpawn"
+type = "void"
 
 [header]
-name = "sub_180BCD3E0"
+name = "CGameSceneNode_PreInstanceSpawn"
 addr = 0xbcc3e0
+type = "void"
 
 [header.args]

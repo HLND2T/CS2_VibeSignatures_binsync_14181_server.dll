@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520555Z
+last_change = 2026-09-10T18:38:12.906634Z
 addr = 0xd4ded0
 size = 0x2ac
-name = "sub_180D4EED0"
+name = "CGameRules_ClientSettingsChanged"
+type = "long long"
 
 [header]
-name = "sub_180D4EED0"
+name = "CGameRules_ClientSettingsChanged"
 addr = 0xd4ded0
+type = "long long"
 
 [header.args]

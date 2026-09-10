@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.519691Z
+last_change = 2026-09-10T18:38:12.904821Z
 addr = 0x2b7f60
 size = 0x705
-name = "sub_1802B8F60"
+name = "CCSBotManager_BotPlaceCommand"
+type = "char"
 
 [header]
-name = "sub_1802B8F60"
+name = "CCSBotManager_BotPlaceCommand"
 addr = 0x2b7f60
+type = "char"
 
 [header.args]

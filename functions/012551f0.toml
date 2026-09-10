@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520725Z
+last_change = 2026-09-10T18:38:12.907017Z
 addr = 0x12551f0
 size = 0x4f
-name = "sub_1812561F0"
+name = "CEntitySystem_OnSetDormant"
+type = "long long"
 
 [header]
-name = "sub_1812561F0"
+name = "CEntitySystem_OnSetDormant"
 addr = 0x12551f0
+type = "long long"
 
 [header.args]

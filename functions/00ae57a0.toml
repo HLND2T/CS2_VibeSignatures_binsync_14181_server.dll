@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520071Z
+last_change = 2026-09-10T18:38:32.201113Z
 addr = 0xae57a0
 size = 0xa23
-name = "sub_180AE67A0"
+name = "CCSPlayer_WeaponServices_PickupItem"
+type = "long long"
 
 [header]
-name = "sub_180AE67A0"
+name = "CCSPlayer_WeaponServices_PickupItem"
 addr = 0xae57a0
+type = "long long"
 
 [header.args]

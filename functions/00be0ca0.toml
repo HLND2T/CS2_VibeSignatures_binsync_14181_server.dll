@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520234Z
+last_change = 2026-09-10T18:38:12.905976Z
 addr = 0xbe0ca0
 size = 0x18d
-name = "sub_180BE1CA0"
+name = "CGameEntitySystem_Spawn"
+type = "long long"
 
 [header]
-name = "sub_180BE1CA0"
+name = "CGameEntitySystem_Spawn"
 addr = 0xbe0ca0
+type = "long long"
 
 [header.args]

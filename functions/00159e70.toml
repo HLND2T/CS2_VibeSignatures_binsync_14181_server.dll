@@ -1,10 +1,10 @@
-last_change = 2026-09-10T06:55:03.519600Z
+last_change = 2026-09-10T18:38:12.904626Z
 addr = 0x159e70
 size = 0x3
-name = "nullsub_2425"
+name = "IGameSystem_OnServerPreClientUpdate"
 
 [header]
-name = "nullsub_2425"
+name = "IGameSystem_OnServerPreClientUpdate"
 addr = 0x159e70
 
 [header.args]

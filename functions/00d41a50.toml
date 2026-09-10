@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520461Z
+last_change = 2026-09-10T18:38:12.906488Z
 addr = 0xd41a50
 size = 0x76
-name = "sub_180D42A50"
+name = "CGameRulesGameSystem_OnGameInit"
+type = "long long"
 
 [header]
-name = "sub_180D42A50"
+name = "CGameRulesGameSystem_OnGameInit"
 addr = 0xd41a50
+type = "long long"
 
 [header.args]

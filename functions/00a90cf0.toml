@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520034Z
+last_change = 2026-09-10T18:38:31.602240Z
 addr = 0xa90cf0
 size = 0x7e1
-name = "sub_180A91CF0"
+name = "CCSPlayer_ItemServices_GiveDefaultItems"
+type = "void"
 
 [header]
-name = "sub_180A91CF0"
+name = "CCSPlayer_ItemServices_GiveDefaultItems"
 addr = 0xa90cf0
+type = "void"
 
 [header.args]

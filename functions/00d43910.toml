@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:31.396520Z
+last_change = 2026-09-10T18:38:39.813013Z
 addr = 0xd43910
 size = 0xbb
-name = "sub_180D44910"
+name = "CSource2Server_GetLevelsFromSaveFile"
+type = "void"
 
 [header]
-name = "sub_180D44910"
+name = "CSource2Server_GetLevelsFromSaveFile"
 addr = 0xd43910
+type = "void"
 
 [header.args]

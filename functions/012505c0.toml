@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520708Z
+last_change = 2026-09-10T18:38:12.906977Z
 addr = 0x12505c0
 size = 0x37e
-name = "sub_1812515C0"
+name = "CConcreteEntityList_FreeEntity"
+type = "long long"
 
 [header]
-name = "sub_1812515C0"
+name = "CConcreteEntityList_FreeEntity"
 addr = 0x12505c0
+type = "long long"
 
 [header.args]

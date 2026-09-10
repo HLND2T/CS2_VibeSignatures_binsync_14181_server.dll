@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.519798Z
+last_change = 2026-09-10T18:38:12.905057Z
 addr = 0x529880
 size = 0x181
-name = "sub_18052A880"
+name = "IGameSystem_LoopDestroyAllSystems"
+type = "void"
 
 [header]
-name = "sub_18052A880"
+name = "IGameSystem_LoopDestroyAllSystems"
 addr = 0x529880
+type = "void"
 
 [header.args]

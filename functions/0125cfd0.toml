@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520745Z
+last_change = 2026-09-10T18:38:12.907083Z
 addr = 0x125cfd0
 size = 0x130
-name = "sub_18125DFD0"
+name = "CEntitySystem_UpdateOnRemove"
+type = "char"
 
 [header]
-name = "sub_18125DFD0"
+name = "CEntitySystem_UpdateOnRemove"
 addr = 0x125cfd0
+type = "char"
 
 [header.args]

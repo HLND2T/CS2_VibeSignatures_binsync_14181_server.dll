@@ -1,10 +1,10 @@
-last_change = 2026-09-10T06:55:03.519881Z
+last_change = 2026-09-10T18:38:12.905221Z
 addr = 0x61b060
 size = 0x17
-name = "sub_18061C060"
+name = "CBaseEntity_ScriptGetForward"
 
 [header]
-name = "sub_18061C060"
+name = "CBaseEntity_ScriptGetForward"
 addr = 0x61b060
 
 [header.args]

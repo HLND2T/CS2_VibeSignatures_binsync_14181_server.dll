@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.519626Z
+last_change = 2026-09-10T18:38:12.904683Z
 addr = 0x1b3630
 size = 0x921
-name = "sub_1801B4630"
+name = "CSource2Server_ApplyGameSettings"
+type = "void"
 
 [header]
-name = "sub_1801B4630"
+name = "CSource2Server_ApplyGameSettings"
 addr = 0x1b3630
+type = "void"
 
 [header.args]

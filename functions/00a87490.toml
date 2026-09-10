@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520027Z
+last_change = 2026-09-10T18:38:12.905536Z
 addr = 0xa87490
 size = 0x80b
-name = "sub_180A88490"
+name = "CCSPlayer_MovementServices_CheckVelocity"
+type = "char"
 
 [header]
-name = "sub_180A88490"
+name = "CCSPlayer_MovementServices_CheckVelocity"
 addr = 0xa87490
+type = "char"
 
 [header.args]

@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520614Z
+last_change = 2026-09-10T18:38:12.906761Z
 addr = 0xdd55b0
 size = 0x1e3
-name = "sub_180DD65B0"
+name = "CPlayerCommandQueue_ctor"
+type = "long long"
 
 [header]
-name = "sub_180DD65B0"
+name = "CPlayerCommandQueue_ctor"
 addr = 0xdd55b0
+type = "long long"
 
 [header.args]

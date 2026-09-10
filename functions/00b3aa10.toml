@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520143Z
+last_change = 2026-09-10T18:38:12.905782Z
 addr = 0xb3aa10
 size = 0x3f
-name = "sub_180B3BA10"
+name = "CBasePlayerController_SetPlayerName"
+type = "long long"
 
 [header]
-name = "sub_180B3BA10"
+name = "CBasePlayerController_SetPlayerName"
 addr = 0xb3aa10
+type = "long long"
 
 [header.args]

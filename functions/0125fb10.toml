@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520749Z
+last_change = 2026-09-10T18:38:44.705841Z
 addr = 0x125fb10
 size = 0xa2
-name = "sub_181260B10"
+name = "CEntityKeyValues_Initialized"
+type = "long long"
 
 [header]
-name = "sub_181260B10"
+name = "CEntityKeyValues_Initialized"
 addr = 0x125fb10
+type = "long long"
 
 [header.args]

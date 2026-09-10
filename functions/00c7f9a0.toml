@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520368Z
+last_change = 2026-09-10T18:38:37.603512Z
 addr = 0xc7f9a0
 size = 0x121
-name = "sub_180C809A0"
+name = "FireTarget_CommandHandler"
+type = "void"
 
 [header]
-name = "sub_180C809A0"
+name = "FireTarget_CommandHandler"
 addr = 0xc7f9a0
+type = "void"
 
 [header.args]

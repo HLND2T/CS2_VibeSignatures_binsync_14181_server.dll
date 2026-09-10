@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520031Z
+last_change = 2026-09-10T18:38:12.905547Z
 addr = 0xa8ccf0
 size = 0x12a5
-name = "sub_180A8DCF0"
+name = "FindUseEntity"
+type = "unsigned long long *"
 
 [header]
-name = "sub_180A8DCF0"
+name = "FindUseEntity"
 addr = 0xa8ccf0
+type = "unsigned long long *"
 
 [header.args]

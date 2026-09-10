@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.519757Z
+last_change = 2026-09-10T18:38:12.904970Z
 addr = 0x3db2c0
 size = 0x1b1
-name = "sub_1803DC2C0"
+name = "CBaseEntity_Precache"
+type = "long long"
 
 [header]
-name = "sub_1803DC2C0"
+name = "CBaseEntity_Precache"
 addr = 0x3db2c0
+type = "long long"
 
 [header.args]

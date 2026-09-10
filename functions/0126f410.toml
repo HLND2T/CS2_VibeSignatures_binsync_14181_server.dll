@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520783Z
+last_change = 2026-09-10T18:38:12.907182Z
 addr = 0x126f410
 size = 0x12d
-name = "sub_181270410"
+name = "CEntityIdentity_SetEntityName"
+type = "long long"
 
 [header]
-name = "sub_181270410"
+name = "CEntityIdentity_SetEntityName"
 addr = 0x126f410
+type = "long long"
 
 [header.args]

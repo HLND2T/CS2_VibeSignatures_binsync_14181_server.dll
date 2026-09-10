@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520273Z
+last_change = 2026-09-10T18:38:12.906087Z
 addr = 0xbff470
 size = 0x478
-name = "sub_180C00470"
+name = "CLoopModeGame_RegisterEventMapInternal"
+type = "long long"
 
 [header]
-name = "sub_180C00470"
+name = "CLoopModeGame_RegisterEventMapInternal"
 addr = 0xbff470
+type = "long long"
 
 [header.args]

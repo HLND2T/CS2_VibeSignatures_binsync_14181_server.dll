@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520290Z
+last_change = 2026-09-10T18:38:12.906124Z
 addr = 0xc0b990
 size = 0xd0
-name = "sub_180C0C990"
+name = "CLoopModeGame_OnServerAdvanceTick"
+type = "long long"
 
 [header]
-name = "sub_180C0C990"
+name = "CLoopModeGame_OnServerAdvanceTick"
 addr = 0xc0b990
+type = "long long"
 
 [header.args]

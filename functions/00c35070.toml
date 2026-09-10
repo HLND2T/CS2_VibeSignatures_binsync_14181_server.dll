@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520323Z
+last_change = 2026-09-10T18:38:12.906195Z
 addr = 0xc35070
 size = 0xfd
-name = "sub_180C36070"
+name = "CCSPlayer_WeaponServices_Weapon_GetSlot"
+type = "long long"
 
 [header]
-name = "sub_180C36070"
+name = "CCSPlayer_WeaponServices_Weapon_GetSlot"
 addr = 0xc35070
+type = "long long"
 
 [header.args]

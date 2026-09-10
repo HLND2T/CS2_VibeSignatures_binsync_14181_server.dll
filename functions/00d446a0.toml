@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520497Z
+last_change = 2026-09-10T18:38:12.906570Z
 addr = 0xd446a0
 size = 0xd6
-name = "sub_180D456A0"
+name = "CSource2Server_UpdateWhenNotInGame"
+type = "long long"
 
 [header]
-name = "sub_180D456A0"
+name = "CSource2Server_UpdateWhenNotInGame"
 addr = 0xd446a0
+type = "long long"
 
 [header.args]

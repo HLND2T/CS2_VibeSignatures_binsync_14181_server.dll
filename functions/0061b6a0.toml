@@ -1,10 +1,10 @@
-last_change = 2026-09-10T06:55:03.519919Z
+last_change = 2026-09-10T18:38:12.905310Z
 addr = 0x61b6a0
 size = 0x24
-name = "sub_18061C6A0"
+name = "CBaseEntity_ScriptSetLocalAngles"
 
 [header]
-name = "sub_18061C6A0"
+name = "CBaseEntity_ScriptSetLocalAngles"
 addr = 0x61b6a0
 
 [header.args]

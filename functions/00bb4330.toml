@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520198Z
+last_change = 2026-09-10T18:38:12.905900Z
 addr = 0xbb4330
 size = 0xe4
-name = "sub_180BB5330"
+name = "CGameEntitySystem_FindEntityByName"
+type = "long long"
 
 [header]
-name = "sub_180BB5330"
+name = "CGameEntitySystem_FindEntityByName"
 addr = 0xbb4330
+type = "long long"
 
 [header.args]

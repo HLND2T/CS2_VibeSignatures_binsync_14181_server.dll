@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520005Z
+last_change = 2026-09-10T18:38:12.905490Z
 addr = 0xa5ff70
 size = 0x1b1
-name = "sub_180A60F70"
+name = "CCSPlayerController_PlayerForceTeamThink"
+type = "char"
 
 [header]
-name = "sub_180A60F70"
+name = "CCSPlayerController_PlayerForceTeamThink"
 addr = 0xa5ff70
+type = "char"
 
 [header.args]

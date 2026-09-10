@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.519854Z
+last_change = 2026-09-10T18:38:12.905159Z
 addr = 0x5ddb90
 size = 0x5f0e
-name = "sub_1805DEB90"
+name = "CBaseEntity_GetScriptDescInternal"
+type = "long long"
 
 [header]
-name = "sub_1805DEB90"
+name = "CBaseEntity_GetScriptDescInternal"
 addr = 0x5ddb90
+type = "long long"
 
 [header.args]

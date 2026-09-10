@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520606Z
+last_change = 2026-09-10T18:38:41.637170Z
 addr = 0xdbdd20
 size = 0x33
-name = "sub_180DBED20"
+name = "CBaseEntity_VPhysicsEndTouch"
+type = "long long"
 
 [header]
-name = "sub_180DBED20"
+name = "CBaseEntity_VPhysicsEndTouch"
 addr = 0xdbdd20
+type = "long long"
 
 [header.args]

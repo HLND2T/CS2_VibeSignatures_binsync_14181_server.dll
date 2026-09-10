@@ -1,10 +1,10 @@
-last_change = 2026-09-10T06:55:03.520402Z
+last_change = 2026-09-10T18:38:12.906359Z
 addr = 0xca4ed0
 size = 0x15e
-name = "sub_180CA5ED0"
+name = "CBaseEntity_ScriptGetBounds"
 
 [header]
-name = "sub_180CA5ED0"
+name = "CBaseEntity_ScriptGetBounds"
 addr = 0xca4ed0
 
 [header.args]

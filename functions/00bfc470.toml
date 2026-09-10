@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:55:03.520264Z
+last_change = 2026-09-10T18:38:12.906067Z
 addr = 0xbfc470
 size = 0x6b
-name = "sub_180BFD470"
+name = "CLoopModeGame_AddViewsToSceneSystem"
+type = "_OWORD *"
 
 [header]
-name = "sub_180BFD470"
+name = "CLoopModeGame_AddViewsToSceneSystem"
 addr = 0xbfc470
+type = "_OWORD *"
 
 [header.args]
