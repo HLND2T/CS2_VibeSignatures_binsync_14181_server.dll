@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:03.520224Z
+addr = 0xbd8590
+size = 0x2c3
+name = "sub_180BD9590"
+
+[header]
+name = "sub_180BD9590"
+addr = 0xbd8590
+
+[header.args]

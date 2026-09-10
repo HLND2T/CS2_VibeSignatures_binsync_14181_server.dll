@@ -1,0 +1,10 @@
+last_change = 2026-09-10T06:55:03.520700Z
+addr = 0x124e960
+size = 0x36b
+name = "sub_18124F960"
+
+[header]
+name = "sub_18124F960"
+addr = 0x124e960
+
+[header.args]

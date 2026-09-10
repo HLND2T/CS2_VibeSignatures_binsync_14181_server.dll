@@ -1,0 +1,803 @@
+[0x193b630]
+last_change = 2026-09-10T06:55:37.448078Z
+addr = 0x193b630
+name = "off_18193C630"
+size = 0x8
+
+[0x1bf8660]
+last_change = 2026-09-10T06:55:37.448127Z
+addr = 0x1bf8660
+name = "qword_181BF9660"
+size = 0x8
+
+[0x1c1db18]
+last_change = 2026-09-10T06:55:37.448150Z
+addr = 0x1c1db18
+name = "dword_181C1EB18"
+size = 0x4
+
+[0x1c84828]
+last_change = 2026-09-10T06:55:37.448171Z
+addr = 0x1c84828
+name = "off_181C85828"
+size = 0x8
+
+[0x1c84c40]
+last_change = 2026-09-10T06:55:37.448189Z
+addr = 0x1c84c40
+name = "off_181C85C40"
+size = 0x8
+
+[0x1c84e60]
+last_change = 2026-09-10T06:55:37.448207Z
+addr = 0x1c84e60
+name = "off_181C85E60"
+size = 0x8
+
+[0x1dd3780]
+last_change = 2026-09-10T06:55:37.448227Z
+addr = 0x1dd3780
+name = "qword_181DD4780"
+size = 0x8
+
+[0x1de2f28]
+last_change = 2026-09-10T06:55:37.448245Z
+addr = 0x1de2f28
+name = "qword_181DE3F28"
+size = 0x8
+
+[0x1e32828]
+last_change = 2026-09-10T06:55:37.448263Z
+addr = 0x1e32828
+name = "qword_181E33828"
+size = 0x8
+
+[0x1e77de0]
+last_change = 2026-09-10T06:55:37.448282Z
+addr = 0x1e77de0
+name = "qword_181E78DE0"
+size = 0x8
+
+[0x1e77e08]
+last_change = 2026-09-10T06:55:37.448298Z
+addr = 0x1e77e08
+name = "qword_181E78E08"
+size = 0x8
+
+[0x1f99fd0]
+last_change = 2026-09-10T06:55:37.448320Z
+addr = 0x1f99fd0
+name = "unk_181F9AFD0"
+size = 0x1
+
+[0x1fa4f40]
+last_change = 2026-09-10T06:55:37.448338Z
+addr = 0x1fa4f40
+name = "qword_181FA5F40"
+size = 0x8
+
+[0x1ff8dc8]
+last_change = 2026-09-10T06:55:37.448357Z
+addr = 0x1ff8dc8
+name = "qword_181FF9DC8"
+size = 0x8
+
+[0x2002688]
+last_change = 2026-09-10T06:55:37.448374Z
+addr = 0x2002688
+name = "qword_182003688"
+size = 0x8
+
+[0x2019c10]
+last_change = 2026-09-10T06:55:37.448393Z
+addr = 0x2019c10
+name = "qword_18201AC10"
+size = 0x8
+
+[0x201ab30]
+last_change = 2026-09-10T06:55:37.448411Z
+addr = 0x201ab30
+name = "qword_18201BB30"
+size = 0x8
+
+[0x201ab80]
+last_change = 2026-09-10T06:55:37.448427Z
+addr = 0x201ab80
+name = "qword_18201BB80"
+size = 0x8
+
+[0x21695b0]
+last_change = 2026-09-10T06:55:37.448446Z
+addr = 0x21695b0
+name = "qword_18216A5B0"
+size = 0x8
+
+[0x216cb18]
+last_change = 2026-09-10T06:55:37.448462Z
+addr = 0x216cb18
+name = "qword_18216DB18"
+size = 0x8
+
+[0x21805b8]
+last_change = 2026-09-10T06:55:37.448479Z
+addr = 0x21805b8
+name = "qword_1821815B8"
+size = 0x8
+
+[0x21d9930]
+last_change = 2026-09-10T06:55:37.448496Z
+addr = 0x21d9930
+name = "qword_1821DA930"
+size = 0x8
+
+[0x21d9938]
+last_change = 2026-09-10T06:55:37.448515Z
+addr = 0x21d9938
+name = "qword_1821DA938"
+size = 0x8
+
+[0x21d9940]
+last_change = 2026-09-10T06:55:37.448530Z
+addr = 0x21d9940
+name = "qword_1821DA940"
+size = 0x8
+
+[0x21d9948]
+last_change = 2026-09-10T06:55:37.448547Z
+addr = 0x21d9948
+name = "qword_1821DA948"
+size = 0x8
+
+[0x21d9950]
+last_change = 2026-09-10T06:55:37.448563Z
+addr = 0x21d9950
+name = "unk_1821DA950"
+size = 0x1
+
+[0x21d9958]
+last_change = 2026-09-10T06:55:37.448580Z
+addr = 0x21d9958
+name = "unk_1821DA958"
+size = 0x1
+
+[0x21d9960]
+last_change = 2026-09-10T06:55:37.448597Z
+addr = 0x21d9960
+name = "unk_1821DA960"
+size = 0x1
+
+[0x21d9968]
+last_change = 2026-09-10T06:55:37.448612Z
+addr = 0x21d9968
+name = "unk_1821DA968"
+size = 0x1
+
+[0x21d9970]
+last_change = 2026-09-10T06:55:37.448628Z
+addr = 0x21d9970
+name = "unk_1821DA970"
+size = 0x1
+
+[0x21d9978]
+last_change = 2026-09-10T06:55:37.448644Z
+addr = 0x21d9978
+name = "qword_1821DA978"
+size = 0x8
+
+[0x21d9980]
+last_change = 2026-09-10T06:55:37.448660Z
+addr = 0x21d9980
+name = "unk_1821DA980"
+size = 0x1
+
+[0x21d9988]
+last_change = 2026-09-10T06:55:37.448675Z
+addr = 0x21d9988
+name = "qword_1821DA988"
+size = 0x8
+
+[0x21d9990]
+last_change = 2026-09-10T06:55:37.448691Z
+addr = 0x21d9990
+name = "unk_1821DA990"
+size = 0x1
+
+[0x21d9998]
+last_change = 2026-09-10T06:55:37.448706Z
+addr = 0x21d9998
+name = "unk_1821DA998"
+size = 0x1
+
+[0x21d99a0]
+last_change = 2026-09-10T06:55:37.448720Z
+addr = 0x21d99a0
+name = "unk_1821DA9A0"
+size = 0x1
+
+[0x21d99a8]
+last_change = 2026-09-10T06:55:37.448735Z
+addr = 0x21d99a8
+name = "qword_1821DA9A8"
+size = 0x8
+
+[0x21d99b0]
+last_change = 2026-09-10T06:55:37.448750Z
+addr = 0x21d99b0
+name = "unk_1821DA9B0"
+size = 0x1
+
+[0x21d99b8]
+last_change = 2026-09-10T06:55:37.448771Z
+addr = 0x21d99b8
+name = "unk_1821DA9B8"
+size = 0x1
+
+[0x21d99c0]
+last_change = 2026-09-10T06:55:37.448825Z
+addr = 0x21d99c0
+name = "unk_1821DA9C0"
+size = 0x1
+
+[0x21d99c8]
+last_change = 2026-09-10T06:55:37.448849Z
+addr = 0x21d99c8
+name = "unk_1821DA9C8"
+size = 0x1
+
+[0x21d99d0]
+last_change = 2026-09-10T06:55:37.448868Z
+addr = 0x21d99d0
+name = "unk_1821DA9D0"
+size = 0x1
+
+[0x21d99d8]
+last_change = 2026-09-10T06:55:37.448887Z
+addr = 0x21d99d8
+name = "qword_1821DA9D8"
+size = 0x8
+
+[0x21d99e0]
+last_change = 2026-09-10T06:55:37.448907Z
+addr = 0x21d99e0
+name = "unk_1821DA9E0"
+size = 0x1
+
+[0x21d99e8]
+last_change = 2026-09-10T06:55:37.448923Z
+addr = 0x21d99e8
+name = "qword_1821DA9E8"
+size = 0x8
+
+[0x21d99f0]
+last_change = 2026-09-10T06:55:37.448939Z
+addr = 0x21d99f0
+name = "unk_1821DA9F0"
+size = 0x1
+
+[0x21d99f8]
+last_change = 2026-09-10T06:55:37.448955Z
+addr = 0x21d99f8
+name = "unk_1821DA9F8"
+size = 0x1
+
+[0x21d9a00]
+last_change = 2026-09-10T06:55:37.448971Z
+addr = 0x21d9a00
+name = "qword_1821DAA00"
+size = 0x8
+
+[0x21d9a08]
+last_change = 2026-09-10T06:55:37.448988Z
+addr = 0x21d9a08
+name = "unk_1821DAA08"
+size = 0x1
+
+[0x21d9a10]
+last_change = 2026-09-10T06:55:37.449003Z
+addr = 0x21d9a10
+name = "qword_1821DAA10"
+size = 0x8
+
+[0x21d9a18]
+last_change = 2026-09-10T06:55:37.449019Z
+addr = 0x21d9a18
+name = "qword_1821DAA18"
+size = 0x8
+
+[0x21d9a20]
+last_change = 2026-09-10T06:55:37.449035Z
+addr = 0x21d9a20
+name = "qword_1821DAA20"
+size = 0x8
+
+[0x21d9a28]
+last_change = 2026-09-10T06:55:37.449051Z
+addr = 0x21d9a28
+name = "qword_1821DAA28"
+size = 0x8
+
+[0x21d9a30]
+last_change = 2026-09-10T06:55:37.449067Z
+addr = 0x21d9a30
+name = "unk_1821DAA30"
+size = 0x1
+
+[0x21d9a38]
+last_change = 2026-09-10T06:55:37.449083Z
+addr = 0x21d9a38
+name = "qword_1821DAA38"
+size = 0x8
+
+[0x21d9a40]
+last_change = 2026-09-10T06:55:37.449108Z
+addr = 0x21d9a40
+name = "qword_1821DAA40"
+size = 0x8
+
+[0x21d9a48]
+last_change = 2026-09-10T06:55:37.449124Z
+addr = 0x21d9a48
+name = "unk_1821DAA48"
+size = 0x1
+
+[0x21d9a50]
+last_change = 2026-09-10T06:55:37.449141Z
+addr = 0x21d9a50
+name = "qword_1821DAA50"
+size = 0x8
+
+[0x21d9a58]
+last_change = 2026-09-10T06:55:37.449156Z
+addr = 0x21d9a58
+name = "qword_1821DAA58"
+size = 0x8
+
+[0x21d9a60]
+last_change = 2026-09-10T06:55:37.449171Z
+addr = 0x21d9a60
+name = "qword_1821DAA60"
+size = 0x8
+
+[0x21d9a68]
+last_change = 2026-09-10T06:55:37.449186Z
+addr = 0x21d9a68
+name = "unk_1821DAA68"
+size = 0x1
+
+[0x21d9a70]
+last_change = 2026-09-10T06:55:37.449202Z
+addr = 0x21d9a70
+name = "unk_1821DAA70"
+size = 0x1
+
+[0x21d9a78]
+last_change = 2026-09-10T06:55:37.449217Z
+addr = 0x21d9a78
+name = "unk_1821DAA78"
+size = 0x1
+
+[0x21d9a88]
+last_change = 2026-09-10T06:55:37.449232Z
+addr = 0x21d9a88
+name = "unk_1821DAA88"
+size = 0x1
+
+[0x21d9a90]
+last_change = 2026-09-10T06:55:37.449248Z
+addr = 0x21d9a90
+name = "unk_1821DAA90"
+size = 0x1
+
+[0x21d9a98]
+last_change = 2026-09-10T06:55:37.449263Z
+addr = 0x21d9a98
+name = "qword_1821DAA98"
+size = 0x8
+
+[0x21d9aa0]
+last_change = 2026-09-10T06:55:37.449278Z
+addr = 0x21d9aa0
+name = "unk_1821DAAA0"
+size = 0x1
+
+[0x21d9aa8]
+last_change = 2026-09-10T06:55:37.449293Z
+addr = 0x21d9aa8
+name = "qword_1821DAAA8"
+size = 0x8
+
+[0x21d9ab0]
+last_change = 2026-09-10T06:55:37.449307Z
+addr = 0x21d9ab0
+name = "unk_1821DAAB0"
+size = 0x1
+
+[0x21d9ab8]
+last_change = 2026-09-10T06:55:37.449322Z
+addr = 0x21d9ab8
+name = "qword_1821DAAB8"
+size = 0x8
+
+[0x21d9ac0]
+last_change = 2026-09-10T06:55:37.449336Z
+addr = 0x21d9ac0
+name = "unk_1821DAAC0"
+size = 0x1
+
+[0x21d9ac8]
+last_change = 2026-09-10T06:55:37.449351Z
+addr = 0x21d9ac8
+name = "qword_1821DAAC8"
+size = 0x8
+
+[0x21d9ad0]
+last_change = 2026-09-10T06:55:37.449365Z
+addr = 0x21d9ad0
+name = "qword_1821DAAD0"
+size = 0x8
+
+[0x21d9ad8]
+last_change = 2026-09-10T06:55:37.449379Z
+addr = 0x21d9ad8
+name = "qword_1821DAAD8"
+size = 0x8
+
+[0x21d9ae0]
+last_change = 2026-09-10T06:55:37.449395Z
+addr = 0x21d9ae0
+name = "qword_1821DAAE0"
+size = 0x8
+
+[0x21d9ae8]
+last_change = 2026-09-10T06:55:37.449409Z
+addr = 0x21d9ae8
+name = "qword_1821DAAE8"
+size = 0x8
+
+[0x21d9af0]
+last_change = 2026-09-10T06:55:37.449424Z
+addr = 0x21d9af0
+name = "qword_1821DAAF0"
+size = 0x8
+
+[0x21d9af8]
+last_change = 2026-09-10T06:55:37.449438Z
+addr = 0x21d9af8
+name = "qword_1821DAAF8"
+size = 0x8
+
+[0x21d9b00]
+last_change = 2026-09-10T06:55:37.449452Z
+addr = 0x21d9b00
+name = "qword_1821DAB00"
+size = 0x8
+
+[0x21d9b08]
+last_change = 2026-09-10T06:55:37.449467Z
+addr = 0x21d9b08
+name = "unk_1821DAB08"
+size = 0x1
+
+[0x21d9b10]
+last_change = 2026-09-10T06:55:37.449481Z
+addr = 0x21d9b10
+name = "unk_1821DAB10"
+size = 0x1
+
+[0x21d9b18]
+last_change = 2026-09-10T06:55:37.449495Z
+addr = 0x21d9b18
+name = "qword_1821DAB18"
+size = 0x8
+
+[0x21d9b20]
+last_change = 2026-09-10T06:55:37.449510Z
+addr = 0x21d9b20
+name = "unk_1821DAB20"
+size = 0x1
+
+[0x21d9b28]
+last_change = 2026-09-10T06:55:37.449524Z
+addr = 0x21d9b28
+name = "qword_1821DAB28"
+size = 0x8
+
+[0x21d9b30]
+last_change = 2026-09-10T06:55:37.449538Z
+addr = 0x21d9b30
+name = "qword_1821DAB30"
+size = 0x8
+
+[0x21d9b38]
+last_change = 2026-09-10T06:55:37.449552Z
+addr = 0x21d9b38
+name = "qword_1821DAB38"
+size = 0x8
+
+[0x21d9b40]
+last_change = 2026-09-10T06:55:37.449571Z
+addr = 0x21d9b40
+name = "qword_1821DAB40"
+size = 0x8
+
+[0x21d9b48]
+last_change = 2026-09-10T06:55:37.449586Z
+addr = 0x21d9b48
+name = "qword_1821DAB48"
+size = 0x8
+
+[0x21d9b50]
+last_change = 2026-09-10T06:55:37.449601Z
+addr = 0x21d9b50
+name = "unk_1821DAB50"
+size = 0x1
+
+[0x21d9b58]
+last_change = 2026-09-10T06:55:37.449616Z
+addr = 0x21d9b58
+name = "qword_1821DAB58"
+size = 0x8
+
+[0x21d9b60]
+last_change = 2026-09-10T06:55:37.449631Z
+addr = 0x21d9b60
+name = "qword_1821DAB60"
+size = 0x8
+
+[0x21d9b68]
+last_change = 2026-09-10T06:55:37.449646Z
+addr = 0x21d9b68
+name = "unk_1821DAB68"
+size = 0x1
+
+[0x21d9b70]
+last_change = 2026-09-10T06:55:37.449661Z
+addr = 0x21d9b70
+name = "unk_1821DAB70"
+size = 0x1
+
+[0x21d9b78]
+last_change = 2026-09-10T06:55:37.449676Z
+addr = 0x21d9b78
+name = "unk_1821DAB78"
+size = 0x1
+
+[0x21d9b80]
+last_change = 2026-09-10T06:55:37.449691Z
+addr = 0x21d9b80
+name = "unk_1821DAB80"
+size = 0x1
+
+[0x21d9b88]
+last_change = 2026-09-10T06:55:37.449777Z
+addr = 0x21d9b88
+name = "qword_1821DAB88"
+size = 0x8
+
+[0x21d9b90]
+last_change = 2026-09-10T06:55:37.449801Z
+addr = 0x21d9b90
+name = "unk_1821DAB90"
+size = 0x1
+
+[0x21d9b98]
+last_change = 2026-09-10T06:55:37.449817Z
+addr = 0x21d9b98
+name = "unk_1821DAB98"
+size = 0x1
+
+[0x21d9ba0]
+last_change = 2026-09-10T06:55:37.449832Z
+addr = 0x21d9ba0
+name = "unk_1821DABA0"
+size = 0x1
+
+[0x21d9ba8]
+last_change = 2026-09-10T06:55:37.449848Z
+addr = 0x21d9ba8
+name = "unk_1821DABA8"
+size = 0x1
+
+[0x21d9bb0]
+last_change = 2026-09-10T06:55:37.449862Z
+addr = 0x21d9bb0
+name = "unk_1821DABB0"
+size = 0x1
+
+[0x21d9bb8]
+last_change = 2026-09-10T06:55:37.449877Z
+addr = 0x21d9bb8
+name = "unk_1821DABB8"
+size = 0x1
+
+[0x21d9bc0]
+last_change = 2026-09-10T06:55:37.449892Z
+addr = 0x21d9bc0
+name = "qword_1821DABC0"
+size = 0x8
+
+[0x21d9bc8]
+last_change = 2026-09-10T06:55:37.449906Z
+addr = 0x21d9bc8
+name = "qword_1821DABC8"
+size = 0x8
+
+[0x21d9bd0]
+last_change = 2026-09-10T06:55:37.449921Z
+addr = 0x21d9bd0
+name = "unk_1821DABD0"
+size = 0x1
+
+[0x21d9bd8]
+last_change = 2026-09-10T06:55:37.449935Z
+addr = 0x21d9bd8
+name = "unk_1821DABD8"
+size = 0x1
+
+[0x21d9be0]
+last_change = 2026-09-10T06:55:37.449950Z
+addr = 0x21d9be0
+name = "unk_1821DABE0"
+size = 0x1
+
+[0x21d9be8]
+last_change = 2026-09-10T06:55:37.449965Z
+addr = 0x21d9be8
+name = "unk_1821DABE8"
+size = 0x1
+
+[0x21d9bf0]
+last_change = 2026-09-10T06:55:37.449980Z
+addr = 0x21d9bf0
+name = "unk_1821DABF0"
+size = 0x1
+
+[0x21d9bf8]
+last_change = 2026-09-10T06:55:37.449995Z
+addr = 0x21d9bf8
+name = "qword_1821DABF8"
+size = 0x8
+
+[0x21d9c00]
+last_change = 2026-09-10T06:55:37.450010Z
+addr = 0x21d9c00
+name = "unk_1821DAC00"
+size = 0x1
+
+[0x21d9c08]
+last_change = 2026-09-10T06:55:37.450025Z
+addr = 0x21d9c08
+name = "unk_1821DAC08"
+size = 0x1
+
+[0x21d9c10]
+last_change = 2026-09-10T06:55:37.450040Z
+addr = 0x21d9c10
+name = "unk_1821DAC10"
+size = 0x1
+
+[0x21d9c18]
+last_change = 2026-09-10T06:55:37.450054Z
+addr = 0x21d9c18
+name = "qword_1821DAC18"
+size = 0x8
+
+[0x21d9c20]
+last_change = 2026-09-10T06:55:37.450068Z
+addr = 0x21d9c20
+name = "qword_1821DAC20"
+size = 0x8
+
+[0x21d9c28]
+last_change = 2026-09-10T06:55:37.450083Z
+addr = 0x21d9c28
+name = "qword_1821DAC28"
+size = 0x8
+
+[0x21d9c30]
+last_change = 2026-09-10T06:55:37.450097Z
+addr = 0x21d9c30
+name = "qword_1821DAC30"
+size = 0x8
+
+[0x21d9c38]
+last_change = 2026-09-10T06:55:37.450112Z
+addr = 0x21d9c38
+name = "unk_1821DAC38"
+size = 0x1
+
+[0x21d9c40]
+last_change = 2026-09-10T06:55:37.450126Z
+addr = 0x21d9c40
+name = "qword_1821DAC40"
+size = 0x8
+
+[0x21d9c48]
+last_change = 2026-09-10T06:55:37.450141Z
+addr = 0x21d9c48
+name = "unk_1821DAC48"
+size = 0x1
+
+[0x21d9c50]
+last_change = 2026-09-10T06:55:37.450182Z
+addr = 0x21d9c50
+name = "unk_1821DAC50"
+size = 0x1
+
+[0x21d9c58]
+last_change = 2026-09-10T06:55:37.450213Z
+addr = 0x21d9c58
+name = "unk_1821DAC58"
+size = 0x1
+
+[0x21d9c60]
+last_change = 2026-09-10T06:55:37.450232Z
+addr = 0x21d9c60
+name = "qword_1821DAC60"
+size = 0x8
+
+[0x21d9c68]
+last_change = 2026-09-10T06:55:37.450250Z
+addr = 0x21d9c68
+name = "unk_1821DAC68"
+size = 0x1
+
+[0x21d9c70]
+last_change = 2026-09-10T06:55:37.450267Z
+addr = 0x21d9c70
+name = "unk_1821DAC70"
+size = 0x1
+
+[0x21d9c78]
+last_change = 2026-09-10T06:55:37.450284Z
+addr = 0x21d9c78
+name = "qword_1821DAC78"
+size = 0x8
+
+[0x21d9c80]
+last_change = 2026-09-10T06:55:37.450300Z
+addr = 0x21d9c80
+name = "qword_1821DAC80"
+size = 0x8
+
+[0x21d9c88]
+last_change = 2026-09-10T06:55:37.450317Z
+addr = 0x21d9c88
+name = "qword_1821DAC88"
+size = 0x8
+
+[0x21d9c90]
+last_change = 2026-09-10T06:55:37.450333Z
+addr = 0x21d9c90
+name = "unk_1821DAC90"
+size = 0x1
+
+[0x21d9c98]
+last_change = 2026-09-10T06:55:37.450348Z
+addr = 0x21d9c98
+name = "unk_1821DAC98"
+size = 0x1
+
+[0x21d9ca0]
+last_change = 2026-09-10T06:55:37.450364Z
+addr = 0x21d9ca0
+name = "unk_1821DACA0"
+size = 0x1
+
+[0x21d9ca8]
+last_change = 2026-09-10T06:55:37.450379Z
+addr = 0x21d9ca8
+name = "unk_1821DACA8"
+size = 0x1
+
+[0x21d9cc0]
+last_change = 2026-09-10T06:55:37.450394Z
+addr = 0x21d9cc0
+name = "unk_1821DACC0"
+size = 0x1
+
+[0x21d9cc8]
+last_change = 2026-09-10T06:55:37.450409Z
+addr = 0x21d9cc8
+name = "unk_1821DACC8"
+size = 0x1
