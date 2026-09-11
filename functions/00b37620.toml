@@ -1,10 +1,10 @@
-last_change = 2026-09-10T18:38:12.905735Z
+last_change = 2026-09-11T03:34:27.248597Z
 addr = 0xb37620
 size = 0x6b
-name = "CBaseModelEntity_ScriptGetAttachmentAngles"
+name = "sub_180B38620"
 
 [header]
-name = "CBaseModelEntity_ScriptGetAttachmentAngles"
+name = "sub_180B38620"
 addr = 0xb37620
 
 [header.args]

@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:34.789384Z
+last_change = 2026-09-11T03:34:27.248791Z
 addr = 0xbc9500
 size = 0x99
-name = "CGameEntitySystem_OnAddEntity"
-type = "long long"
+name = "sub_180BCA500"
 
 [header]
-name = "CGameEntitySystem_OnAddEntity"
+name = "sub_180BCA500"
 addr = 0xbc9500
-type = "long long"
 
 [header.args]

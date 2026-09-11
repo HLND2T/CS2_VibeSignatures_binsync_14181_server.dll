@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.905531Z
+last_change = 2026-09-11T03:34:27.248369Z
 addr = 0xa866a0
 size = 0x20a
-name = "CCSPlayer_MovementServices_CheckMovingGround"
-type = "long long"
+name = "sub_180A876A0"
 
 [header]
-name = "CCSPlayer_MovementServices_CheckMovingGround"
+name = "sub_180A876A0"
 addr = 0xa866a0
-type = "long long"
 
 [header.args]

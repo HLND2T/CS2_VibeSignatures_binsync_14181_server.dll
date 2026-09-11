@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.906614Z
+last_change = 2026-09-11T03:34:27.249455Z
 addr = 0xd4cf20
 size = 0x766
-name = "CSource2GameClients_ClientDiagnostic"
-type = "long long"
+name = "sub_180D4DF20"
 
 [header]
-name = "CSource2GameClients_ClientDiagnostic"
+name = "sub_180D4DF20"
 addr = 0xd4cf20
-type = "long long"
 
 [header.args]

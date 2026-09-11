@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:39.006842Z
+last_change = 2026-09-11T03:34:27.249284Z
 addr = 0xcab6a0
 size = 0x146
-name = "CBaseEntity_Spawn"
-type = "void"
+name = "sub_180CAC6A0"
 
 [header]
-name = "CBaseEntity_Spawn"
+name = "sub_180CAC6A0"
 addr = 0xcab6a0
-type = "void"
 
 [header.args]

@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.907088Z
+last_change = 2026-09-11T03:34:27.250008Z
 addr = 0x125d4f0
 size = 0x382
-name = "CEntityIOOutput_FireOutputInternal"
-type = "long long"
+name = "sub_18125E4F0"
 
 [header]
-name = "CEntityIOOutput_FireOutputInternal"
+name = "sub_18125E4F0"
 addr = 0x125d4f0
-type = "long long"
 
 [header.args]

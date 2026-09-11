@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.906775Z
+last_change = 2026-09-11T03:34:27.249655Z
 addr = 0xde8f70
 size = 0x10c8
-name = "CPlayerCommandQueue_OnSimulateUserCommands"
-type = "char"
+name = "sub_180DE9F70"
 
 [header]
-name = "CPlayerCommandQueue_OnSimulateUserCommands"
+name = "sub_180DE9F70"
 addr = 0xde8f70
-type = "char"
 
 [header.args]

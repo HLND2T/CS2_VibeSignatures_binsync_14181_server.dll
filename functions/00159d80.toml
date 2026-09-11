@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.904600Z
+last_change = 2026-09-11T03:34:27.247393Z
 addr = 0x159d80
 size = 0x3
-name = "CCSPlayerPawn_OnTakeDamage_Dead"
-type = "void"
+name = "nullsub_2411"
 
 [header]
-name = "CCSPlayerPawn_OnTakeDamage_Dead"
+name = "nullsub_2411"
 addr = 0x159d80
-type = "void"
 
 [header.args]

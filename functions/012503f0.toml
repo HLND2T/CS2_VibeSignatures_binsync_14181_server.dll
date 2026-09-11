@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:43.812170Z
+last_change = 2026-09-11T03:34:27.249908Z
 addr = 0x12503f0
 size = 0x2c
-name = "CEntitySystem_ForceSetInPVSCallsIntoQueue"
-type = "long long"
+name = "sub_1812513F0"
 
 [header]
-name = "CEntitySystem_ForceSetInPVSCallsIntoQueue"
+name = "sub_1812513F0"
 addr = 0x12503f0
-type = "long long"
 
 [header.args]

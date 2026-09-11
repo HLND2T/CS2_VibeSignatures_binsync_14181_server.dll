@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.905562Z
+last_change = 2026-09-11T03:34:27.248394Z
 addr = 0xa91c80
 size = 0x28
-name = "CCSPlayer_ItemServices_GiveNamedItemBool"
-type = "bool"
+name = "sub_180A92C80"
 
 [header]
-name = "CCSPlayer_ItemServices_GiveNamedItemBool"
+name = "sub_180A92C80"
 addr = 0xa91c80
-type = "bool"
 
 [header.args]

@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.904832Z
+last_change = 2026-09-11T03:34:27.247622Z
 addr = 0x2c9850
 size = 0x20
-name = "CCSBot_Idle"
-type = "void *"
+name = "sub_1802CA850"
 
 [header]
-name = "CCSBot_Idle"
+name = "sub_1802CA850"
 addr = 0x2c9850
-type = "void *"
 
 [header.args]

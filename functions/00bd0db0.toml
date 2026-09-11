@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:35.001824Z
+last_change = 2026-09-11T03:34:49.286113Z
 addr = 0xbd0db0
 size = 0x215
-name = "CSpawnGroupEntityFilterRegistrar_RegisterSpawnGroupEntityFilters"
-type = "_UNKNOWN **"
+name = "sub_180BD1DB0"
 
 [header]
-name = "CSpawnGroupEntityFilterRegistrar_RegisterSpawnGroupEntityFilters"
+name = "sub_180BD1DB0"
 addr = 0xbd0db0
-type = "_UNKNOWN **"
 
 [header.args]

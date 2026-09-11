@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:42.993733Z
+last_change = 2026-09-11T03:34:27.249768Z
 addr = 0x12472c0
 size = 0x279
-name = "CEntitySystem_AddEntityToNameMap"
-type = "void"
+name = "sub_1812482C0"
 
 [header]
-name = "CEntitySystem_AddEntityToNameMap"
+name = "sub_1812482C0"
 addr = 0x12472c0
-type = "void"
 
 [header.args]

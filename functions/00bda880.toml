@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:35.129553Z
+last_change = 2026-09-11T03:34:27.248831Z
 addr = 0xbda880
 size = 0x1e0
-name = "CEntitySaveRestoreBlockHandler_SaveInitEntities"
-type = "char"
+name = "sub_180BDB880"
 
 [header]
-name = "CEntitySaveRestoreBlockHandler_SaveInitEntities"
+name = "sub_180BDB880"
 addr = 0xbda880
-type = "char"
 
 [header.args]

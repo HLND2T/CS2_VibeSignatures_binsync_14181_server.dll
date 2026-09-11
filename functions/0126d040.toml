@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:45.173586Z
+last_change = 2026-09-11T03:34:27.250065Z
 addr = 0x126d040
 size = 0xc5
-name = "CEntityInstance_ValidatePrivateScriptScope"
-type = "void"
+name = "sub_18126E040"
 
 [header]
-name = "CEntityInstance_ValidatePrivateScriptScope"
+name = "sub_18126E040"
 addr = 0x126d040
-type = "void"
 
 [header.args]

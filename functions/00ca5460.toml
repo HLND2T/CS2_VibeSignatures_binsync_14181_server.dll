@@ -1,10 +1,10 @@
-last_change = 2026-09-10T18:38:12.906398Z
+last_change = 2026-09-11T03:34:27.249242Z
 addr = 0xca5460
 size = 0x26
-name = "CBaseEntity_ScriptSetLocalAngularVelocity_OBSOLETE"
+name = "sub_180CA6460"
 
 [header]
-name = "CBaseEntity_ScriptSetLocalAngularVelocity_OBSOLETE"
+name = "sub_180CA6460"
 addr = 0xca5460
 
 [header.args]

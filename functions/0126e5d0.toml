@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:45.386263Z
+last_change = 2026-09-11T03:34:27.250088Z
 addr = 0x126e5d0
 size = 0x17a
-name = "CEntityInstance_FindOutputsByName"
-type = "long long"
+name = "sub_18126F5D0"
 
 [header]
-name = "CEntityInstance_FindOutputsByName"
+name = "sub_18126F5D0"
 addr = 0x126e5d0
-type = "long long"
 
 [header.args]

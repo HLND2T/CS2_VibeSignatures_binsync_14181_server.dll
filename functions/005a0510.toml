@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.905149Z
+last_change = 2026-09-11T03:34:27.247973Z
 addr = 0x5a0510
 size = 0x161
-name = "CSpawnGroupMgrGameSystem_SpawnGroupSpawnEntities"
-type = "unsigned int *"
+name = "sub_1805A1510"
 
 [header]
-name = "CSpawnGroupMgrGameSystem_SpawnGroupSpawnEntities"
+name = "sub_1805A1510"
 addr = 0x5a0510
-type = "unsigned int *"
 
 [header.args]

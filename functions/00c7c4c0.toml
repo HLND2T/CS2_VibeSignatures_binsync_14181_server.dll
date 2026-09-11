@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.906279Z
+last_change = 2026-09-11T03:34:27.249115Z
 addr = 0xc7c4c0
 size = 0x3a
-name = "CCSPlayerController_AddedToEntityDatabase"
-type = "long long"
+name = "sub_180C7D4C0"
 
 [header]
-name = "CCSPlayerController_AddedToEntityDatabase"
+name = "sub_180C7D4C0"
 addr = 0xc7c4c0
-type = "long long"
 
 [header.args]

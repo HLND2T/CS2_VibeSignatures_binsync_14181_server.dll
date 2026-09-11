@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.907113Z
+last_change = 2026-09-11T03:34:27.250032Z
 addr = 0x126b290
 size = 0x7
-name = "CEntityInstance_PostDataUpdateDelta"
-type = "long long"
+name = "sub_18126C290"
 
 [header]
-name = "CEntityInstance_PostDataUpdateDelta"
+name = "sub_18126C290"
 addr = 0x126b290
-type = "long long"
 
 [header.args]

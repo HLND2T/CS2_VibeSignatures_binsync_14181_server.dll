@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.905870Z
+last_change = 2026-09-11T03:34:27.248735Z
 addr = 0xba6f90
 size = 0x31
-name = "UTIL_CreateEntityByName"
-type = "long long"
+name = "sub_180BA7F90"
 
 [header]
-name = "UTIL_CreateEntityByName"
+name = "sub_180BA7F90"
 addr = 0xba6f90
-type = "long long"
 
 [header.args]

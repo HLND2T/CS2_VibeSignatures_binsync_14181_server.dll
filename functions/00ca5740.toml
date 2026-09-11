@@ -1,10 +1,10 @@
-last_change = 2026-09-10T18:38:12.906424Z
+last_change = 2026-09-11T03:34:27.249271Z
 addr = 0xca5740
 size = 0x22e
-name = "CBaseEntity_Script_GetChildren"
+name = "sub_180CA6740"
 
 [header]
-name = "CBaseEntity_Script_GetChildren"
+name = "sub_180CA6740"
 addr = 0xca5740
 
 [header.args]

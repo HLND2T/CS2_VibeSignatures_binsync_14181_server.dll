@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:24.848787Z
+last_change = 2026-09-11T03:34:39.119813Z
 addr = 0x1f0920
 size = 0x688
-name = "CDedicatedServerWorkshopManager_SwitchToWorkshopMapGroup"
-type = "long long"
+name = "sub_1801F1920"
 
 [header]
-name = "CDedicatedServerWorkshopManager_SwitchToWorkshopMapGroup"
+name = "sub_1801F1920"
 addr = 0x1f0920
-type = "long long"
 
 [header.args]

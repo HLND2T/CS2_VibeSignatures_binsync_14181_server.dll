@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.906154Z
+last_change = 2026-09-11T03:34:27.248990Z
 addr = 0xc0d1f0
 size = 0x4a1
-name = "CLoopModeGame_ReceivedServerInfo"
-type = "char"
+name = "sub_180C0E1F0"
 
 [header]
-name = "CLoopModeGame_ReceivedServerInfo"
+name = "sub_180C0E1F0"
 addr = 0xc0d1f0
-type = "char"
 
 [header.args]

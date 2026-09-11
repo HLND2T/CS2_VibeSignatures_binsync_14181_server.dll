@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.906702Z
+last_change = 2026-09-11T03:34:27.249579Z
 addr = 0xd73f10
 size = 0x241
-name = "CGamePlayerEquip_InputTriggerForAllPlayers"
-type = "long long"
+name = "sub_180D74F10"
 
 [header]
-name = "CGamePlayerEquip_InputTriggerForAllPlayers"
+name = "sub_180D74F10"
 addr = 0xd73f10
-type = "long long"
 
 [header.args]

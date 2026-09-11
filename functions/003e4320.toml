@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:26.784922Z
+last_change = 2026-09-11T03:34:27.247827Z
 addr = 0x3e4320
 size = 0x225
-name = "CBaseTrigger_StartTouch"
-type = "long long"
+name = "sub_1803E5320"
 
 [header]
-name = "CBaseTrigger_StartTouch"
+name = "sub_1803E5320"
 addr = 0x3e4320
-type = "long long"
 
 [header.args]

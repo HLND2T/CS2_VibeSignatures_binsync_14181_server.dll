@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:30.497090Z
+last_change = 2026-09-11T03:34:27.248256Z
 addr = 0x97e940
 size = 0x393
-name = "SmokeVolume_GetSmokeDensityInLine_Lambda1_operator_call"
-type = "char"
+name = "sub_18097F940"
 
 [header]
-name = "SmokeVolume_GetSmokeDensityInLine_Lambda1_operator_call"
+name = "sub_18097F940"
 addr = 0x97e940
-type = "char"
 
 [header.args]

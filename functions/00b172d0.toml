@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:32.582705Z
+last_change = 2026-09-11T03:34:27.248537Z
 addr = 0xb172d0
 size = 0x27
-name = "CBaseAnimGraph_GetAnimationController"
-type = "long long"
+name = "sub_180B182D0"
 
 [header]
-name = "CBaseAnimGraph_GetAnimationController"
+name = "sub_180B182D0"
 addr = 0xb172d0
-type = "long long"
 
 [header.args]

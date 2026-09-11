@@ -1,803 +1,803 @@
 [0x193b630]
-last_change = 2026-09-10T18:38:45.687825Z
+last_change = 2026-09-11T03:35:00.051774Z
 addr = 0x193b630
-name = "g_pInterfaceGlobals"
+name = "off_18193C630"
 size = 0x8
 
 [0x1bf8660]
-last_change = 2026-09-10T18:38:45.688032Z
+last_change = 2026-09-11T03:35:00.051821Z
 addr = 0x1bf8660
-name = "CGameMoney_m_DataMap"
+name = "qword_181BF9660"
 size = 0x8
 
 [0x1c1db18]
-last_change = 2026-09-10T18:38:45.688120Z
+last_change = 2026-09-11T03:35:00.051847Z
 addr = 0x1c1db18
-name = "IGameSystem_LoopDestroyAllSystems_s_GameSystems"
+name = "dword_181C1EB18"
 size = 0x4
 
 [0x1c84828]
-last_change = 2026-09-10T18:38:45.688250Z
+last_change = 2026-09-11T03:35:00.051869Z
 addr = 0x1c84828
-name = "g_GameTraceManager"
+name = "off_181C85828"
 size = 0x8
 
 [0x1c84c40]
-last_change = 2026-09-10T18:38:45.688325Z
+last_change = 2026-09-11T03:35:00.051889Z
 addr = 0x1c84c40
-name = "gameeventmanager"
+name = "off_181C85C40"
 size = 0x8
 
 [0x1c84e60]
-last_change = 2026-09-10T18:38:45.688356Z
+last_change = 2026-09-11T03:35:00.051906Z
 addr = 0x1c84e60
-name = "s_GameEventManager"
+name = "off_181C85E60"
 size = 0x8
 
 [0x1dd3780]
-last_change = 2026-09-10T18:38:45.688504Z
+last_change = 2026-09-11T03:35:00.051927Z
 addr = 0x1dd3780
-name = "g_pEntityList"
+name = "qword_181DD4780"
 size = 0x8
 
 [0x1de2f28]
-last_change = 2026-09-10T18:38:45.688553Z
+last_change = 2026-09-11T03:35:00.051946Z
 addr = 0x1de2f28
-name = "g_EntitySystem"
+name = "qword_181DE3F28"
 size = 0x8
 
 [0x1e32828]
-last_change = 2026-09-10T18:38:45.688598Z
+last_change = 2026-09-11T03:35:00.051995Z
 addr = 0x1e32828
-name = "g_pCSBotManager"
+name = "qword_181E33828"
 size = 0x8
 
 [0x1e77de0]
-last_change = 2026-09-10T18:38:45.688674Z
+last_change = 2026-09-11T03:35:00.052030Z
 addr = 0x1e77de0
-name = "IGameSystem_LoopPostInitAllSystems_pEventDispatcher"
+name = "qword_181E78DE0"
 size = 0x8
 
 [0x1e77e08]
-last_change = 2026-09-10T18:38:45.688694Z
+last_change = 2026-09-11T03:35:00.052053Z
 addr = 0x1e77e08
-name = "IGameSystem_InitAllSystems_pFirst"
+name = "qword_181E78E08"
 size = 0x8
 
 [0x1f99fd0]
-last_change = 2026-09-10T18:38:45.688815Z
+last_change = 2026-09-11T03:35:00.052084Z
 addr = 0x1f99fd0
-name = "CCSGameRules__sm_mapGcBanInformation"
+name = "unk_181F9AFD0"
 size = 0x1
 
 [0x1fa4f40]
-last_change = 2026-09-10T18:38:45.688898Z
+last_change = 2026-09-11T03:35:00.052107Z
 addr = 0x1fa4f40
-name = "g_pGameTypes"
+name = "qword_181FA5F40"
 size = 0x8
 
 [0x1ff8dc8]
-last_change = 2026-09-10T18:38:45.688938Z
+last_change = 2026-09-11T03:35:00.052128Z
 addr = 0x1ff8dc8
-name = "g_pGameEntitySystem"
+name = "qword_181FF9DC8"
 size = 0x8
 
 [0x2002688]
-last_change = 2026-09-10T18:38:45.689024Z
+last_change = 2026-09-11T03:35:00.052148Z
 addr = 0x2002688
-name = "CPlayer_MovementServices_s_pRunCommandPawn"
+name = "qword_182003688"
 size = 0x8
 
 [0x2019c10]
-last_change = 2026-09-10T18:38:45.689096Z
+last_change = 2026-09-11T03:35:00.052167Z
 addr = 0x2019c10
-name = "g_pGameRules"
+name = "qword_18201AC10"
 size = 0x8
 
 [0x201ab30]
-last_change = 2026-09-10T18:38:45.689134Z
+last_change = 2026-09-11T03:35:00.052186Z
 addr = 0x201ab30
-name = "g_networkstringtable"
+name = "qword_18201BB30"
 size = 0x8
 
 [0x201ab80]
-last_change = 2026-09-10T18:38:45.689197Z
+last_change = 2026-09-11T03:35:00.052202Z
 addr = 0x201ab80
-name = "g_engine"
+name = "qword_18201BB80"
 size = 0x8
 
 [0x21695b0]
-last_change = 2026-09-10T18:38:45.689306Z
+last_change = 2026-09-11T03:35:00.052221Z
 addr = 0x21695b0
-name = "g_pEntitySystem"
+name = "qword_18216A5B0"
 size = 0x8
 
 [0x216cb18]
-last_change = 2026-09-10T18:38:45.689418Z
+last_change = 2026-09-11T03:35:00.052238Z
 addr = 0x216cb18
-name = "g_pGameResourceService"
+name = "qword_18216DB18"
 size = 0x8
 
 [0x21805b8]
-last_change = 2026-09-10T18:38:45.689470Z
+last_change = 2026-09-11T03:35:00.052257Z
 addr = 0x21805b8
-name = "g_pNavMesh"
+name = "qword_1821815B8"
 size = 0x8
 
 [0x21d9930]
-last_change = 2026-09-10T18:38:45.689608Z
+last_change = 2026-09-11T03:35:00.052274Z
 addr = 0x21d9930
-name = "g_pVApplication"
+name = "qword_1821DA930"
 size = 0x8
 
 [0x21d9938]
-last_change = 2026-09-10T18:38:45.689633Z
+last_change = 2026-09-11T03:35:00.052291Z
 addr = 0x21d9938
-name = "g_pVEngineCvar"
+name = "qword_1821DA938"
 size = 0x8
 
 [0x21d9940]
-last_change = 2026-09-10T18:38:45.689653Z
+last_change = 2026-09-11T03:35:00.052307Z
 addr = 0x21d9940
-name = "g_pVStringTokenSystem"
+name = "qword_1821DA940"
 size = 0x8
 
 [0x21d9948]
-last_change = 2026-09-10T18:38:45.689670Z
+last_change = 2026-09-11T03:35:00.052322Z
 addr = 0x21d9948
-name = "g_pProcessUtils"
+name = "qword_1821DA948"
 size = 0x8
 
 [0x21d9950]
-last_change = 2026-09-10T18:38:45.689687Z
+last_change = 2026-09-11T03:35:00.052338Z
 addr = 0x21d9950
-name = "g_pHelpSystem"
+name = "unk_1821DA950"
 size = 0x1
 
 [0x21d9958]
-last_change = 2026-09-10T18:38:45.689706Z
+last_change = 2026-09-11T03:35:00.052354Z
 addr = 0x21d9958
-name = "g_pToolSceneNodeFactory"
+name = "unk_1821DA958"
 size = 0x1
 
 [0x21d9960]
-last_change = 2026-09-10T18:38:45.689723Z
+last_change = 2026-09-11T03:35:00.052370Z
 addr = 0x21d9960
-name = "g_pEconItemToolModel"
+name = "unk_1821DA960"
 size = 0x1
 
 [0x21d9968]
-last_change = 2026-09-10T18:38:45.689741Z
+last_change = 2026-09-11T03:35:00.052385Z
 addr = 0x21d9968
-name = "g_pSchemaTestExternalTwo"
+name = "unk_1821DA968"
 size = 0x1
 
 [0x21d9970]
-last_change = 2026-09-10T18:38:45.689757Z
+last_change = 2026-09-11T03:35:00.052401Z
 addr = 0x21d9970
-name = "g_pSchemaTestExternalOne"
+name = "unk_1821DA970"
 size = 0x1
 
 [0x21d9978]
-last_change = 2026-09-10T18:38:45.689800Z
+last_change = 2026-09-11T03:35:00.052418Z
 addr = 0x21d9978
-name = "g_pAnimationSystem"
+name = "qword_1821DA978"
 size = 0x8
 
 [0x21d9980]
-last_change = 2026-09-10T18:38:45.689819Z
+last_change = 2026-09-11T03:35:00.052434Z
 addr = 0x21d9980
-name = "g_pAnimationSystemUtils"
+name = "unk_1821DA980"
 size = 0x1
 
 [0x21d9988]
-last_change = 2026-09-10T18:38:45.689837Z
+last_change = 2026-09-11T03:35:00.052450Z
 addr = 0x21d9988
-name = "g_pTestScriptMgr"
+name = "qword_1821DA988"
 size = 0x8
 
 [0x21d9990]
-last_change = 2026-09-10T18:38:45.689853Z
+last_change = 2026-09-11T03:35:00.052466Z
 addr = 0x21d9990
-name = "g_pModelProcessingServices"
+name = "unk_1821DA990"
 size = 0x1
 
 [0x21d9998]
-last_change = 2026-09-10T18:38:45.689869Z
+last_change = 2026-09-11T03:35:00.052482Z
 addr = 0x21d9998
-name = "g_pLocalize"
+name = "unk_1821DA998"
 size = 0x1
 
 [0x21d99a0]
-last_change = 2026-09-10T18:38:45.689885Z
+last_change = 2026-09-11T03:35:00.052498Z
 addr = 0x21d99a0
-name = "g_pMaterialUtils"
+name = "unk_1821DA9A0"
 size = 0x1
 
 [0x21d99a8]
-last_change = 2026-09-10T18:38:45.689900Z
+last_change = 2026-09-11T03:35:00.052514Z
 addr = 0x21d99a8
-name = "g_pFontManager"
+name = "qword_1821DA9A8"
 size = 0x8
 
 [0x21d99b0]
-last_change = 2026-09-10T18:38:45.689916Z
+last_change = 2026-09-11T03:35:00.052530Z
 addr = 0x21d99b0
-name = "g_pTextLayout"
+name = "unk_1821DA9B0"
 size = 0x1
 
 [0x21d99b8]
-last_change = 2026-09-10T18:38:45.689931Z
+last_change = 2026-09-11T03:35:00.052546Z
 addr = 0x21d99b8
-name = "g_pAssetRenameSystem"
+name = "unk_1821DA9B8"
 size = 0x1
 
 [0x21d99c0]
-last_change = 2026-09-10T18:38:45.689946Z
+last_change = 2026-09-11T03:35:00.052562Z
 addr = 0x21d99c0
-name = "g_pAssetPreviewSystem"
+name = "unk_1821DA9C0"
 size = 0x1
 
 [0x21d99c8]
-last_change = 2026-09-10T18:38:45.689962Z
+last_change = 2026-09-11T03:35:00.052578Z
 addr = 0x21d99c8
-name = "g_pAssetBrowserSystem"
+name = "unk_1821DA9C8"
 size = 0x1
 
 [0x21d99d0]
-last_change = 2026-09-10T18:38:45.689977Z
+last_change = 2026-09-11T03:35:00.052593Z
 addr = 0x21d99d0
-name = "g_pRenderDeviceMgr"
+name = "unk_1821DA9D0"
 size = 0x1
 
 [0x21d99d8]
-last_change = 2026-09-10T18:38:45.689993Z
+last_change = 2026-09-11T03:35:00.052608Z
 addr = 0x21d99d8
-name = "g_pFileSystem"
+name = "qword_1821DA9D8"
 size = 0x8
 
 [0x21d99e0]
-last_change = 2026-09-10T18:38:45.690009Z
+last_change = 2026-09-11T03:35:00.052623Z
 addr = 0x21d99e0
-name = "g_pAsyncFileSystem"
+name = "unk_1821DA9E0"
 size = 0x1
 
 [0x21d99e8]
-last_change = 2026-09-10T18:38:45.690025Z
+last_change = 2026-09-11T03:35:00.052638Z
 addr = 0x21d99e8
-name = "g_pAssetSystem"
+name = "qword_1821DA9E8"
 size = 0x8
 
 [0x21d99f0]
-last_change = 2026-09-10T18:38:45.690041Z
+last_change = 2026-09-11T03:35:00.052653Z
 addr = 0x21d99f0
-name = "g_pAssetSystemTest"
+name = "unk_1821DA9F0"
 size = 0x1
 
 [0x21d99f8]
-last_change = 2026-09-10T18:38:45.690056Z
+last_change = 2026-09-11T03:35:00.052669Z
 addr = 0x21d99f8
-name = "g_pPropertyEditorSystem"
+name = "unk_1821DA9F8"
 size = 0x1
 
 [0x21d9a00]
-last_change = 2026-09-10T18:38:45.690072Z
+last_change = 2026-09-11T03:35:00.052684Z
 addr = 0x21d9a00
-name = "g_pSchemaSystem"
+name = "qword_1821DAA00"
 size = 0x8
 
 [0x21d9a08]
-last_change = 2026-09-10T18:38:45.690098Z
+last_change = 2026-09-11T03:35:00.052699Z
 addr = 0x21d9a08
-name = "g_pResourceCompilerSystem"
+name = "unk_1821DAA08"
 size = 0x1
 
 [0x21d9a10]
-last_change = 2026-09-10T18:38:45.690118Z
+last_change = 2026-09-11T03:35:00.052715Z
 addr = 0x21d9a10
-name = "g_pResourceSystem"
+name = "qword_1821DAA10"
 size = 0x8
 
 [0x21d9a18]
-last_change = 2026-09-10T18:38:45.690184Z
+last_change = 2026-09-11T03:35:00.052730Z
 addr = 0x21d9a18
-name = "g_pResourceHandleUtils"
+name = "qword_1821DAA18"
 size = 0x8
 
 [0x21d9a20]
-last_change = 2026-09-10T18:38:45.690201Z
+last_change = 2026-09-11T03:35:00.052745Z
 addr = 0x21d9a20
-name = "g_pResourceManifestRegistry"
+name = "qword_1821DAA20"
 size = 0x8
 
 [0x21d9a28]
-last_change = 2026-09-10T18:38:45.690218Z
+last_change = 2026-09-11T03:35:00.052761Z
 addr = 0x21d9a28
-name = "g_pMaterialSystem2"
+name = "qword_1821DAA28"
 size = 0x8
 
 [0x21d9a30]
-last_change = 2026-09-10T18:38:45.690235Z
+last_change = 2026-09-11T03:35:00.052777Z
 addr = 0x21d9a30
-name = "g_pPostProcessingSystem"
+name = "unk_1821DAA30"
 size = 0x1
 
 [0x21d9a38]
-last_change = 2026-09-10T18:38:45.690253Z
+last_change = 2026-09-11T03:35:00.052793Z
 addr = 0x21d9a38
-name = "g_pInputSystem"
+name = "qword_1821DAA38"
 size = 0x8
 
 [0x21d9a40]
-last_change = 2026-09-10T18:38:45.690269Z
+last_change = 2026-09-11T03:35:00.052809Z
 addr = 0x21d9a40
-name = "g_pInputStackSystem"
+name = "qword_1821DAA40"
 size = 0x8
 
 [0x21d9a48]
-last_change = 2026-09-10T18:38:45.690286Z
+last_change = 2026-09-11T03:35:00.052825Z
 addr = 0x21d9a48
-name = "g_pVP4"
+name = "unk_1821DAA48"
 size = 0x1
 
 [0x21d9a50]
-last_change = 2026-09-10T18:38:45.690303Z
+last_change = 2026-09-11T03:35:00.052841Z
 addr = 0x21d9a50
-name = "g_pMatchFramework"
+name = "qword_1821DAA50"
 size = 0x8
 
 [0x21d9a58]
-last_change = 2026-09-10T18:38:45.690319Z
+last_change = 2026-09-11T03:35:00.052856Z
 addr = 0x21d9a58
-name = "g_pVConComm"
+name = "qword_1821DAA58"
 size = 0x8
 
 [0x21d9a60]
-last_change = 2026-09-10T18:38:45.690335Z
+last_change = 2026-09-11T03:35:00.052871Z
 addr = 0x21d9a60
-name = "g_pSource2V8System"
+name = "qword_1821DAA60"
 size = 0x8
 
 [0x21d9a68]
-last_change = 2026-09-10T18:38:45.690350Z
+last_change = 2026-09-11T03:35:00.052887Z
 addr = 0x21d9a68
-name = "g_pPanoramaUIEngine"
+name = "unk_1821DAA68"
 size = 0x1
 
 [0x21d9a70]
-last_change = 2026-09-10T18:38:45.690387Z
+last_change = 2026-09-11T03:35:00.052902Z
 addr = 0x21d9a70
-name = "g_pPanoramaUIClient"
+name = "unk_1821DAA70"
 size = 0x1
 
 [0x21d9a78]
-last_change = 2026-09-10T18:38:45.690417Z
+last_change = 2026-09-11T03:35:00.052917Z
 addr = 0x21d9a78
-name = "g_pPanoramaTextServices"
+name = "unk_1821DAA78"
 size = 0x1
 
 [0x21d9a88]
-last_change = 2026-09-10T18:38:45.690438Z
+last_change = 2026-09-11T03:35:00.052932Z
 addr = 0x21d9a88
-name = "g_pModelDocUtils"
+name = "unk_1821DAA88"
 size = 0x1
 
 [0x21d9a90]
-last_change = 2026-09-10T18:38:45.690456Z
+last_change = 2026-09-11T03:35:00.052947Z
 addr = 0x21d9a90
-name = "g_pAnimGraphEditorUtils"
+name = "unk_1821DAA90"
 size = 0x1
 
 [0x21d9a98]
-last_change = 2026-09-10T18:38:45.690476Z
+last_change = 2026-09-11T03:35:00.052962Z
 addr = 0x21d9a98
-name = "g_pRenderDevice"
+name = "qword_1821DAA98"
 size = 0x8
 
 [0x21d9aa0]
-last_change = 2026-09-10T18:38:45.690494Z
+last_change = 2026-09-11T03:35:00.052976Z
 addr = 0x21d9aa0
-name = "g_pRenderDeviceSetup"
+name = "unk_1821DAAA0"
 size = 0x1
 
 [0x21d9aa8]
-last_change = 2026-09-10T18:38:45.690512Z
+last_change = 2026-09-11T03:35:00.052991Z
 addr = 0x21d9aa8
-name = "g_pRenderHardwareConfig"
+name = "qword_1821DAAA8"
 size = 0x8
 
 [0x21d9ab0]
-last_change = 2026-09-10T18:38:45.690529Z
+last_change = 2026-09-11T03:35:00.053006Z
 addr = 0x21d9ab0
-name = "g_pRenderUtils"
+name = "unk_1821DAAB0"
 size = 0x1
 
 [0x21d9ab8]
-last_change = 2026-09-10T18:38:45.690545Z
+last_change = 2026-09-11T03:35:00.053020Z
 addr = 0x21d9ab8
-name = "g_pSoundSystem"
+name = "qword_1821DAAB8"
 size = 0x8
 
 [0x21d9ac0]
-last_change = 2026-09-10T18:38:45.690561Z
+last_change = 2026-09-11T03:35:00.053035Z
 addr = 0x21d9ac0
-name = "g_pSoundOpSystemEdit"
+name = "unk_1821DAAC0"
 size = 0x1
 
 [0x21d9ac8]
-last_change = 2026-09-10T18:38:45.690615Z
+last_change = 2026-09-11T03:35:00.053049Z
 addr = 0x21d9ac8
-name = "g_pSoundOpSystem"
+name = "qword_1821DAAC8"
 size = 0x8
 
 [0x21d9ad0]
-last_change = 2026-09-10T18:38:45.690632Z
+last_change = 2026-09-11T03:35:00.053063Z
 addr = 0x21d9ad0
-name = "g_pSteamAudio"
+name = "qword_1821DAAD0"
 size = 0x8
 
 [0x21d9ad8]
-last_change = 2026-09-10T18:38:45.690648Z
+last_change = 2026-09-11T03:35:00.053078Z
 addr = 0x21d9ad8
-name = "g_pMeshSystem"
+name = "qword_1821DAAD8"
 size = 0x8
 
 [0x21d9ae0]
-last_change = 2026-09-10T18:38:45.690665Z
+last_change = 2026-09-11T03:35:00.053092Z
 addr = 0x21d9ae0
-name = "g_pMeshUtils"
+name = "qword_1821DAAE0"
 size = 0x8
 
 [0x21d9ae8]
-last_change = 2026-09-10T18:38:45.690681Z
+last_change = 2026-09-11T03:35:00.053106Z
 addr = 0x21d9ae8
-name = "g_pSceneSystem"
+name = "qword_1821DAAE8"
 size = 0x8
 
 [0x21d9af0]
-last_change = 2026-09-10T18:38:45.690706Z
+last_change = 2026-09-11T03:35:00.053121Z
 addr = 0x21d9af0
-name = "g_pIPulseSystem"
+name = "qword_1821DAAF0"
 size = 0x8
 
 [0x21d9af8]
-last_change = 2026-09-10T18:38:45.690722Z
+last_change = 2026-09-11T03:35:00.053135Z
 addr = 0x21d9af8
-name = "g_pSceneUtils"
+name = "qword_1821DAAF8"
 size = 0x8
 
 [0x21d9b00]
-last_change = 2026-09-10T18:38:45.690738Z
+last_change = 2026-09-11T03:35:00.053150Z
 addr = 0x21d9b00
-name = "g_pScriptManager"
+name = "qword_1821DAB00"
 size = 0x8
 
 [0x21d9b08]
-last_change = 2026-09-10T18:38:45.690754Z
+last_change = 2026-09-11T03:35:00.053164Z
 addr = 0x21d9b08
-name = "g_pWEBM"
+name = "unk_1821DAB08"
 size = 0x1
 
 [0x21d9b10]
-last_change = 2026-09-10T18:38:45.690770Z
+last_change = 2026-09-11T03:35:00.053179Z
 addr = 0x21d9b10
-name = "g_pMediaFoundation"
+name = "unk_1821DAB10"
 size = 0x1
 
 [0x21d9b18]
-last_change = 2026-09-10T18:38:45.690786Z
+last_change = 2026-09-11T03:35:00.053193Z
 addr = 0x21d9b18
-name = "g_pAVI"
+name = "qword_1821DAB18"
 size = 0x8
 
 [0x21d9b20]
-last_change = 2026-09-10T18:38:45.690801Z
+last_change = 2026-09-11T03:35:00.053208Z
 addr = 0x21d9b20
-name = "g_pBIK"
+name = "unk_1821DAB20"
 size = 0x1
 
 [0x21d9b28]
-last_change = 2026-09-10T18:38:45.690817Z
+last_change = 2026-09-11T03:35:00.053222Z
 addr = 0x21d9b28
-name = "g_pWorldRendererMgr"
+name = "qword_1821DAB28"
 size = 0x8
 
 [0x21d9b30]
-last_change = 2026-09-10T18:38:45.690832Z
+last_change = 2026-09-11T03:35:00.053236Z
 addr = 0x21d9b30
-name = "g_pNetworkSystem"
+name = "qword_1821DAB30"
 size = 0x8
 
 [0x21d9b38]
-last_change = 2026-09-10T18:38:45.690902Z
+last_change = 2026-09-11T03:35:00.053251Z
 addr = 0x21d9b38
-name = "g_pNetworkMessages"
+name = "qword_1821DAB38"
 size = 0x8
 
 [0x21d9b40]
-last_change = 2026-09-10T18:38:45.690960Z
+last_change = 2026-09-11T03:35:00.053265Z
 addr = 0x21d9b40
-name = "g_pFlattenedSerializers"
+name = "qword_1821DAB40"
 size = 0x8
 
 [0x21d9b48]
-last_change = 2026-09-10T18:38:45.690978Z
+last_change = 2026-09-11T03:35:00.053279Z
 addr = 0x21d9b48
-name = "g_pSerializedEntities"
+name = "qword_1821DAB48"
 size = 0x8
 
 [0x21d9b50]
-last_change = 2026-09-10T18:38:45.690993Z
+last_change = 2026-09-11T03:35:00.053294Z
 addr = 0x21d9b50
-name = "g_pDemoUpconverter"
+name = "unk_1821DAB50"
 size = 0x1
 
 [0x21d9b58]
-last_change = 2026-09-10T18:38:45.691008Z
+last_change = 2026-09-11T03:35:00.053308Z
 addr = 0x21d9b58
-name = "g_pParticleSystemMgr"
+name = "qword_1821DAB58"
 size = 0x8
 
 [0x21d9b60]
-last_change = 2026-09-10T18:38:45.691023Z
+last_change = 2026-09-11T03:35:00.053322Z
 addr = 0x21d9b60
-name = "g_pToolFramework2"
+name = "qword_1821DAB60"
 size = 0x8
 
 [0x21d9b68]
-last_change = 2026-09-10T18:38:45.691038Z
+last_change = 2026-09-11T03:35:00.053337Z
 addr = 0x21d9b68
-name = "g_pHammerMapLoader"
+name = "unk_1821DAB68"
 size = 0x1
 
 [0x21d9b70]
-last_change = 2026-09-10T18:38:45.691053Z
+last_change = 2026-09-11T03:35:00.053352Z
 addr = 0x21d9b70
-name = "g_pVisBuilder"
+name = "unk_1821DAB70"
 size = 0x1
 
 [0x21d9b78]
-last_change = 2026-09-10T18:38:45.691068Z
+last_change = 2026-09-11T03:35:00.053366Z
 addr = 0x21d9b78
-name = "g_pPhysicsBuilderMgr"
+name = "unk_1821DAB78"
 size = 0x1
 
 [0x21d9b80]
-last_change = 2026-09-10T18:38:45.691106Z
+last_change = 2026-09-11T03:35:00.053381Z
 addr = 0x21d9b80
-name = "g_pBakedLODBuilderMgr"
+name = "unk_1821DAB80"
 size = 0x1
 
 [0x21d9b88]
-last_change = 2026-09-10T18:38:45.691140Z
+last_change = 2026-09-11T03:35:00.053396Z
 addr = 0x21d9b88
-name = "g_pVPhysics2"
+name = "qword_1821DAB88"
 size = 0x8
 
 [0x21d9b90]
-last_change = 2026-09-10T18:38:45.691160Z
+last_change = 2026-09-11T03:35:00.053410Z
 addr = 0x21d9b90
-name = "g_pExportSystem"
+name = "unk_1821DAB90"
 size = 0x1
 
 [0x21d9b98]
-last_change = 2026-09-10T18:38:45.691180Z
+last_change = 2026-09-11T03:35:00.053424Z
 addr = 0x21d9b98
-name = "g_pNavSystem"
+name = "unk_1821DAB98"
 size = 0x1
 
 [0x21d9ba0]
-last_change = 2026-09-10T18:38:45.691198Z
+last_change = 2026-09-11T03:35:00.053439Z
 addr = 0x21d9ba0
-name = "g_pNavGameTest"
+name = "unk_1821DABA0"
 size = 0x1
 
 [0x21d9ba8]
-last_change = 2026-09-10T18:38:45.691216Z
+last_change = 2026-09-11T03:35:00.053453Z
 addr = 0x21d9ba8
-name = "g_pRAD3"
+name = "unk_1821DABA8"
 size = 0x1
 
 [0x21d9bb0]
-last_change = 2026-09-10T18:38:45.691234Z
+last_change = 2026-09-11T03:35:00.053468Z
 addr = 0x21d9bb0
-name = "g_pSource2Client"
+name = "unk_1821DABB0"
 size = 0x1
 
 [0x21d9bb8]
-last_change = 2026-09-10T18:38:45.691250Z
+last_change = 2026-09-11T03:35:00.053482Z
 addr = 0x21d9bb8
-name = "g_pSource2ClientUI"
+name = "unk_1821DABB8"
 size = 0x1
 
 [0x21d9bc0]
-last_change = 2026-09-10T18:38:45.691267Z
+last_change = 2026-09-11T03:35:00.053496Z
 addr = 0x21d9bc0
-name = "g_pSource2Engine"
+name = "qword_1821DABC0"
 size = 0x8
 
 [0x21d9bc8]
-last_change = 2026-09-10T18:38:45.691285Z
+last_change = 2026-09-11T03:35:00.053510Z
 addr = 0x21d9bc8
-name = "g_pSource2Server"
+name = "qword_1821DABC8"
 size = 0x8
 
 [0x21d9bd0]
-last_change = 2026-09-10T18:38:45.691301Z
+last_change = 2026-09-11T03:35:00.053524Z
 addr = 0x21d9bd0
-name = "g_pSource2GameClients"
+name = "unk_1821DABD0"
 size = 0x1
 
 [0x21d9bd8]
-last_change = 2026-09-10T18:38:45.691319Z
+last_change = 2026-09-11T03:35:00.053539Z
 addr = 0x21d9bd8
-name = "g_pSource2GameEntities"
+name = "unk_1821DABD8"
 size = 0x1
 
 [0x21d9be0]
-last_change = 2026-09-10T18:38:45.691335Z
+last_change = 2026-09-11T03:35:00.053553Z
 addr = 0x21d9be0
-name = "g_pSource2Host"
+name = "unk_1821DABE0"
 size = 0x1
 
 [0x21d9be8]
-last_change = 2026-09-10T18:38:45.691351Z
+last_change = 2026-09-11T03:35:00.053567Z
 addr = 0x21d9be8
-name = "g_pSource2ModTools"
+name = "unk_1821DABE8"
 size = 0x1
 
 [0x21d9bf0]
-last_change = 2026-09-10T18:38:45.691367Z
+last_change = 2026-09-11T03:35:00.053581Z
 addr = 0x21d9bf0
-name = "g_pSource2EngineToClient"
+name = "unk_1821DABF0"
 size = 0x1
 
 [0x21d9bf8]
-last_change = 2026-09-10T18:38:45.691383Z
+last_change = 2026-09-11T03:35:00.053596Z
 addr = 0x21d9bf8
-name = "g_pSource2EngineToServer"
+name = "qword_1821DABF8"
 size = 0x8
 
 [0x21d9c00]
-last_change = 2026-09-10T18:38:45.691399Z
+last_change = 2026-09-11T03:35:00.053610Z
 addr = 0x21d9c00
-name = "g_pSource2EngineToServerStringTable"
+name = "unk_1821DAC00"
 size = 0x1
 
 [0x21d9c08]
-last_change = 2026-09-10T18:38:45.691414Z
+last_change = 2026-09-11T03:35:00.053624Z
 addr = 0x21d9c08
-name = "g_pSource2EngineToClientStringTable"
+name = "unk_1821DAC08"
 size = 0x1
 
 [0x21d9c10]
-last_change = 2026-09-10T18:38:45.691430Z
+last_change = 2026-09-11T03:35:00.053639Z
 addr = 0x21d9c10
-name = "g_pSource2ClientPrediction"
+name = "unk_1821DAC10"
 size = 0x1
 
 [0x21d9c18]
-last_change = 2026-09-10T18:38:45.691446Z
+last_change = 2026-09-11T03:35:00.053653Z
 addr = 0x21d9c18
-name = "g_pEngineServiceMgr"
+name = "qword_1821DAC18"
 size = 0x8
 
 [0x21d9c20]
-last_change = 2026-09-10T18:38:45.691461Z
+last_change = 2026-09-11T03:35:00.053667Z
 addr = 0x21d9c20
-name = "g_pHostStateMgr"
+name = "qword_1821DAC20"
 size = 0x8
 
 [0x21d9c28]
-last_change = 2026-09-10T18:38:45.691476Z
+last_change = 2026-09-11T03:35:00.053682Z
 addr = 0x21d9c28
-name = "g_pNetworkService"
+name = "qword_1821DAC28"
 size = 0x8
 
 [0x21d9c30]
-last_change = 2026-09-10T18:38:45.691492Z
+last_change = 2026-09-11T03:35:00.053696Z
 addr = 0x21d9c30
-name = "g_pNetworkClientService"
+name = "qword_1821DAC30"
 size = 0x8
 
 [0x21d9c38]
-last_change = 2026-09-10T18:38:45.691508Z
+last_change = 2026-09-11T03:35:00.053750Z
 addr = 0x21d9c38
-name = "g_pNetworkP2PService"
+name = "unk_1821DAC38"
 size = 0x1
 
 [0x21d9c40]
-last_change = 2026-09-10T18:38:45.691590Z
+last_change = 2026-09-11T03:35:00.053774Z
 addr = 0x21d9c40
-name = "g_pNetworkServerService"
+name = "qword_1821DAC40"
 size = 0x8
 
 [0x21d9c48]
-last_change = 2026-09-10T18:38:45.691608Z
+last_change = 2026-09-11T03:35:00.053793Z
 addr = 0x21d9c48
-name = "g_pToolService"
+name = "unk_1821DAC48"
 size = 0x1
 
 [0x21d9c50]
-last_change = 2026-09-10T18:38:45.691625Z
+last_change = 2026-09-11T03:35:00.053818Z
 addr = 0x21d9c50
-name = "g_pServerToolsInfo"
+name = "unk_1821DAC50"
 size = 0x1
 
 [0x21d9c58]
-last_change = 2026-09-10T18:38:45.691641Z
+last_change = 2026-09-11T03:35:00.053837Z
 addr = 0x21d9c58
-name = "g_pClientToolsInfo"
+name = "unk_1821DAC58"
 size = 0x1
 
 [0x21d9c60]
-last_change = 2026-09-10T18:38:45.691656Z
+last_change = 2026-09-11T03:35:00.053853Z
 addr = 0x21d9c60
-name = "g_pRenderService"
+name = "qword_1821DAC60"
 size = 0x8
 
 [0x21d9c68]
-last_change = 2026-09-10T18:38:45.691671Z
+last_change = 2026-09-11T03:35:00.053869Z
 addr = 0x21d9c68
-name = "g_pStatsService"
+name = "unk_1821DAC68"
 size = 0x1
 
 [0x21d9c70]
-last_change = 2026-09-10T18:38:45.691687Z
+last_change = 2026-09-11T03:35:00.053885Z
 addr = 0x21d9c70
-name = "g_pVProfService"
+name = "unk_1821DAC70"
 size = 0x1
 
 [0x21d9c78]
-last_change = 2026-09-10T18:38:45.691702Z
+last_change = 2026-09-11T03:35:00.053901Z
 addr = 0x21d9c78
-name = "g_pInputService"
+name = "qword_1821DAC78"
 size = 0x8
 
 [0x21d9c80]
-last_change = 2026-09-10T18:38:45.691718Z
+last_change = 2026-09-11T03:35:00.053917Z
 addr = 0x21d9c80
-name = "g_pMapListService"
+name = "qword_1821DAC80"
 size = 0x8
 
 [0x21d9c88]
-last_change = 2026-09-10T18:38:45.691733Z
+last_change = 2026-09-11T03:35:00.053934Z
 addr = 0x21d9c88
-name = "g_pGameUIService"
+name = "qword_1821DAC88"
 size = 0x8
 
 [0x21d9c90]
-last_change = 2026-09-10T18:38:45.691747Z
+last_change = 2026-09-11T03:35:00.053949Z
 addr = 0x21d9c90
-name = "g_pSoundService"
+name = "unk_1821DAC90"
 size = 0x1
 
 [0x21d9c98]
-last_change = 2026-09-10T18:38:45.691763Z
+last_change = 2026-09-11T03:35:00.053965Z
 addr = 0x21d9c98
-name = "g_pBenchmarkService"
+name = "unk_1821DAC98"
 size = 0x1
 
 [0x21d9ca0]
-last_change = 2026-09-10T18:38:45.691778Z
+last_change = 2026-09-11T03:35:00.053980Z
 addr = 0x21d9ca0
-name = "g_pKeyValueCache"
+name = "unk_1821DACA0"
 size = 0x1
 
 [0x21d9ca8]
-last_change = 2026-09-10T18:38:45.691792Z
+last_change = 2026-09-11T03:35:00.053995Z
 addr = 0x21d9ca8
-name = "g_pClientServerSharedHandleSystem"
+name = "unk_1821DACA8"
 size = 0x1
 
 [0x21d9cc0]
-last_change = 2026-09-10T18:38:45.691808Z
+last_change = 2026-09-11T03:35:00.054010Z
 addr = 0x21d9cc0
-name = "g_pGameResourceServiceClient"
+name = "unk_1821DACC0"
 size = 0x1
 
 [0x21d9cc8]
-last_change = 2026-09-10T18:38:45.691831Z
+last_change = 2026-09-11T03:35:00.054025Z
 addr = 0x21d9cc8
-name = "g_pGameResourceServiceServer"
+name = "unk_1821DACC8"
 size = 0x1

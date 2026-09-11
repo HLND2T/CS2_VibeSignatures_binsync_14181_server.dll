@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.907123Z
+last_change = 2026-09-11T03:34:27.250041Z
 addr = 0x126b840
 size = 0x8
-name = "CEntityInstance_Disconnect"
-type = "void"
+name = "sub_18126C840"
 
 [header]
-name = "CEntityInstance_Disconnect"
+name = "sub_18126C840"
 addr = 0x126b840
-type = "void"
 
 [header.args]

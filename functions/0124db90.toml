@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.906945Z
+last_change = 2026-09-11T03:34:27.249877Z
 addr = 0x124db90
 size = 0x174
-name = "CEntitySystem_ExecuteQueuedCreation"
-type = "void"
+name = "sub_18124EB90"
 
 [header]
-name = "CEntitySystem_ExecuteQueuedCreation"
+name = "sub_18124EB90"
 addr = 0x124db90
-type = "void"
 
 [header.args]

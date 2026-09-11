@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.905849Z
+last_change = 2026-09-11T03:34:27.248714Z
 addr = 0xb93dc0
 size = 0x109
-name = "TraceFunc"
-type = "long long"
+name = "sub_180B94DC0"
 
 [header]
-name = "TraceFunc"
+name = "sub_180B94DC0"
 addr = 0xb93dc0
-type = "long long"
 
 [header.args]

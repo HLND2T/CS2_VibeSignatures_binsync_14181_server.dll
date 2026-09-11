@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:32.074081Z
+last_change = 2026-09-11T03:34:27.248473Z
 addr = 0xacf6b0
 size = 0x17d
-name = "CCSPlayer_WeaponServices_EquipWeapon"
-type = "long long"
+name = "sub_180AD06B0"
 
 [header]
-name = "CCSPlayer_WeaponServices_EquipWeapon"
+name = "sub_180AD06B0"
 addr = 0xacf6b0
-type = "long long"
 
 [header.args]

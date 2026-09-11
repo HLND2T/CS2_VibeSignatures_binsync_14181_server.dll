@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.905909Z
+last_change = 2026-09-11T03:34:27.248776Z
 addr = 0xbba130
 size = 0x29
-name = "LegacyGameEventListener"
-type = "long long"
+name = "sub_180BBB130"
 
 [header]
-name = "LegacyGameEventListener"
+name = "sub_180BBB130"
 addr = 0xbba130
-type = "long long"
 
 [header.args]

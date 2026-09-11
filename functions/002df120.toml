@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.904859Z
+last_change = 2026-09-11T03:34:27.247647Z
 addr = 0x2df120
 size = 0x113
-name = "CCSBot_SetState"
-type = "void *"
+name = "sub_1802E0120"
 
 [header]
-name = "CCSBot_SetState"
+name = "sub_1802E0120"
 addr = 0x2df120
-type = "void *"
 
 [header.args]

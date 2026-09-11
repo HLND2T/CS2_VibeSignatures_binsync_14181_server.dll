@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.906619Z
+last_change = 2026-09-11T03:34:27.249459Z
 addr = 0xd4d690
 size = 0x323
-name = "CSource2GameClients_ClientDisconnect"
-type = "long long"
+name = "sub_180D4E690"
 
 [header]
-name = "CSource2GameClients_ClientDisconnect"
+name = "sub_180D4E690"
 addr = 0xd4d690
-type = "long long"
 
 [header.args]

@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.906963Z
+last_change = 2026-09-11T03:34:27.249898Z
 addr = 0x124efd0
 size = 0x178
-name = "CEntitySystem_FindClassByDesignName"
-type = "long long"
+name = "sub_18124FFD0"
 
 [header]
-name = "CEntitySystem_FindClassByDesignName"
+name = "sub_18124FFD0"
 addr = 0x124efd0
-type = "long long"
 
 [header.args]

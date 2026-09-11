@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.905567Z
+last_change = 2026-09-11T03:34:27.248399Z
 addr = 0xa91cb0
 size = 0x22
-name = "CCSPlayer_ItemServices_GiveNamedItem"
-type = "long long"
+name = "sub_180A92CB0"
 
 [header]
-name = "CCSPlayer_ItemServices_GiveNamedItem"
+name = "sub_180A92CB0"
 addr = 0xa91cb0
-type = "long long"
 
 [header.args]

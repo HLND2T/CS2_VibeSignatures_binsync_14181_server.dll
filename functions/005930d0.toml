@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.905120Z
+last_change = 2026-09-11T03:34:27.247944Z
 addr = 0x5930d0
 size = 0x29f
-name = "CSpawnGroupMgrGameSystem_SaveGame_Start"
-type = "long long"
+name = "sub_1805940D0"
 
 [header]
-name = "CSpawnGroupMgrGameSystem_SaveGame_Start"
+name = "sub_1805940D0"
 addr = 0x5930d0
-type = "long long"
 
 [header.args]

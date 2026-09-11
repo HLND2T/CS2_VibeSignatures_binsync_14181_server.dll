@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.905526Z
+last_change = 2026-09-11T03:34:27.248364Z
 addr = 0xa85d20
 size = 0x972
-name = "CCSPlayer_MovementServices_CheckJumpButton"
-type = "unsigned long long *"
+name = "sub_180A86D20"
 
 [header]
-name = "CCSPlayer_MovementServices_CheckJumpButton"
+name = "sub_180A86D20"
 addr = 0xa85d20
-type = "unsigned long long *"
 
 [header.args]

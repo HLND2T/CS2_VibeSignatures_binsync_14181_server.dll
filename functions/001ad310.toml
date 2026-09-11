@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:24.239944Z
+last_change = 2026-09-11T03:34:27.247465Z
 addr = 0x1ad310
 size = 0x5d5
-name = "CNetworkTransmitComponent_StateChanged"
-type = "void"
+name = "sub_1801AE310"
 
 [header]
-name = "CNetworkTransmitComponent_StateChanged"
+name = "sub_1801AE310"
 addr = 0x1ad310
-type = "void"
 
 [header.args]

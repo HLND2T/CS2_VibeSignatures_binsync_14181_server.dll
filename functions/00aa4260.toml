@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.905573Z
+last_change = 2026-09-11T03:34:27.248404Z
 addr = 0xaa4260
 size = 0x2e
-name = "CCSPlayerPawn_OnTakeDamage_Alive"
-type = "long long"
+name = "sub_180AA5260"
 
 [header]
-name = "CCSPlayerPawn_OnTakeDamage_Alive"
+name = "sub_180AA5260"
 addr = 0xaa4260
-type = "long long"
 
 [header.args]

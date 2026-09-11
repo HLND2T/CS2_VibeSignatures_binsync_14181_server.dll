@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.906457Z
+last_change = 2026-09-11T03:34:27.249303Z
 addr = 0xcb2380
 size = 0x1af
-name = "CBaseEntity_VPhysicsCollision"
-type = "long long"
+name = "sub_180CB3380"
 
 [header]
-name = "CBaseEntity_VPhysicsCollision"
+name = "sub_180CB3380"
 addr = 0xcb2380
-type = "long long"
 
 [header.args]

@@ -1,10 +1,10 @@
-last_change = 2026-09-10T18:38:12.906385Z
+last_change = 2026-09-11T03:34:27.249228Z
 addr = 0xca53e0
 size = 0x12
-name = "CBaseEntity_ScriptInputKill"
+name = "sub_180CA63E0"
 
 [header]
-name = "CBaseEntity_ScriptInputKill"
+name = "sub_180CA63E0"
 addr = 0xca53e0
 
 [header.args]

@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:31.476672Z
+last_change = 2026-09-11T03:34:27.248379Z
 addr = 0xa8b670
 size = 0xea
-name = "CCSPlayer_ItemServices_DropActivePlayerWeapon"
-type = "long long"
+name = "sub_180A8C670"
 
 [header]
-name = "CCSPlayer_ItemServices_DropActivePlayerWeapon"
+name = "sub_180A8C670"
 addr = 0xa8b670
-type = "long long"
 
 [header.args]

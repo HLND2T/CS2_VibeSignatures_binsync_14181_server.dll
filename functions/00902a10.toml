@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:30.280771Z
+last_change = 2026-09-11T03:34:44.593651Z
 addr = 0x902a10
 size = 0xdbb
-name = "CCSGameRules_GoToIntermission"
-type = "void"
+name = "sub_180903A10"
 
 [header]
-name = "CCSGameRules_GoToIntermission"
+name = "sub_180903A10"
 addr = 0x902a10
-type = "void"
 
 [header.args]

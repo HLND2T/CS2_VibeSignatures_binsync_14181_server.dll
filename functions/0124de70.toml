@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:43.554997Z
+last_change = 2026-09-11T03:34:27.249882Z
 addr = 0x124de70
 size = 0x5ef
-name = "CEntitySystem_ExecuteQueuedDeletion"
-type = "void"
+name = "sub_18124EE70"
 
 [header]
-name = "CEntitySystem_ExecuteQueuedDeletion"
+name = "sub_18124EE70"
 addr = 0x124de70
-type = "void"
 
 [header.args]

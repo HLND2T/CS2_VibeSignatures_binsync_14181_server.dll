@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.905792Z
+last_change = 2026-09-11T03:34:27.248656Z
 addr = 0xb6f740
 size = 0x55
-name = "CBaseFilter_InputTestActivator"
-type = "long long"
+name = "sub_180B70740"
 
 [header]
-name = "CBaseFilter_InputTestActivator"
+name = "sub_180B70740"
 addr = 0xb6f740
-type = "long long"
 
 [header.args]

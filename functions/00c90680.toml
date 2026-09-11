@@ -1,10 +1,10 @@
-last_change = 2026-09-10T18:38:12.906314Z
+last_change = 2026-09-11T03:34:27.249150Z
 addr = 0xc90680
 size = 0x115
-name = "CBaseEntity_GetContextForScript"
+name = "sub_180C91680"
 
 [header]
-name = "CBaseEntity_GetContextForScript"
+name = "sub_180C91680"
 addr = 0xc90680
 
 [header.args]

@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.905022Z
+last_change = 2026-09-11T03:34:27.247844Z
 addr = 0x50dd60
 size = 0x5f9
-name = "DecalPlacementInfo_ctor"
-type = "long long *"
+name = "sub_18050ED60"
 
 [header]
-name = "DecalPlacementInfo_ctor"
+name = "sub_18050ED60"
 addr = 0x50dd60
-type = "long long *"
 
 [header.args]

@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.907099Z
+last_change = 2026-09-11T03:34:27.250018Z
 addr = 0x125fde0
 size = 0x18b
-name = "CEntityKeyValues_LoadFromContext"
-type = "char"
+name = "sub_181260DE0"
 
 [header]
-name = "CEntityKeyValues_LoadFromContext"
+name = "sub_181260DE0"
 addr = 0x125fde0
-type = "char"
 
 [header.args]

@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.904671Z
+last_change = 2026-09-11T03:34:27.247459Z
 addr = 0x18f370
 size = 0x3
-name = "CGameSceneNode_GetSkeletonInstance"
-type = "long long"
+name = "sub_180190370"
 
 [header]
-name = "CGameSceneNode_GetSkeletonInstance"
+name = "sub_180190370"
 addr = 0x18f370
-type = "long long"
 
 [header.args]

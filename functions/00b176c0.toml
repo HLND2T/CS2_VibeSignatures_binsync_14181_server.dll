@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.905682Z
+last_change = 2026-09-11T03:34:27.248542Z
 addr = 0xb176c0
 size = 0x80
-name = "CBaseModelEntity_GetBoneTransform"
-type = "_OWORD *"
+name = "sub_180B186C0"
 
 [header]
-name = "CBaseModelEntity_GetBoneTransform"
+name = "sub_180B186C0"
 addr = 0xb176c0
-type = "_OWORD *"
 
 [header.args]

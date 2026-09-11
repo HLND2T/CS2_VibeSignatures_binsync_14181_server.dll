@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:30.326198Z
+last_change = 2026-09-11T03:34:44.636525Z
 addr = 0x914f40
 size = 0x4e4
-name = "GameSystem_Think_CheckSteamBan"
-type = "unsigned int *"
+name = "sub_180915F40"
 
 [header]
-name = "GameSystem_Think_CheckSteamBan"
+name = "sub_180915F40"
 addr = 0x914f40
-type = "unsigned int *"
 
 [header.args]

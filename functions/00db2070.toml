@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.906727Z
+last_change = 2026-09-11T03:34:27.249605Z
 addr = 0xdb2070
 size = 0x34
-name = "CBaseEntity_PhysicsTouch"
-type = "long long"
+name = "sub_180DB3070"
 
 [header]
-name = "CBaseEntity_PhysicsTouch"
+name = "sub_180DB3070"
 addr = 0xdb2070
-type = "long long"
 
 [header.args]

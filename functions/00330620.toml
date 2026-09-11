@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.904893Z
+last_change = 2026-09-11T03:34:27.247678Z
 addr = 0x330620
 size = 0xee9
-name = "HideState_OnUpdate"
-type = "void"
+name = "sub_180331620"
 
 [header]
-name = "HideState_OnUpdate"
+name = "sub_180331620"
 addr = 0x330620
-type = "void"
 
 [header.args]

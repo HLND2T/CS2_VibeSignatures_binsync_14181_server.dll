@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:35.301764Z
+last_change = 2026-09-11T03:34:27.248855Z
 addr = 0xbe2700
 size = 0x3c3
-name = "CSource2EntitySystem_StaticInit"
-type = "char"
+name = "sub_180BE3700"
 
 [header]
-name = "CSource2EntitySystem_StaticInit"
+name = "sub_180BE3700"
 addr = 0xbe2700
-type = "char"
 
 [header.args]

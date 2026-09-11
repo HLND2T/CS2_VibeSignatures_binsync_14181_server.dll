@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:44.321913Z
+last_change = 2026-09-11T03:34:27.249965Z
 addr = 0x1255260
 size = 0x7f
-name = "CEntitySystem_PostDataUpdate"
-type = "long long"
+name = "sub_181256260"
 
 [header]
-name = "CEntitySystem_PostDataUpdate"
+name = "sub_181256260"
 addr = 0x1255260
-type = "long long"
 
 [header.args]

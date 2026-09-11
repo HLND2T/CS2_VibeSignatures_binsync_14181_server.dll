@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.905608Z
+last_change = 2026-09-11T03:34:27.248461Z
 addr = 0xacde30
 size = 0x9e
-name = "CBasePlayerPawn_RemovePlayerItem"
-type = "void"
+name = "sub_180ACEE30"
 
 [header]
-name = "CBasePlayerPawn_RemovePlayerItem"
+name = "sub_180ACEE30"
 addr = 0xacde30
-type = "void"
 
 [header.args]

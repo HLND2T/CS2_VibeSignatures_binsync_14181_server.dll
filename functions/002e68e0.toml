@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.904865Z
+last_change = 2026-09-11T03:34:27.247651Z
 addr = 0x2e68e0
 size = 0x13b6
-name = "CCSBot_UpdatePathMovement"
-type = "long long"
+name = "sub_1802E78E0"
 
 [header]
-name = "CCSBot_UpdatePathMovement"
+name = "sub_1802E78E0"
 addr = 0x2e68e0
-type = "long long"
 
 [header.args]

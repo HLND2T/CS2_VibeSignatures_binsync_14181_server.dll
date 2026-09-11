@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:45.600043Z
+last_change = 2026-09-11T03:34:59.969618Z
 addr = 0x152fa60
 size = 0x1bc
-name = "ConnectInterfaces"
-type = "long long"
+name = "sub_181530A60"
 
 [header]
-name = "ConnectInterfaces"
+name = "sub_181530A60"
 addr = 0x152fa60
-type = "long long"
 
 [header.args]

@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.905164Z
+last_change = 2026-09-11T03:34:27.247990Z
 addr = 0x5e3aa0
 size = 0x21a7
-name = "CBaseModelEntity_GetScriptDescInternal"
-type = "long long"
+name = "sub_1805E4AA0"
 
 [header]
-name = "CBaseModelEntity_GetScriptDescInternal"
+name = "sub_1805E4AA0"
 addr = 0x5e3aa0
-type = "long long"
 
 [header.args]

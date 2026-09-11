@@ -1,10 +1,10 @@
-last_change = 2026-09-10T18:38:12.905292Z
+last_change = 2026-09-11T03:34:27.248127Z
 addr = 0x61b410
 size = 0x11a
-name = "CBaseEntity_ScriptSetAttributeFloatValue"
+name = "sub_18061C410"
 
 [header]
-name = "CBaseEntity_ScriptSetAttributeFloatValue"
+name = "sub_18061C410"
 addr = 0x61b410
 
 [header.args]

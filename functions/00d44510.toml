@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.906557Z
+last_change = 2026-09-11T03:34:27.249398Z
 addr = 0xd44510
 size = 0x3b
-name = "CSource2Server_GameServerSteamAPIActivated"
-type = "long long"
+name = "sub_180D45510"
 
 [header]
-name = "CSource2Server_GameServerSteamAPIActivated"
+name = "sub_180D45510"
 addr = 0xd44510
-type = "long long"
 
 [header.args]

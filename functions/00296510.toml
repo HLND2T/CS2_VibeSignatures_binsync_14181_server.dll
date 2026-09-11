@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:25.105581Z
+last_change = 2026-09-11T03:34:27.247584Z
 addr = 0x296510
 size = 0x930
-name = "CEntitySpawner_CPlayerSprayDecal_Spawn"
-type = "void"
+name = "sub_180297510"
 
 [header]
-name = "CEntitySpawner_CPlayerSprayDecal_Spawn"
+name = "sub_180297510"
 addr = 0x296510
-type = "void"
 
 [header.args]

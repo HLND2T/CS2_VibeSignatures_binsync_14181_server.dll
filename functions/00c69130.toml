@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:37.179431Z
+last_change = 2026-09-11T03:34:27.249071Z
 addr = 0xc69130
 size = 0x196
-name = "UTIL_GetPlayerControllerForEntity"
-type = "unsigned int *"
+name = "sub_180C6A130"
 
 [header]
-name = "UTIL_GetPlayerControllerForEntity"
+name = "sub_180C6A130"
 addr = 0xc69130
-type = "unsigned int *"
 
 [header.args]

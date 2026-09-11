@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:43.121268Z
+last_change = 2026-09-11T03:34:27.249781Z
 addr = 0x1248ba0
 size = 0x2bd
-name = "CEntitySystem_PrecacheEntity"
-type = "long long"
+name = "sub_181249BA0"
 
 [header]
-name = "CEntitySystem_PrecacheEntity"
+name = "sub_181249BA0"
 addr = 0x1248ba0
-type = "long long"
 
 [header.args]

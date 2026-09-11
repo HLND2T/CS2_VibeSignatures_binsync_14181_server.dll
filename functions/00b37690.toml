@@ -1,10 +1,10 @@
-last_change = 2026-09-10T18:38:12.905740Z
+last_change = 2026-09-11T03:34:27.248602Z
 addr = 0xb37690
 size = 0x47
-name = "CBaseModelEntity_ScriptGetAttachmentForward"
+name = "sub_180B38690"
 
 [header]
-name = "CBaseModelEntity_ScriptGetAttachmentForward"
+name = "sub_180B38690"
 addr = 0xb37690
 
 [header.args]

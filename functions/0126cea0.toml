@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:45.131104Z
+last_change = 2026-09-11T03:34:27.250060Z
 addr = 0x126cea0
 size = 0x194
-name = "CEntityInstance_UpdateOnRemove"
-type = "long long"
+name = "sub_18126DEA0"
 
 [header]
-name = "CEntityInstance_UpdateOnRemove"
+name = "sub_18126DEA0"
 addr = 0x126cea0
-type = "long long"
 
 [header.args]

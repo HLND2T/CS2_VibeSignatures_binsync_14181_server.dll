@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.907192Z
+last_change = 2026-09-11T03:34:27.250107Z
 addr = 0x1378240
 size = 0x26e9
-name = "CNavMesh_GetNearestNavArea"
-type = "long long"
+name = "sub_181379240"
 
 [header]
-name = "CNavMesh_GetNearestNavArea"
+name = "sub_181379240"
 addr = 0x1378240
-type = "long long"
 
 [header.args]

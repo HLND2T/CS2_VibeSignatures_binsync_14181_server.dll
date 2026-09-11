@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.906855Z
+last_change = 2026-09-11T03:34:27.249735Z
 addr = 0x1244310
 size = 0x1c8
-name = "CEntitySystem_DoConstructEntity"
-type = "char"
+name = "sub_181245310"
 
 [header]
-name = "CEntitySystem_DoConstructEntity"
+name = "sub_181245310"
 addr = 0x1244310
-type = "char"
 
 [header.args]

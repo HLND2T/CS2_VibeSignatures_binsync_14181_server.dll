@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.905716Z
+last_change = 2026-09-11T03:34:27.248578Z
 addr = 0xb2ce00
 size = 0x21d
-name = "CBasePlayerController_SimulateUserCommands"
-type = "void *"
+name = "sub_180B2DE00"
 
 [header]
-name = "CBasePlayerController_SimulateUserCommands"
+name = "sub_180B2DE00"
 addr = 0xb2ce00
-type = "void *"
 
 [header.args]

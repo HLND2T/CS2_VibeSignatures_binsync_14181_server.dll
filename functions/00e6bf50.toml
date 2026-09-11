@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.906803Z
+last_change = 2026-09-11T03:34:27.249685Z
 addr = 0xe6bf50
 size = 0x5
-name = "CSceneEntity_GetScriptDesc"
-type = "long long"
+name = "sub_180E6CF50"
 
 [header]
-name = "CSceneEntity_GetScriptDesc"
+name = "sub_180E6CF50"
 addr = 0xe6bf50
-type = "long long"
 
 [header.args]

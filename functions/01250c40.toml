@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:43.857076Z
+last_change = 2026-09-11T03:34:27.249918Z
 addr = 0x1250c40
 size = 0x1a
-name = "CEntityKeyValuesAllocator_GetTempBuffer"
-type = "__int128 *"
+name = "sub_181251C40"
 
 [header]
-name = "CEntityKeyValuesAllocator_GetTempBuffer"
+name = "sub_181251C40"
 addr = 0x1250c40
-type = "__int128 *"
 
 [header.args]

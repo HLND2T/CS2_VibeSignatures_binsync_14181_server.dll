@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.905844Z
+last_change = 2026-09-11T03:34:27.248709Z
 addr = 0xb84fc0
 size = 0x49
-name = "CSaveRestoreBlockSet_PostRestore"
-type = "long long"
+name = "sub_180B85FC0"
 
 [header]
-name = "CSaveRestoreBlockSet_PostRestore"
+name = "sub_180B85FC0"
 addr = 0xb84fc0
-type = "long long"
 
 [header.args]

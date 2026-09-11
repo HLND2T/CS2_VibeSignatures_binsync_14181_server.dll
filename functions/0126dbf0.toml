@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.907154Z
+last_change = 2026-09-11T03:34:27.250070Z
 addr = 0x126dbf0
 size = 0xc7
-name = "CNetworkSerializerBindingBuildFilter_GetFieldPriority"
-type = "long long"
+name = "sub_18126EBF0"
 
 [header]
-name = "CNetworkSerializerBindingBuildFilter_GetFieldPriority"
+name = "sub_18126EBF0"
 addr = 0x126dbf0
-type = "long long"
 
 [header.args]

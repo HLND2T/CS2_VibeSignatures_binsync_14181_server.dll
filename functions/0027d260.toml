@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.904787Z
+last_change = 2026-09-11T03:34:27.247578Z
 addr = 0x27d260
 size = 0x123
-name = "CGameMoney_OnMoneySpent"
-type = "long long"
+name = "sub_18027E260"
 
 [header]
-name = "CGameMoney_OnMoneySpent"
+name = "sub_18027E260"
 addr = 0x27d260
-type = "long long"
 
 [header.args]

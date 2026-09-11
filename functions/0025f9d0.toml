@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.904770Z
+last_change = 2026-09-11T03:34:27.247562Z
 addr = 0x25f9d0
 size = 0x29a
-name = "CCSPlayerPawnBase_CheckForIdle"
-type = "void"
+name = "sub_1802609D0"
 
 [header]
-name = "CCSPlayerPawnBase_CheckForIdle"
+name = "sub_1802609D0"
 addr = 0x25f9d0
-type = "void"
 
 [header.args]

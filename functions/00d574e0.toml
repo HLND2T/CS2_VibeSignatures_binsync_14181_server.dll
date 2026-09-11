@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:41.086869Z
+last_change = 2026-09-11T03:34:55.441476Z
 addr = 0xd574e0
 size = 0x89b
-name = "CSource2GameClients_ProcessUsercmds"
-type = "long long"
+name = "sub_180D584E0"
 
 [header]
-name = "CSource2GameClients_ProcessUsercmds"
+name = "sub_180D584E0"
 addr = 0xd574e0
-type = "long long"
 
 [header.args]

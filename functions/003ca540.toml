@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.904932Z
+last_change = 2026-09-11T03:34:27.247715Z
 addr = 0x3ca540
 size = 0x238
-name = "CBaseTrigger_EndTouch"
-type = "void"
+name = "sub_1803CB540"
 
 [header]
-name = "CBaseTrigger_EndTouch"
+name = "sub_1803CB540"
 addr = 0x3ca540
-type = "void"
 
 [header.args]

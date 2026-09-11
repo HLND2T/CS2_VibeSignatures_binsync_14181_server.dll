@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:30.840685Z
+last_change = 2026-09-11T03:34:27.248303Z
 addr = 0xa41d40
 size = 0x1482
-name = "TraceAttack"
-type = "long long"
+name = "sub_180A42D40"
 
 [header]
-name = "TraceAttack"
+name = "sub_180A42D40"
 addr = 0xa41d40
-type = "long long"
 
 [header.args]

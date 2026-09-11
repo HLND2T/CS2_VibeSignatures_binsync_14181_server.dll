@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.906527Z
+last_change = 2026-09-11T03:34:27.249371Z
 addr = 0xd437f0
 size = 0xde
-name = "CSource2Server_PreWorldUpdate"
-type = "long long"
+name = "sub_180D447F0"
 
 [header]
-name = "CSource2Server_PreWorldUpdate"
+name = "sub_180D447F0"
 addr = 0xd437f0
-type = "long long"
 
 [header.args]

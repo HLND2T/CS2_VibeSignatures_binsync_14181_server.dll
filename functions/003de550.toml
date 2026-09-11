@@ -1,10 +1,10 @@
-last_change = 2026-09-10T18:38:12.904975Z
+last_change = 2026-09-11T03:34:27.247784Z
 addr = 0x3de550
 size = 0xd8
-name = "CBaseEntity_Script_FollowEntity"
+name = "sub_1803DF550"
 
 [header]
-name = "CBaseEntity_Script_FollowEntity"
+name = "sub_1803DF550"
 addr = 0x3de550
 
 [header.args]

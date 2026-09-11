@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.906483Z
+last_change = 2026-09-11T03:34:27.249329Z
 addr = 0xd411e0
 size = 0x93
-name = "CSource2GameEntities_ShouldClientReceiveStringTableUserData"
-type = "char"
+name = "sub_180D421E0"
 
 [header]
-name = "CSource2GameEntities_ShouldClientReceiveStringTableUserData"
+name = "sub_180D421E0"
 addr = 0xd411e0
-type = "char"
 
 [header.args]

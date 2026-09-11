@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.906323Z
+last_change = 2026-09-11T03:34:27.249161Z
 addr = 0xc927a0
 size = 0x7cd
-name = "Host_Say"
-type = "char"
+name = "sub_180C937A0"
 
 [header]
-name = "Host_Say"
+name = "sub_180C937A0"
 addr = 0xc927a0
-type = "char"
 
 [header.args]

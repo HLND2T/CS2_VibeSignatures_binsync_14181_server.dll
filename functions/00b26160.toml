@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.905701Z
+last_change = 2026-09-11T03:34:27.248562Z
 addr = 0xb26160
 size = 0x26
-name = "CBaseModelEntity_FindBone"
-type = "long long"
+name = "sub_180B27160"
 
 [header]
-name = "CBaseModelEntity_FindBone"
+name = "sub_180B27160"
 addr = 0xb26160
-type = "long long"
 
 [header.args]

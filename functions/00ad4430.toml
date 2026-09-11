@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.905628Z
+last_change = 2026-09-11T03:34:27.248483Z
 addr = 0xad4430
 size = 0x39f
-name = "CCSPlayer_WeaponServices_HandleDropWeapon"
-type = "char"
+name = "sub_180AD5430"
 
 [header]
-name = "CCSPlayer_WeaponServices_HandleDropWeapon"
+name = "sub_180AD5430"
 addr = 0xad4430
-type = "char"
 
 [header.args]

@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.907008Z
+last_change = 2026-09-11T03:34:27.249947Z
 addr = 0x12550e0
 size = 0x89
-name = "CEntitySystem_AddEntityToEntityDataBase"
-type = "long long"
+name = "sub_1812560E0"
 
 [header]
-name = "CEntitySystem_AddEntityToEntityDataBase"
+name = "sub_1812560E0"
 addr = 0x12550e0
-type = "long long"
 
 [header.args]

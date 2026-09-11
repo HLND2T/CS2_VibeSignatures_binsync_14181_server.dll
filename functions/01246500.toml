@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:42.827195Z
+last_change = 2026-09-11T03:34:57.207523Z
 addr = 0x1246500
 size = 0x205
-name = "CEntitySystem_AddEntityIOEventToQueue"
-type = "void"
+name = "sub_181247500"
 
 [header]
-name = "CEntitySystem_AddEntityIOEventToQueue"
+name = "sub_181247500"
 addr = 0x1246500
-type = "void"
 
 [header.args]

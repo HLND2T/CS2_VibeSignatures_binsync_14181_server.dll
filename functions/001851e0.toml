@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.904665Z
+last_change = 2026-09-11T03:34:27.247454Z
 addr = 0x1851e0
 size = 0x189
-name = "NetworkStateChanged"
-type = "char"
+name = "sub_1801861E0"
 
 [header]
-name = "NetworkStateChanged"
+name = "sub_1801861E0"
 addr = 0x1851e0
-type = "char"
 
 [header.args]

@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.906290Z
+last_change = 2026-09-11T03:34:27.249124Z
 addr = 0xc7fad0
 size = 0x35c
-name = "EntInfo_CommandHandler"
-type = "void"
+name = "sub_180C80AD0"
 
 [header]
-name = "EntInfo_CommandHandler"
+name = "sub_180C80AD0"
 addr = 0xc7fad0
-type = "void"
 
 [header.args]

@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.905905Z
+last_change = 2026-09-11T03:34:27.248771Z
 addr = 0xbb5820
 size = 0x22a
-name = "CGameEntitySystem_FindEntityProcedural"
-type = "long long"
+name = "sub_180BB6820"
 
 [header]
-name = "CGameEntitySystem_FindEntityProcedural"
+name = "sub_180BB6820"
 addr = 0xbb5820
-type = "long long"
 
 [header.args]

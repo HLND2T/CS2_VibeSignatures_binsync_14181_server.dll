@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.906206Z
+last_change = 2026-09-11T03:34:27.249041Z
 addr = 0xc54740
 size = 0x7c
-name = "ClientPrint"
-type = "long long"
+name = "sub_180C55740"
 
 [header]
-name = "ClientPrint"
+name = "sub_180C55740"
 addr = 0xc54740
-type = "long long"
 
 [header.args]

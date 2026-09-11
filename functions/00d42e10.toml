@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:39.515150Z
+last_change = 2026-09-11T03:34:27.249342Z
 addr = 0xd42e10
 size = 0x47c
-name = "CSource2Server_Connect"
-type = "char"
+name = "sub_180D43E10"
 
 [header]
-name = "CSource2Server_Connect"
+name = "sub_180D43E10"
 addr = 0xd42e10
-type = "char"
 
 [header.args]

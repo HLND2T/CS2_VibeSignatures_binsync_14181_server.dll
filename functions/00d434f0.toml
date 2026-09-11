@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.906508Z
+last_change = 2026-09-11T03:34:27.249352Z
 addr = 0xd434f0
 size = 0xb4
-name = "CSource2Server_Shutdown"
-type = "long long"
+name = "sub_180D444F0"
 
 [header]
-name = "CSource2Server_Shutdown"
+name = "sub_180D444F0"
 addr = 0xd434f0
-type = "long long"
 
 [header.args]

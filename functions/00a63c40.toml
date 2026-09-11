@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.905501Z
+last_change = 2026-09-11T03:34:27.248339Z
 addr = 0xa63c40
 size = 0x63
-name = "CCSPlayerController_ResourceDataThink"
-type = "double"
+name = "sub_180A64C40"
 
 [header]
-name = "CCSPlayerController_ResourceDataThink"
+name = "sub_180A64C40"
 addr = 0xa63c40
-type = "double"
 
 [header.args]

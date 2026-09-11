@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.905593Z
+last_change = 2026-09-11T03:34:27.248437Z
 addr = 0xaa87b0
 size = 0x274
-name = "CCSPlayerPawn_HandleDropWeapon"
-type = "char"
+name = "sub_180AA97B0"
 
 [header]
-name = "CCSPlayerPawn_HandleDropWeapon"
+name = "sub_180AA97B0"
 addr = 0xaa87b0
-type = "char"
 
 [header.args]

@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:35.688514Z
+last_change = 2026-09-11T03:34:27.248892Z
 addr = 0xbedb30
 size = 0x68
-name = "CLoopModeFactory_CLoopModeGame_Shutdown"
-type = "long long"
+name = "sub_180BEEB30"
 
 [header]
-name = "CLoopModeFactory_CLoopModeGame_Shutdown"
+name = "sub_180BEEB30"
 addr = 0xbedb30
-type = "long long"
 
 [header.args]

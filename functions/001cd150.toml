@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:24.502132Z
+last_change = 2026-09-11T03:34:38.816846Z
 addr = 0x1cd150
 size = 0x14af
-name = "CCSPlayerPawn_Event_Killed"
-type = "char"
+name = "sub_1801CE150"
 
 [header]
-name = "CCSPlayerPawn_Event_Killed"
+name = "sub_1801CE150"
 addr = 0x1cd150
-type = "char"
 
 [header.args]

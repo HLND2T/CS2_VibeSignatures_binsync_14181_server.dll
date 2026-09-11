@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.907118Z
+last_change = 2026-09-11T03:34:27.250037Z
 addr = 0x126b610
 size = 0x8
-name = "CEntityInstance_Connect"
-type = "void"
+name = "sub_18126C610"
 
 [header]
-name = "CEntityInstance_Connect"
+name = "sub_18126C610"
 addr = 0x126b610
-type = "void"
 
 [header.args]

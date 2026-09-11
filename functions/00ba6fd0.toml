@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:34.324261Z
+last_change = 2026-09-11T03:34:48.640366Z
 addr = 0xba6fd0
 size = 0x216
-name = "CLoadingSpawnGroup_CreateEntityToSpawn"
-type = "long long"
+name = "sub_180BA7FD0"
 
 [header]
-name = "CLoadingSpawnGroup_CreateEntityToSpawn"
+name = "sub_180BA7FD0"
 addr = 0xba6fd0
-type = "long long"
 
 [header.args]

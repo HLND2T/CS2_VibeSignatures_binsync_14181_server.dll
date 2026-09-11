@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.904887Z
+last_change = 2026-09-11T03:34:27.247672Z
 addr = 0x3071c0
 size = 0x695
-name = "CBtActionCoordinatedBuy_Update"
-type = "long long"
+name = "sub_1803081C0"
 
 [header]
-name = "CBtActionCoordinatedBuy_Update"
+name = "sub_1803081C0"
 addr = 0x3071c0
-type = "long long"
 
 [header.args]

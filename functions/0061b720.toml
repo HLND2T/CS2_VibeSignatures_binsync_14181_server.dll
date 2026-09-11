@@ -1,10 +1,10 @@
-last_change = 2026-09-10T18:38:12.905323Z
+last_change = 2026-09-11T03:34:27.248160Z
 addr = 0x61b720
 size = 0x5
-name = "CBaseModelEntity_ScriptSetMaterialGroupHash"
+name = "sub_18061C720"
 
 [header]
-name = "CBaseModelEntity_ScriptSetMaterialGroupHash"
+name = "sub_18061C720"
 addr = 0x61b720
 
 [header.args]

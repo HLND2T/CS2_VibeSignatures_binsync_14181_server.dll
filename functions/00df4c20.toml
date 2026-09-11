@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:42.021345Z
+last_change = 2026-09-11T03:34:27.249665Z
 addr = 0xdf4c20
 size = 0x25a
-name = "CPlayerCommandQueue_UpdateStats"
-type = "void"
+name = "sub_180DF5C20"
 
 [header]
-name = "CPlayerCommandQueue_UpdateStats"
+name = "sub_180DF5C20"
 addr = 0xdf4c20
-type = "void"
 
 [header.args]

@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:37.776124Z
+last_change = 2026-09-11T03:34:27.249145Z
 addr = 0xc8d970
 size = 0x423
-name = "GiveCommand"
-type = "void"
+name = "sub_180C8E970"
 
 [header]
-name = "GiveCommand"
+name = "sub_180C8E970"
 addr = 0xc8d970
-type = "void"
 
 [header.args]

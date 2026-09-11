@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.906662Z
+last_change = 2026-09-11T03:34:27.249531Z
 addr = 0xd509b0
 size = 0x6c
-name = "CGameRules_GetChatPrefix"
-type = "const char *"
+name = "sub_180D519B0"
 
 [header]
-name = "CGameRules_GetChatPrefix"
+name = "sub_180D519B0"
 addr = 0xd509b0
-type = "const char *"
 
 [header.args]

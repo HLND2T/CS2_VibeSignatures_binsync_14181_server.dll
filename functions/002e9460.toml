@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.904875Z
+last_change = 2026-09-11T03:34:27.247662Z
 addr = 0x2e9460
 size = 0x2b5
-name = "BotAdd_CommandHandler"
-type = "void"
+name = "sub_1802EA460"
 
 [header]
-name = "BotAdd_CommandHandler"
+name = "sub_1802EA460"
 addr = 0x2e9460
-type = "void"
 
 [header.args]

@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.905914Z
+last_change = 2026-09-11T03:34:27.248781Z
 addr = 0xbbb2b0
 size = 0xa
-name = "CEntitySystem_GetSpawnGroupWorldId"
-type = "unsigned int *"
+name = "sub_180BBC2B0"
 
 [header]
-name = "CEntitySystem_GetSpawnGroupWorldId"
+name = "sub_180BBC2B0"
 addr = 0xbbb2b0
-type = "unsigned int *"
 
 [header.args]

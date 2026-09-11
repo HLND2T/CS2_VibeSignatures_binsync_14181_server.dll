@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.906823Z
+last_change = 2026-09-11T03:34:27.249704Z
 addr = 0xeb50d0
 size = 0x3b
-name = "CTriggerGravity_GravityTouch"
-type = "long long"
+name = "sub_180EB60D0"
 
 [header]
-name = "CTriggerGravity_GravityTouch"
+name = "sub_180EB60D0"
 addr = 0xeb50d0
-type = "long long"
 
 [header.args]

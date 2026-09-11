@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.906575Z
+last_change = 2026-09-11T03:34:27.249416Z
 addr = 0xd44a10
 size = 0xf4
-name = "CSource2Server_ServerConVarChanged"
-type = "long long"
+name = "sub_180D45A10"
 
 [header]
-name = "CSource2Server_ServerConVarChanged"
+name = "sub_180D45A10"
 addr = 0xd44a10
-type = "long long"
 
 [header.args]

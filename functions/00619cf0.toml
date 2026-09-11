@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:28.228142Z
+last_change = 2026-09-11T03:34:42.548114Z
 addr = 0x619cf0
 size = 0x2e4
-name = "CNetworkUtlVectorEmbedded_TryLateResolve_m_vecRenderAttributes"
-type = "char"
+name = "sub_18061ACF0"
 
 [header]
-name = "CNetworkUtlVectorEmbedded_TryLateResolve_m_vecRenderAttributes"
+name = "sub_18061ACF0"
 addr = 0x619cf0
-type = "char"
 
 [header.args]

@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.905691Z
+last_change = 2026-09-11T03:34:27.248551Z
 addr = 0xb19f70
 size = 0x5f
-name = "CBasePlayerController_GetPawn"
-type = "long long"
+name = "sub_180B1AF70"
 
 [header]
-name = "CBasePlayerController_GetPawn"
+name = "sub_180B1AF70"
 addr = 0xb19f70
-type = "long long"
 
 [header.args]

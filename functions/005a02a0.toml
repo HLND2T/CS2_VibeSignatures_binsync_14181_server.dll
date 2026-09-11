@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.905144Z
+last_change = 2026-09-11T03:34:27.247969Z
 addr = 0x5a02a0
 size = 0x26f
-name = "CSpawnGroupMgrGameSystem_SpawnGroupShutdown"
-type = "void"
+name = "sub_1805A12A0"
 
 [header]
-name = "CSpawnGroupMgrGameSystem_SpawnGroupShutdown"
+name = "sub_1805A12A0"
 addr = 0x5a02a0
-type = "void"
 
 [header.args]

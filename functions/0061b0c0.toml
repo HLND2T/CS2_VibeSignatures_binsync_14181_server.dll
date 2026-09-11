@@ -1,10 +1,10 @@
-last_change = 2026-09-10T18:38:12.905239Z
+last_change = 2026-09-11T03:34:27.248071Z
 addr = 0x61b0c0
 size = 0x15
-name = "CBaseModelEntity_ScriptGetMaterialGroupHash"
+name = "sub_18061C0C0"
 
 [header]
-name = "CBaseModelEntity_ScriptGetMaterialGroupHash"
+name = "sub_18061C0C0"
 addr = 0x61b0c0
 
 [header.args]

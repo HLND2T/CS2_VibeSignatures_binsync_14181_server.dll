@@ -1,10 +1,10 @@
-last_change = 2026-09-10T18:38:12.905378Z
+last_change = 2026-09-11T03:34:27.248216Z
 addr = 0x61b950
 size = 0x52
-name = "CBaseEntity_Script_Trigger"
+name = "sub_18061C950"
 
 [header]
-name = "CBaseEntity_Script_Trigger"
+name = "sub_18061C950"
 addr = 0x61b950
 
 [header.args]

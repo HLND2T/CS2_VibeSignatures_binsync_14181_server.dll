@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.905880Z
+last_change = 2026-09-11T03:34:27.248745Z
 addr = 0xba71f0
 size = 0x9a4
-name = "CreateEntityTransitionList"
-type = "long long"
+name = "sub_180BA81F0"
 
 [header]
-name = "CreateEntityTransitionList"
+name = "sub_180BA81F0"
 addr = 0xba71f0
-type = "long long"
 
 [header.args]

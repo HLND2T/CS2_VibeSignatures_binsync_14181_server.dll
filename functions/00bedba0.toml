@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.906057Z
+last_change = 2026-09-11T03:34:27.248897Z
 addr = 0xbedba0
 size = 0x1c8
-name = "CLoopModeFactory_CLoopModeGame_CreateLoopMode"
-type = "unsigned long long *"
+name = "sub_180BEEBA0"
 
 [header]
-name = "CLoopModeFactory_CLoopModeGame_CreateLoopMode"
+name = "sub_180BEEBA0"
 addr = 0xbedba0
-type = "unsigned long long *"
 
 [header.args]

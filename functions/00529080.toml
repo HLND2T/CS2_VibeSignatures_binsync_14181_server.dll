@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.905043Z
+last_change = 2026-09-11T03:34:27.247864Z
 addr = 0x529080
 size = 0x5b5
-name = "IGameSystem_LoopInitAllSystems"
-type = "bool"
+name = "sub_18052A080"
 
 [header]
-name = "IGameSystem_LoopInitAllSystems"
+name = "sub_18052A080"
 addr = 0x529080
-type = "bool"
 
 [header.args]

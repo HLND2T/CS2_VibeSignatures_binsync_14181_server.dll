@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:25.788871Z
+last_change = 2026-09-11T03:34:27.247667Z
 addr = 0x2ea740
 size = 0x384
-name = "BotKill_CommandHandler"
-type = "void"
+name = "sub_1802EB740"
 
 [header]
-name = "BotKill_CommandHandler"
+name = "sub_1802EB740"
 addr = 0x2ea740
-type = "void"
 
 [header.args]

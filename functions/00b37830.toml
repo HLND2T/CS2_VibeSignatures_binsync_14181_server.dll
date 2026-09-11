@@ -1,10 +1,10 @@
-last_change = 2026-09-10T18:38:12.905762Z
+last_change = 2026-09-11T03:34:27.248625Z
 addr = 0xb37830
 size = 0x5a
-name = "CBaseModelEntity_Script_SetSkin"
+name = "sub_180B38830"
 
 [header]
-name = "CBaseModelEntity_Script_SetSkin"
+name = "sub_180B38830"
 addr = 0xb37830
 
 [header.args]

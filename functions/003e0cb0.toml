@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.905000Z
+last_change = 2026-09-11T03:34:27.247822Z
 addr = 0x3e0cb0
 size = 0xa3
-name = "CBaseEntity_SetMoveType"
-type = "long long"
+name = "sub_1803E1CB0"
 
 [header]
-name = "CBaseEntity_SetMoveType"
+name = "sub_1803E1CB0"
 addr = 0x3e0cb0
-type = "long long"
 
 [header.args]

@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.906841Z
+last_change = 2026-09-11T03:34:27.249721Z
 addr = 0xeced20
 size = 0x1e2
-name = "UTIL_SayTextFilter"
-type = "long long"
+name = "sub_180ECFD20"
 
 [header]
-name = "UTIL_SayTextFilter"
+name = "sub_180ECFD20"
 addr = 0xeced20
-type = "long long"
 
 [header.args]

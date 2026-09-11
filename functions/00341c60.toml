@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.904898Z
+last_change = 2026-09-11T03:34:27.247683Z
 addr = 0x341c60
 size = 0x429
-name = "CChicken_Event_Killed"
-type = "long long"
+name = "sub_180342C60"
 
 [header]
-name = "CChicken_Event_Killed"
+name = "sub_180342C60"
 addr = 0x341c60
-type = "long long"
 
 [header.args]

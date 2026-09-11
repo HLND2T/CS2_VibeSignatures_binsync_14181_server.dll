@@ -1,10 +1,10 @@
-last_change = 2026-09-10T18:38:12.905265Z
+last_change = 2026-09-11T03:34:27.248099Z
 addr = 0x61b200
 size = 0xe
-name = "CBaseEntity_ScriptGetSpawnGroupHandle"
+name = "sub_18061C200"
 
 [header]
-name = "CBaseEntity_ScriptGetSpawnGroupHandle"
+name = "sub_18061C200"
 addr = 0x61b200
 
 [header.args]

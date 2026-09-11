@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.904904Z
+last_change = 2026-09-11T03:34:27.247688Z
 addr = 0x343a80
 size = 0x1413
-name = "CInferno_InfernoThink"
-type = "long long"
+name = "sub_180344A80"
 
 [header]
-name = "CInferno_InfernoThink"
+name = "sub_180344A80"
 addr = 0x343a80
-type = "long long"
 
 [header.args]

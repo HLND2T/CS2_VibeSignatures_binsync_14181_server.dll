@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:33.730074Z
+last_change = 2026-09-11T03:34:27.248671Z
 addr = 0xb828c0
 size = 0x22e
-name = "CEntitySaveRestoreBlockHandler_PreSave"
-type = "long long"
+name = "sub_180B838C0"
 
 [header]
-name = "CEntitySaveRestoreBlockHandler_PreSave"
+name = "sub_180B838C0"
 addr = 0xb828c0
-type = "long long"
 
 [header.args]

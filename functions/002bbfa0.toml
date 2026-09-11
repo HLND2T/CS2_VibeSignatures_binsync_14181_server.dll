@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.904826Z
+last_change = 2026-09-11T03:34:27.247617Z
 addr = 0x2bbfa0
 size = 0x708
-name = "CCSBot_ComputePath"
-type = "long long"
+name = "sub_1802BCFA0"
 
 [header]
-name = "CCSBot_ComputePath"
+name = "sub_1802BCFA0"
 addr = 0x2bbfa0
-type = "long long"
 
 [header.args]

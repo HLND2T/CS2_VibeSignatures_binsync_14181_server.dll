@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.904942Z
+last_change = 2026-09-11T03:34:27.247725Z
 addr = 0x3cc6a0
 size = 0xda
-name = "CBaseEntity_GetAbsVelocity"
-type = "long long"
+name = "sub_1803CD6A0"
 
 [header]
-name = "CBaseEntity_GetAbsVelocity"
+name = "sub_1803CD6A0"
 addr = 0x3cc6a0
-type = "long long"
 
 [header.args]

@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:27.507758Z
+last_change = 2026-09-11T03:34:27.247916Z
 addr = 0x55ee40
 size = 0x847
-name = "CPhysicsGameSystem_ProcessContactEvents"
-type = "long long"
+name = "sub_18055FE40"
 
 [header]
-name = "CPhysicsGameSystem_ProcessContactEvents"
+name = "sub_18055FE40"
 addr = 0x55ee40
-type = "long long"
 
 [header.args]

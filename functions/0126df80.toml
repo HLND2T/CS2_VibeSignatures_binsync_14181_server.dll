@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:45.300512Z
+last_change = 2026-09-11T03:34:27.250079Z
 addr = 0x126df80
 size = 0xa
-name = "CEntityInstance_NetworkUpdateState_thunk"
-type = "long long"
+name = "sub_18126EF80"
 
 [header]
-name = "CEntityInstance_NetworkUpdateState_thunk"
+name = "sub_18126EF80"
 addr = 0x126df80
-type = "long long"
 
 [header.args]

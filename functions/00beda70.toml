@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.906046Z
+last_change = 2026-09-11T03:34:27.248888Z
 addr = 0xbeda70
 size = 0xb5
-name = "CLoopModeFactory_CLoopModeGame_Init"
-type = "char"
+name = "sub_180BEEA70"
 
 [header]
-name = "CLoopModeFactory_CLoopModeGame_Init"
+name = "sub_180BEEA70"
 addr = 0xbeda70
-type = "char"
 
 [header.args]

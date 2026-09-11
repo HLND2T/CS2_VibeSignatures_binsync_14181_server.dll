@@ -1,10 +1,10 @@
-last_change = 2026-09-10T18:38:12.905248Z
+last_change = 2026-09-11T03:34:27.248080Z
 addr = 0x61b0f0
 size = 0x52
-name = "CBaseEntity_ScriptGetModelName"
+name = "sub_18061C0F0"
 
 [header]
-name = "CBaseEntity_ScriptGetModelName"
+name = "sub_18061C0F0"
 addr = 0x61b0f0
 
 [header.args]

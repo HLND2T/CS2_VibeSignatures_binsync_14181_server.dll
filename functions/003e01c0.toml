@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.904995Z
+last_change = 2026-09-11T03:34:27.247817Z
 addr = 0x3e01c0
 size = 0x5b
-name = "CBaseEntity_SetGravityScale"
-type = "long long"
+name = "sub_1803E11C0"
 
 [header]
-name = "CBaseEntity_SetGravityScale"
+name = "sub_1803E11C0"
 addr = 0x3e01c0
-type = "long long"
 
 [header.args]

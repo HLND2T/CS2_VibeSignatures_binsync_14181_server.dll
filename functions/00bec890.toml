@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.906041Z
+last_change = 2026-09-11T03:34:27.248884Z
 addr = 0xbec890
 size = 0x68
-name = "NET_ReloadGameEvents_CommandHandler"
-type = "long long"
+name = "sub_180BED890"
 
 [header]
-name = "NET_ReloadGameEvents_CommandHandler"
+name = "sub_180BED890"
 addr = 0xbec890
-type = "long long"
 
 [header.args]

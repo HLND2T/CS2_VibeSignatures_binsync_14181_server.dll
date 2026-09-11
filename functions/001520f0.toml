@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.904545Z
+last_change = 2026-09-11T03:34:27.247336Z
 addr = 0x1520f0
 size = 0x9
-name = "CBaseEntity_GetChangeAccessorPathInfo_1"
-type = "long long"
+name = "sub_1801530F0"
 
 [header]
-name = "CBaseEntity_GetChangeAccessorPathInfo_1"
+name = "sub_1801530F0"
 addr = 0x1520f0
-type = "long long"
 
 [header.args]

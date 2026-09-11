@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.905455Z
+last_change = 2026-09-11T03:34:27.248293Z
 addr = 0xa3afe0
 size = 0x2fd
-name = "CCSPlayerController_ChangeTeam"
-type = "_UNKNOWN **"
+name = "sub_180A3BFE0"
 
 [header]
-name = "CCSPlayerController_ChangeTeam"
+name = "sub_180A3BFE0"
 addr = 0xa3afe0
-type = "_UNKNOWN **"
 
 [header.args]

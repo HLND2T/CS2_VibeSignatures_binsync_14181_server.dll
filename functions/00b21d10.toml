@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:32.752663Z
+last_change = 2026-09-11T03:34:27.248557Z
 addr = 0xb21d10
 size = 0x64
-name = "CBasePlayerController_IsFakeClient"
-type = "char"
+name = "sub_180B22D10"
 
 [header]
-name = "CBasePlayerController_IsFakeClient"
+name = "sub_180B22D10"
 addr = 0xb21d10
-type = "char"
 
 [header.args]

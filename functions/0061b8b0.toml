@@ -1,10 +1,10 @@
-last_change = 2026-09-10T18:38:12.905360Z
+last_change = 2026-09-11T03:34:27.248197Z
 addr = 0x61b8b0
 size = 0x32
-name = "CBaseEntity_ScriptTransformPointEntityToWorld"
+name = "sub_18061C8B0"
 
 [header]
-name = "CBaseEntity_ScriptTransformPointEntityToWorld"
+name = "sub_18061C8B0"
 addr = 0x61b8b0
 
 [header.args]

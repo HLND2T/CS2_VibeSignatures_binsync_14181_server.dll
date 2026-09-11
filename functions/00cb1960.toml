@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.906453Z
+last_change = 2026-09-11T03:34:27.249298Z
 addr = 0xcb1960
 size = 0x5d8
-name = "CMomentaryRotButton_Use"
-type = "double"
+name = "sub_180CB2960"
 
 [header]
-name = "CMomentaryRotButton_Use"
+name = "sub_180CB2960"
 addr = 0xcb1960
-type = "double"
 
 [header.args]

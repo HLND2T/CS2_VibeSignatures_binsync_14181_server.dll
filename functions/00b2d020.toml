@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.905721Z
+last_change = 2026-09-11T03:34:27.248582Z
 addr = 0xb2d020
 size = 0x4c2
-name = "CBasePlayerPawn_PhysicsSimulate"
-type = "long long"
+name = "sub_180B2E020"
 
 [header]
-name = "CBasePlayerPawn_PhysicsSimulate"
+name = "sub_180B2E020"
 addr = 0xb2d020
-type = "long long"
 
 [header.args]

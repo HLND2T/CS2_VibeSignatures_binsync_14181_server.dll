@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.904965Z
+last_change = 2026-09-11T03:34:27.247764Z
 addr = 0x3daac0
 size = 0x219
-name = "CBaseTrigger_PassesTriggerFilters"
-type = "char"
+name = "sub_1803DBAC0"
 
 [header]
-name = "CBaseTrigger_PassesTriggerFilters"
+name = "sub_1803DBAC0"
 addr = 0x3daac0
-type = "char"
 
 [header.args]

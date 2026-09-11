@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:39.386338Z
+last_change = 2026-09-11T03:34:27.249324Z
 addr = 0xd40960
 size = 0x84f
-name = "CSource2GameEntities_CheckTransmit"
-type = "long long"
+name = "sub_180D41960"
 
 [header]
-name = "CSource2GameEntities_CheckTransmit"
+name = "sub_180D41960"
 addr = 0xd40960
-type = "long long"
 
 [header.args]

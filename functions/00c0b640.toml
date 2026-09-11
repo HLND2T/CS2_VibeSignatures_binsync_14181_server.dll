@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.906113Z
+last_change = 2026-09-11T03:34:27.248951Z
 addr = 0xc0b640
 size = 0x19d
-name = "CLoopModeGame_OnLoopActivate"
-type = "long long"
+name = "sub_180C0C640"
 
 [header]
-name = "CLoopModeGame_OnLoopActivate"
+name = "sub_180C0C640"
 addr = 0xc0b640
-type = "long long"
 
 [header.args]

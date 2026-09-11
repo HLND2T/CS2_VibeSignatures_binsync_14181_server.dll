@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.906253Z
+last_change = 2026-09-11T03:34:27.249088Z
 addr = 0xc78bb0
 size = 0x1e9
-name = "CBaseEntity_dtor"
-type = "long long"
+name = "sub_180C79BB0"
 
 [header]
-name = "CBaseEntity_dtor"
+name = "sub_180C79BB0"
 addr = 0xc78bb0
-type = "long long"
 
 [header.args]

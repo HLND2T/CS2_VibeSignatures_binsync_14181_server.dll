@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:37.733477Z
+last_change = 2026-09-11T03:34:27.249140Z
 addr = 0xc8d3f0
 size = 0x3fa
-name = "CBasePlayerPawn_Event_Killed"
-type = "char"
+name = "sub_180C8E3F0"
 
 [header]
-name = "CBasePlayerPawn_Event_Killed"
+name = "sub_180C8E3F0"
 addr = 0xc8d3f0
-type = "char"
 
 [header.args]

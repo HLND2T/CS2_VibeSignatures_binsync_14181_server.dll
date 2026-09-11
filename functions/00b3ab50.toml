@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.905787Z
+last_change = 2026-09-11T03:34:27.248651Z
 addr = 0xb3ab50
 size = 0x3f0
-name = "CBaseModelEntity_SetRenderAttribute"
-type = "void"
+name = "sub_180B3BB50"
 
 [header]
-name = "CBaseModelEntity_SetRenderAttribute"
+name = "sub_180B3BB50"
 addr = 0xb3ab50
-type = "void"
 
 [header.args]

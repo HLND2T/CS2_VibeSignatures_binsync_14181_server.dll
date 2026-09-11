@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:27.253524Z
+last_change = 2026-09-11T03:34:27.247883Z
 addr = 0x52e5b0
 size = 0x1bb
-name = "IGameSystem_PostInit"
-type = "void *"
+name = "sub_18052F5B0"
 
 [header]
-name = "IGameSystem_PostInit"
+name = "sub_18052F5B0"
 addr = 0x52e5b0
-type = "void *"
 
 [header.args]

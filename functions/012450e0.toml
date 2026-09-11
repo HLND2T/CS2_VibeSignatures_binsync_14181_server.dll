@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.906860Z
+last_change = 2026-09-11T03:34:27.249740Z
 addr = 0x12450e0
 size = 0x4d9
-name = "CEntitySystem_ctor"
-type = "long long"
+name = "sub_1812460E0"
 
 [header]
-name = "CEntitySystem_ctor"
+name = "sub_1812460E0"
 addr = 0x12450e0
-type = "long long"
 
 [header.args]

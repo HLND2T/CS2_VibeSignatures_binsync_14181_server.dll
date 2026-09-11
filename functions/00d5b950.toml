@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.906692Z
+last_change = 2026-09-11T03:34:27.249569Z
 addr = 0xd5b950
 size = 0x9f
-name = "CSource2GameClients_StartHLTVServer"
-type = "void"
+name = "sub_180D5C950"
 
 [header]
-name = "CSource2GameClients_StartHLTVServer"
+name = "sub_180D5C950"
 addr = 0xd5b950
-type = "void"
 
 [header.args]

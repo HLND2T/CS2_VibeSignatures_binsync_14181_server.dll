@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.906077Z
+last_change = 2026-09-11T03:34:27.248917Z
 addr = 0xbfdcb0
 size = 0xbd
-name = "DispatchParticleEffect2"
-type = "long long"
+name = "sub_180BFECB0"
 
 [header]
-name = "DispatchParticleEffect2"
+name = "sub_180BFECB0"
 addr = 0xbfdcb0
-type = "long long"
 
 [header.args]

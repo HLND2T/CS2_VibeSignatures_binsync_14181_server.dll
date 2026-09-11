@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:41.978685Z
+last_change = 2026-09-11T03:34:27.249660Z
 addr = 0xdea830
 size = 0x129
-name = "PhysEnableEntityCollisions"
-type = "void"
+name = "sub_180DEB830"
 
 [header]
-name = "PhysEnableEntityCollisions"
+name = "sub_180DEB830"
 addr = 0xdea830
-type = "void"
 
 [header.args]

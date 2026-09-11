@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.904937Z
+last_change = 2026-09-11T03:34:27.247720Z
 addr = 0x3cc4d0
 size = 0x2c
-name = "CBaseEntity_GetAbsAngles"
-type = "long long"
+name = "sub_1803CD4D0"
 
 [header]
-name = "CBaseEntity_GetAbsAngles"
+name = "sub_1803CD4D0"
 addr = 0x3cc4d0
-type = "long long"
 
 [header.args]

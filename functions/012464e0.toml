@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:42.784210Z
+last_change = 2026-09-11T03:34:27.249749Z
 addr = 0x12464e0
 size = 0x1c
-name = "CEntitySystem_RegisterAccessor"
-type = "long long"
+name = "sub_1812474E0"
 
 [header]
-name = "CEntitySystem_RegisterAccessor"
+name = "sub_1812474E0"
 addr = 0x12464e0
-type = "long long"
 
 [header.args]

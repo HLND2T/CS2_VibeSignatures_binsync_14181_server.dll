@@ -1,10 +1,10 @@
-last_change = 2026-09-10T18:38:12.906390Z
+last_change = 2026-09-11T03:34:27.249233Z
 addr = 0xca5400
 size = 0x3c
-name = "CBaseEntity_ScriptNextMovePeer"
+name = "sub_180CA6400"
 
 [header]
-name = "CBaseEntity_ScriptNextMovePeer"
+name = "sub_180CA6400"
 addr = 0xca5400
 
 [header.args]

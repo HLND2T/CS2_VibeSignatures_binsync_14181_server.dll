@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:35.517893Z
+last_change = 2026-09-11T03:34:27.248879Z
 addr = 0xbe8f80
 size = 0x11f
-name = "CGameSceneNode_UpdateEntityForHierarchyChange"
-type = "long long"
+name = "sub_180BE9F80"
 
 [header]
-name = "CGameSceneNode_UpdateEntityForHierarchyChange"
+name = "sub_180BE9F80"
 addr = 0xbe8f80
-type = "long long"
 
 [header.args]

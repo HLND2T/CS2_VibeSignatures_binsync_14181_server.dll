@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.906808Z
+last_change = 2026-09-11T03:34:27.249690Z
 addr = 0xe8f6d0
 size = 0x3eb
-name = "CScriptedSequence_SynchronizeSequence"
-type = "void"
+name = "sub_180E906D0"
 
 [header]
-name = "CScriptedSequence_SynchronizeSequence"
+name = "sub_180E906D0"
 addr = 0xe8f6d0
-type = "void"
 
 [header.args]

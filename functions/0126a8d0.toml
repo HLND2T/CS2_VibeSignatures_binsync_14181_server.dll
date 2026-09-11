@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.907104Z
+last_change = 2026-09-11T03:34:27.250023Z
 addr = 0x126a8d0
 size = 0xeb
-name = "CEntityInstance_dtor"
-type = "long long"
+name = "sub_18126B8D0"
 
 [header]
-name = "CEntityInstance_dtor"
+name = "sub_18126B8D0"
 addr = 0x126a8d0
-type = "long long"
 
 [header.args]

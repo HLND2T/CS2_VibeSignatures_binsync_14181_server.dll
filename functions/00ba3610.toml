@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.905860Z
+last_change = 2026-09-11T03:34:27.248724Z
 addr = 0xba3610
 size = 0x4b2
-name = "CGameEntitySystem_BuildResourceManifest_KeyValuesVectors"
-type = "long long"
+name = "sub_180BA4610"
 
 [header]
-name = "CGameEntitySystem_BuildResourceManifest_KeyValuesVectors"
+name = "sub_180BA4610"
 addr = 0xba3610
-type = "long long"
 
 [header.args]

@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.905053Z
+last_change = 2026-09-11T03:34:27.247873Z
 addr = 0x529790
 size = 0xef
-name = "IGameSystem_LoopPreShutdownAllSystems"
-type = "long long"
+name = "sub_18052A790"
 
 [header]
-name = "IGameSystem_LoopPreShutdownAllSystems"
+name = "sub_18052A790"
 addr = 0x529790
-type = "long long"
 
 [header.args]

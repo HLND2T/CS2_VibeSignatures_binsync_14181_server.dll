@@ -1,10 +1,10 @@
-last_change = 2026-09-10T18:38:12.904659Z
+last_change = 2026-09-11T03:34:27.247448Z
 addr = 0x15bda0
 size = 0x3
-name = "IGameSystem_OnSpawnGroupUncache"
+name = "nullsub_2441"
 
 [header]
-name = "IGameSystem_OnSpawnGroupUncache"
+name = "nullsub_2441"
 addr = 0x15bda0
 
 [header.args]

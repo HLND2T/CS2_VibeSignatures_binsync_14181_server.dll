@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.906072Z
+last_change = 2026-09-11T03:34:27.248912Z
 addr = 0xbfcc30
 size = 0x187
-name = "ParticleTestStart_CommandHandler"
-type = "long long"
+name = "sub_180BFDC30"
 
 [header]
-name = "ParticleTestStart_CommandHandler"
+name = "sub_180BFDC30"
 addr = 0xbfcc30
-type = "long long"
 
 [header.args]

@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.906580Z
+last_change = 2026-09-11T03:34:27.249421Z
 addr = 0xd450c0
 size = 0x59
-name = "CSource2Server_Save"
-type = "char"
+name = "sub_180D460C0"
 
 [header]
-name = "CSource2Server_Save"
+name = "sub_180D460C0"
 addr = 0xd450c0
-type = "char"
 
 [header.args]

@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.906108Z
+last_change = 2026-09-11T03:34:27.248946Z
 addr = 0xc0b570
 size = 0xd0
-name = "CLoopModeGame_OnFrameBoundary"
-type = "long long"
+name = "sub_180C0C570"
 
 [header]
-name = "CLoopModeGame_OnFrameBoundary"
+name = "sub_180C0C570"
 addr = 0xc0b570
-type = "long long"
 
 [header.args]

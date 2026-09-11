@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:30.412498Z
+last_change = 2026-09-11T03:34:44.722120Z
 addr = 0x93c800
 size = 0x16b4
-name = "CCSGameRules_TerminateRound"
-type = "char *"
+name = "sub_18093D800"
 
 [header]
-name = "CCSGameRules_TerminateRound"
+name = "sub_18093D800"
 addr = 0x93c800
-type = "char *"
 
 [header.args]

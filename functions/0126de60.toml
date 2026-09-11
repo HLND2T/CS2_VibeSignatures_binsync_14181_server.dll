@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:45.258056Z
+last_change = 2026-09-11T03:34:27.250074Z
 addr = 0x126de60
 size = 0x8a
-name = "EntityInstanceAssignChangeAccessorPathIds"
-type = "long long"
+name = "sub_18126EE60"
 
 [header]
-name = "EntityInstanceAssignChangeAccessorPathIds"
+name = "sub_18126EE60"
 addr = 0x126de60
-type = "long long"
 
 [header.args]

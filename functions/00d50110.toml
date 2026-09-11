@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.906652Z
+last_change = 2026-09-11T03:34:27.249519Z
 addr = 0xd50110
 size = 0xf5
-name = "CCSGameRules_FindPickerEntity"
-type = "long long"
+name = "sub_180D51110"
 
 [header]
-name = "CCSGameRules_FindPickerEntity"
+name = "sub_180D51110"
 addr = 0xd50110
-type = "long long"
 
 [header.args]

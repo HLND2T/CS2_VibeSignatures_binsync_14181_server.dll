@@ -1,10 +1,10 @@
-last_change = 2026-09-10T18:38:12.904563Z
+last_change = 2026-09-11T03:34:27.247354Z
 addr = 0x159cc0
 size = 0x3
-name = "IGameSystem_OnServerAdvanceTick"
+name = "nullsub_2401"
 
 [header]
-name = "IGameSystem_OnServerAdvanceTick"
+name = "nullsub_2401"
 addr = 0x159cc0
 
 [header.args]

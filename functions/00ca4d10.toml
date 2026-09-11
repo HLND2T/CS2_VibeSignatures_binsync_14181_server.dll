@@ -1,10 +1,10 @@
-last_change = 2026-09-10T18:38:12.906342Z
+last_change = 2026-09-11T03:34:27.249182Z
 addr = 0xca4d10
 size = 0x3c
-name = "CBaseEntity_ScriptFirstMoveChild"
+name = "sub_180CA5D10"
 
 [header]
-name = "CBaseEntity_ScriptFirstMoveChild"
+name = "sub_180CA5D10"
 addr = 0xca4d10
 
 [header.args]

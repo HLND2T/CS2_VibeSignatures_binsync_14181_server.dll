@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.905668Z
+last_change = 2026-09-11T03:34:27.248525Z
 addr = 0xb14d90
 size = 0x61
-name = "CBasePlayerPawn_GetEyePosition"
-type = "long long"
+name = "sub_180B15D90"
 
 [header]
-name = "CBasePlayerPawn_GetEyePosition"
+name = "sub_180B15D90"
 addr = 0xb14d90
-type = "long long"
 
 [header.args]

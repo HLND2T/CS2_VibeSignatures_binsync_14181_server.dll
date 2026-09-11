@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.906643Z
+last_change = 2026-09-11T03:34:27.249486Z
 addr = 0xd4e1b0
 size = 0x148
-name = "CSource2GameClients_ClientSetupVisibility"
-type = "long long"
+name = "sub_180D4F1B0"
 
 [header]
-name = "CSource2GameClients_ClientSetupVisibility"
+name = "sub_180D4F1B0"
 addr = 0xd4e1b0
-type = "long long"
 
 [header.args]

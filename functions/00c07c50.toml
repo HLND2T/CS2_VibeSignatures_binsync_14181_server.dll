@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:36.025954Z
+last_change = 2026-09-11T03:34:27.248931Z
 addr = 0xc07c50
 size = 0x51
-name = "IsBackgroundMap"
-type = "char"
+name = "sub_180C08C50"
 
 [header]
-name = "IsBackgroundMap"
+name = "sub_180C08C50"
 addr = 0xc07c50
-type = "char"
 
 [header.args]

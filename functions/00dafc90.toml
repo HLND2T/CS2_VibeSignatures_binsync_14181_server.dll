@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.906723Z
+last_change = 2026-09-11T03:34:27.249600Z
 addr = 0xdafc90
 size = 0x16e
-name = "PhysCollisionDust"
-type = "float *"
+name = "sub_180DB0C90"
 
 [header]
-name = "PhysCollisionDust"
+name = "sub_180DB0C90"
 addr = 0xdafc90
-type = "float *"
 
 [header.args]

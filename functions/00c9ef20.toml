@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.906328Z
+last_change = 2026-09-11T03:34:27.249166Z
 addr = 0xc9ef20
 size = 0x6b
-name = "CBaseEntity_OnRestore"
-type = "long long"
+name = "sub_180C9FF20"
 
 [header]
-name = "CBaseEntity_OnRestore"
+name = "sub_180C9FF20"
 addr = 0xc9ef20
-type = "long long"
 
 [header.args]

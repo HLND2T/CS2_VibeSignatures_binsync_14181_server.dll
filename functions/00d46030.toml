@@ -1,10 +1,10 @@
-last_change = 2026-09-10T18:38:12.906595Z
+last_change = 2026-09-11T03:34:27.249435Z
 addr = 0xd46030
 size = 0xd5
-name = "CSource2Server_OnStreamEntitiesFromFileCompleted"
+name = "sub_180D47030"
 
 [header]
-name = "CSource2Server_OnStreamEntitiesFromFileCompleted"
+name = "sub_180D47030"
 addr = 0xd46030
 
 [header.args]

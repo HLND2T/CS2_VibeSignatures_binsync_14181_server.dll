@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.905449Z
+last_change = 2026-09-11T03:34:27.248288Z
 addr = 0x9e96d0
 size = 0x1c7
-name = "CBasePlayerWeapon_Shoot_Secondary"
-type = "long long"
+name = "sub_1809EA6D0"
 
 [header]
-name = "CBasePlayerWeapon_Shoot_Secondary"
+name = "sub_1809EA6D0"
 addr = 0x9e96d0
-type = "long long"
 
 [header.args]

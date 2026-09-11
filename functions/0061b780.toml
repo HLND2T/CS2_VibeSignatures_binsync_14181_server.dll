@@ -1,10 +1,10 @@
-last_change = 2026-09-10T18:38:12.905337Z
+last_change = 2026-09-11T03:34:27.248174Z
 addr = 0x61b780
 size = 0x5
-name = "CBaseModelEntity_ScriptSetRenderAlpha"
+name = "sub_18061C780"
 
 [header]
-name = "CBaseModelEntity_ScriptSetRenderAlpha"
+name = "sub_18061C780"
 addr = 0x61b780
 
 [header.args]

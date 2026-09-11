@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:44.027513Z
+last_change = 2026-09-11T03:34:27.249937Z
 addr = 0x1253bd0
 size = 0xc7
-name = "CEntitySystem_InstallCreationWrapperCallbacks"
-type = "long long"
+name = "sub_181254BD0"
 
 [header]
-name = "CEntitySystem_InstallCreationWrapperCallbacks"
+name = "sub_181254BD0"
 addr = 0x1253bd0
-type = "long long"
 
 [header.args]

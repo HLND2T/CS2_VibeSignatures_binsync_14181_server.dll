@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.905480Z
+last_change = 2026-09-11T03:34:27.248319Z
 addr = 0xa510b0
 size = 0xc
-name = "CCSPlayerController_InventoryUpdateThink"
-type = "long long"
+name = "sub_180A520B0"
 
 [header]
-name = "CCSPlayerController_InventoryUpdateThink"
+name = "sub_180A520B0"
 addr = 0xa510b0
-type = "long long"
 
 [header.args]

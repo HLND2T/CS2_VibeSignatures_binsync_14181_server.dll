@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.906799Z
+last_change = 2026-09-11T03:34:27.249681Z
 addr = 0xe64870
 size = 0x1a3
-name = "CBaseEntity_EmitSound"
-type = "long long"
+name = "sub_180E65870"
 
 [header]
-name = "CBaseEntity_EmitSound"
+name = "sub_180E65870"
 addr = 0xe64870
-type = "long long"
 
 [header.args]

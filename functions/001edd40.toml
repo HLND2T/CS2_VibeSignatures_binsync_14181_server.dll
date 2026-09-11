@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.904750Z
+last_change = 2026-09-11T03:34:27.247539Z
 addr = 0x1edd40
 size = 0x719
-name = "CCSPlayerPawn_SprayPaint"
-type = "long long"
+name = "sub_1801EED40"
 
 [header]
-name = "CCSPlayerPawn_SprayPaint"
+name = "sub_1801EED40"
 addr = 0x1edd40
-type = "long long"
 
 [header.args]

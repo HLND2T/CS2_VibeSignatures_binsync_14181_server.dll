@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.904765Z
+last_change = 2026-09-11T03:34:27.247556Z
 addr = 0x25ee70
 size = 0x44
-name = "CCSPlayerPawnBase_OnSetDormant"
-type = "double"
+name = "sub_18025FE70"
 
 [header]
-name = "CCSPlayerPawnBase_OnSetDormant"
+name = "sub_18025FE70"
 addr = 0x25ee70
-type = "double"
 
 [header.args]

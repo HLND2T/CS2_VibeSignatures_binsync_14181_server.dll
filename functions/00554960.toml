@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.905078Z
+last_change = 2026-09-11T03:34:27.247900Z
 addr = 0x554960
 size = 0x229
-name = "CSpawnGroupMgrGameSystem_AllocateSpawnGroup"
-type = "void"
+name = "sub_180555960"
 
 [header]
-name = "CSpawnGroupMgrGameSystem_AllocateSpawnGroup"
+name = "sub_180555960"
 addr = 0x554960
-type = "void"
 
 [header.args]

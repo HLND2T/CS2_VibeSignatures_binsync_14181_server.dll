@@ -1,10 +1,10 @@
-last_change = 2026-09-10T18:38:12.906337Z
+last_change = 2026-09-11T03:34:27.249177Z
 addr = 0xca4c00
 size = 0x102
-name = "CBaseEntity_ScriptEmitSoundParams"
+name = "sub_180CA5C00"
 
 [header]
-name = "CBaseEntity_ScriptEmitSoundParams"
+name = "sub_180CA5C00"
 addr = 0xca4c00
 
 [header.args]

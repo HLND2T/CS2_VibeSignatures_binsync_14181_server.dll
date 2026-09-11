@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:42.615009Z
+last_change = 2026-09-11T03:34:27.249730Z
 addr = 0x123c4d0
 size = 0x47
-name = "CLoopModeRegistry_UnregisterLoopModes"
-type = "long long"
+name = "sub_18123D4D0"
 
 [header]
-name = "CLoopModeRegistry_UnregisterLoopModes"
+name = "sub_18123D4D0"
 addr = 0x123c4d0
-type = "long long"
 
 [header.args]

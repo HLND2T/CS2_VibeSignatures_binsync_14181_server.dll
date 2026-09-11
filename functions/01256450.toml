@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.907061Z
+last_change = 2026-09-11T03:34:27.249984Z
 addr = 0x1256450
 size = 0x7a
-name = "CEntitySystem_ReleaseKeyValues"
-type = "void"
+name = "sub_181257450"
 
 [header]
-name = "CEntitySystem_ReleaseKeyValues"
+name = "sub_181257450"
 addr = 0x1256450
-type = "void"
 
 [header.args]

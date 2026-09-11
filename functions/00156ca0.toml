@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.904551Z
+last_change = 2026-09-11T03:34:27.247342Z
 addr = 0x156ca0
 size = 0xb
-name = "CBaseEntity_FullEdictChanged"
-type = "bool"
+name = "sub_180157CA0"
 
 [header]
-name = "CBaseEntity_FullEdictChanged"
+name = "sub_180157CA0"
 addr = 0x156ca0
-type = "bool"
 
 [header.args]

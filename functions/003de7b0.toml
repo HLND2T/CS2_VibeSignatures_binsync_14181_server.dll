@@ -1,10 +1,10 @@
-last_change = 2026-09-10T18:38:12.904985Z
+last_change = 2026-09-11T03:34:27.247798Z
 addr = 0x3de7b0
 size = 0xd4
-name = "CBaseEntity_Script_SetContextThink"
+name = "sub_1803DF7B0"
 
 [header]
-name = "CBaseEntity_Script_SetContextThink"
+name = "sub_1803DF7B0"
 addr = 0x3de7b0
 
 [header.args]

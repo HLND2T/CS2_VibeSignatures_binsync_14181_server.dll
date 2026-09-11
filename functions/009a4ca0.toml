@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.905439Z
+last_change = 2026-09-11T03:34:27.248277Z
 addr = 0x9a4ca0
 size = 0x41
-name = "SV_Kill_SmokeGrenade_CommandHandler"
-type = "long long"
+name = "sub_1809A5CA0"
 
 [header]
-name = "SV_Kill_SmokeGrenade_CommandHandler"
+name = "sub_1809A5CA0"
 addr = 0x9a4ca0
-type = "long long"
 
 [header.args]

@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.907133Z
+last_change = 2026-09-11T03:34:27.250050Z
 addr = 0x126c4b0
 size = 0x11a
-name = "CEntityInstance_Precache"
-type = "void"
+name = "sub_18126D4B0"
 
 [header]
-name = "CEntityInstance_Precache"
+name = "sub_18126D4B0"
 addr = 0x126c4b0
-type = "void"
 
 [header.args]

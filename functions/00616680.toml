@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.905174Z
+last_change = 2026-09-11T03:34:27.248002Z
 addr = 0x616680
 size = 0x4e2
-name = "CNetworkUtlVectorEmbedded_NetworkStateChanged_m_vecRenderAttributes"
-type = "void"
+name = "sub_180617680"
 
 [header]
-name = "CNetworkUtlVectorEmbedded_NetworkStateChanged_m_vecRenderAttributes"
+name = "sub_180617680"
 addr = 0x616680
-type = "void"
 
 [header.args]

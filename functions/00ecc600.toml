@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.906828Z
+last_change = 2026-09-11T03:34:27.249708Z
 addr = 0xecc600
 size = 0x550
-name = "CTriggerPush_Touch"
-type = "char"
+name = "sub_180ECD600"
 
 [header]
-name = "CTriggerPush_Touch"
+name = "sub_180ECD600"
 addr = 0xecc600
-type = "char"
 
 [header.args]

@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.905934Z
+last_change = 2026-09-11T03:34:27.248801Z
 addr = 0xbc9c90
 size = 0x3
-name = "CEntitySystem_OnRemoveEntity"
-type = "void"
+name = "nullsub_3090"
 
 [header]
-name = "CEntitySystem_OnRemoveEntity"
+name = "nullsub_3090"
 addr = 0xbc9c90
-type = "void"
 
 [header.args]

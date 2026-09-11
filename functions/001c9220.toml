@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.904706Z
+last_change = 2026-09-11T03:34:27.247494Z
 addr = 0x1c9220
 size = 0x15a
-name = "ClientPutInServer"
-type = "long long"
+name = "sub_1801CA220"
 
 [header]
-name = "ClientPutInServer"
+name = "sub_1801CA220"
 addr = 0x1c9220
-type = "long long"
 
 [header.args]

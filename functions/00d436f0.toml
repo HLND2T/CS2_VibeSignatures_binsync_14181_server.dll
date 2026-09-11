@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.906522Z
+last_change = 2026-09-11T03:34:27.249366Z
 addr = 0xd436f0
 size = 0xf1
-name = "CSource2Server_WriteSignonMessages"
-type = "long long"
+name = "sub_180D446F0"
 
 [header]
-name = "CSource2Server_WriteSignonMessages"
+name = "sub_180D446F0"
 addr = 0xd436f0
-type = "long long"
 
 [header.args]

@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.906756Z
+last_change = 2026-09-11T03:34:27.249636Z
 addr = 0xdd3be0
 size = 0x1d0
-name = "CPointTeleport_Activate"
-type = "long long"
+name = "sub_180DD4BE0"
 
 [header]
-name = "CPointTeleport_Activate"
+name = "sub_180DD4BE0"
 addr = 0xdd3be0
-type = "long long"
 
 [header.args]

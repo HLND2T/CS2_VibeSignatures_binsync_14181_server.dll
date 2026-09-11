@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.906751Z
+last_change = 2026-09-11T03:34:27.249630Z
 addr = 0xdd3100
 size = 0x38
-name = "CPhysExplosion_Activate"
-type = "long long"
+name = "sub_180DD4100"
 
 [header]
-name = "CPhysExplosion_Activate"
+name = "sub_180DD4100"
 addr = 0xdd3100
-type = "long long"
 
 [header.args]

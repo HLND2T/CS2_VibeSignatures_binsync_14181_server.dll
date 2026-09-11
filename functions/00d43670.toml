@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.906518Z
+last_change = 2026-09-11T03:34:27.249361Z
 addr = 0xd43670
 size = 0x78
-name = "CSource2Server_GameCreateNetworkStringTables"
-type = "long long"
+name = "sub_180D44670"
 
 [header]
-name = "CSource2Server_GameCreateNetworkStringTables"
+name = "sub_180D44670"
 addr = 0xd43670
-type = "long long"
 
 [header.args]

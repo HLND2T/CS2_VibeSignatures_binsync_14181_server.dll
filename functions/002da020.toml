@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.904849Z
+last_change = 2026-09-11T03:34:27.247636Z
 addr = 0x2da020
 size = 0x1a3
-name = "CCSBot_PrintIfWatched"
-type = "void"
+name = "sub_1802DB020"
 
 [header]
-name = "CCSBot_PrintIfWatched"
+name = "sub_1802DB020"
 addr = 0x2da020
-type = "void"
 
 [header.args]

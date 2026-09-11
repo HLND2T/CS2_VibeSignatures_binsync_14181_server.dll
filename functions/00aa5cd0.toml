@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.905578Z
+last_change = 2026-09-11T03:34:27.248409Z
 addr = 0xaa5cd0
 size = 0x29b
-name = "CCSPlayer_MovementServices_WalkMove"
-type = "void"
+name = "sub_180AA6CD0"
 
 [header]
-name = "CCSPlayer_MovementServices_WalkMove"
+name = "sub_180AA6CD0"
 addr = 0xaa5cd0
-type = "void"
 
 [header.args]

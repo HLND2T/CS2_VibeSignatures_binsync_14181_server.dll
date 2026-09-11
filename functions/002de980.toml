@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.904854Z
+last_change = 2026-09-11T03:34:27.247641Z
 addr = 0x2de980
 size = 0xad
-name = "CCSBot_SetDisposition"
-type = "void"
+name = "sub_1802DF980"
 
 [header]
-name = "CCSBot_SetDisposition"
+name = "sub_1802DF980"
 addr = 0x2de980
-type = "void"
 
 [header.args]

@@ -1,10 +1,10 @@
-last_change = 2026-09-10T18:38:12.906429Z
+last_change = 2026-09-11T03:34:27.249275Z
 addr = 0xca5970
 size = 0x151
-name = "CBaseEntity_Script_TakeDamage"
+name = "sub_180CA6970"
 
 [header]
-name = "CBaseEntity_Script_TakeDamage"
+name = "sub_180CA6970"
 addr = 0xca5970
 
 [header.args]

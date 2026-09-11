@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:25.020634Z
+last_change = 2026-09-11T03:34:39.335196Z
 addr = 0x26ac70
 size = 0x2f5
-name = "ScriptBinding_CBaseModelEntity_SetModel"
-type = "void"
+name = "sub_18026BC70"
 
 [header]
-name = "ScriptBinding_CBaseModelEntity_SetModel"
+name = "sub_18026BC70"
 addr = 0x26ac70
-type = "void"
 
 [header.args]

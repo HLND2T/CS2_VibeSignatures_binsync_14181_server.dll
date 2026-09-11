@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.906226Z
+last_change = 2026-09-11T03:34:27.249061Z
 addr = 0xc68b40
 size = 0x48
-name = "UTIL_PlayerSlotToPlayerPawn"
-type = "long long"
+name = "sub_180C69B40"
 
 [header]
-name = "UTIL_PlayerSlotToPlayerPawn"
+name = "sub_180C69B40"
 addr = 0xc68b40
-type = "long long"
 
 [header.args]

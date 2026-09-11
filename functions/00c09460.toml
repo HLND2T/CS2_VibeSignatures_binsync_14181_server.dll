@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.906102Z
+last_change = 2026-09-11T03:34:27.248941Z
 addr = 0xc09460
 size = 0x162
-name = "CLoopModeGame_ShutdownServer"
-type = "void"
+name = "sub_180C0A460"
 
 [header]
-name = "CLoopModeGame_ShutdownServer"
+name = "sub_180C0A460"
 addr = 0xc09460
-type = "void"
 
 [header.args]

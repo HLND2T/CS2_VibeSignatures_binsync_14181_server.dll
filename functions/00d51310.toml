@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.906667Z
+last_change = 2026-09-11T03:34:27.249536Z
 addr = 0xd51310
 size = 0x93
-name = "CGameRules_GetSaveGameComment"
-type = "CUtlString *"
+name = "sub_180D52310"
 
 [header]
-name = "CGameRules_GetSaveGameComment"
+name = "sub_180D52310"
 addr = 0xd51310
-type = "CUtlString *"
 
 [header.args]

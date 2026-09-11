@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.905919Z
+last_change = 2026-09-11T03:34:27.248786Z
 addr = 0xbbc3a0
 size = 0x53
-name = "CGameEventManager_Init"
-type = "char"
+name = "sub_180BBD3A0"
 
 [header]
-name = "CGameEventManager_Init"
+name = "sub_180BBD3A0"
 addr = 0xbbc3a0
-type = "char"
 
 [header.args]

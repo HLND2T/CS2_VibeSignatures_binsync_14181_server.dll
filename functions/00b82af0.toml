@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:38:12.905812Z
+last_change = 2026-09-11T03:34:27.248676Z
 addr = 0xb82af0
 size = 0x153
-name = "CEntitySaveRestoreBlockHandler_Save"
-type = "char *"
+name = "sub_180B83AF0"
 
 [header]
-name = "CEntitySaveRestoreBlockHandler_Save"
+name = "sub_180B83AF0"
 addr = 0xb82af0
-type = "char *"
 
 [header.args]
